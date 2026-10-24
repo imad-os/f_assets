@@ -4,6 +4,7 @@
     "event": "INTRO",
     "phrase": "[excited] أهلاً وسهلاً بكم جميعاً ومرحباً بكم! الفريقان على أرضية الميدان، والمباراة على وشك الانطلاق!",
     "audio_url": "audio/ar/INTRO_1.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/INTRO_1.mp3",
     "wav_url": "audio/ar/INTRO_1.wav"
   },
   {
@@ -11,6 +12,7 @@
     "event": "INTRO",
     "phrase": "[cheerful] وانطلقت المباراة! الجماهير تهتف بحرارة في المدرجات، ويا لها من أجواء خيالية الليلة!",
     "audio_url": "audio/ar/INTRO_2.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/INTRO_2.mp3",
     "wav_url": "audio/ar/INTRO_2.wav"
   },
   {
@@ -18,6 +20,7 @@
     "event": "INTRO",
     "phrase": "[energetic] هيا بنا! الحكم يطلق صافرته، والنزال يبدأ الآن!",
     "audio_url": "audio/ar/INTRO_3.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/INTRO_3.mp3",
     "wav_url": "audio/ar/INTRO_3.wav"
   },
   {
@@ -25,6 +28,7 @@
     "event": "INTRO",
     "phrase": "[excited] ضربة البداية! لنرَ ماذا يخبئ لنا الفريقان اليوم في هذه القمة!",
     "audio_url": "audio/ar/INTRO_4.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/INTRO_4.mp3",
     "wav_url": "audio/ar/INTRO_4.wav"
   },
   {
@@ -32,6 +36,7 @@
     "event": "INTRO",
     "phrase": "[enthusiastic] مرحباً بكم في الملعب يا عشاق المستديرة! نحن أمام قمة كروية كبرى!",
     "audio_url": "audio/ar/INTRO_5.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/INTRO_5.mp3",
     "wav_url": "audio/ar/INTRO_5.wav"
   },
   {
@@ -39,6 +44,7 @@
     "event": "GOAL",
     "phrase": "[shouting] جوووووول!!! [excited] يا لها من إنهاء رائع! خيالي، غير معقول على الإطلاق!",
     "audio_url": "audio/ar/GOAL_1.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/GOAL_1.mp3",
     "wav_url": "audio/ar/GOAL_1.wav"
   },
   {
@@ -46,6 +52,7 @@
     "event": "GOAL",
     "phrase": "[screaming] يا رباه، جووووول! [laughs] أوه، هذا لا يُصدَّق! هدف غاية في الروعة والجمال!",
     "audio_url": "audio/ar/GOAL_2.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/GOAL_2.mp3",
     "wav_url": "audio/ar/GOAL_2.wav"
   },
   {
@@ -53,6 +60,7 @@
     "event": "GOAL",
     "phrase": "[shouting] في الشباك! في الشباك! [excited] الشباك تهتز بعنف! يا لها من قذيفة صاروخية!",
     "audio_url": "audio/ar/GOAL_3.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/GOAL_3.mp3",
     "wav_url": "audio/ar/GOAL_3.wav"
   },
   {
@@ -60,6 +68,7 @@
     "event": "GOAL",
     "phrase": "[screaming] جوووول، جوووووول! [breathless] منتهى الإبداع والرقي! المدرجات تشتعل جنوناً!",
     "audio_url": "audio/ar/GOAL_4.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/GOAL_4.mp3",
     "wav_url": "audio/ar/GOAL_4.wav"
   },
   {
@@ -67,6 +76,7 @@
     "event": "GOAL",
     "phrase": "[shouting] يضعها في الشباك!!! [gasp] يا لها من لحظة جنونية! يا له من هدف تاريخي!",
     "audio_url": "audio/ar/GOAL_5.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/GOAL_5.mp3",
     "wav_url": "audio/ar/GOAL_5.wav"
   },
   {
@@ -74,6 +84,7 @@
     "event": "FOUL",
     "phrase": "[serious] الحكم يطلق صافرته معلناً عن مخالفة.",
     "audio_url": "audio/ar/FOUL_1.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/FOUL_1.mp3",
     "wav_url": "audio/ar/FOUL_1.wav"
   },
   {
@@ -81,6 +92,7 @@
     "event": "FOUL",
     "phrase": "[annoyed] أووه، تدخل عنيف وقاسٍ للغاية! الحكم يوقف اللعب مباشرة.",
     "audio_url": "audio/ar/FOUL_2.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/FOUL_2.mp3",
     "wav_url": "audio/ar/FOUL_2.wav"
   },
   {
@@ -88,6 +100,7 @@
     "event": "FOUL",
     "phrase": "[calm] خطأ واضح وصريح هنا، وركلة حرة محتسبة.",
     "audio_url": "audio/ar/FOUL_3.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/FOUL_3.mp3",
     "wav_url": "audio/ar/FOUL_3.wav"
   },
   {
@@ -95,6 +108,7 @@
     "event": "FOUL",
     "phrase": "[surprised] أوتش! تدخل يبدو مؤلماً جداً. الحكم شاهد كل شيء ويتدخل.",
     "audio_url": "audio/ar/FOUL_4.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/FOUL_4.mp3",
     "wav_url": "audio/ar/FOUL_4.wav"
   },
   {
@@ -102,6 +116,7 @@
     "event": "FOUL",
     "phrase": "[disapproving] تدخل متأخر بتهور! هذا خطأ صريح دون أدنى شك.",
     "audio_url": "audio/ar/FOUL_5.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/FOUL_5.mp3",
     "wav_url": "audio/ar/FOUL_5.wav"
   },
   {
@@ -109,6 +124,7 @@
     "event": "PENALTY",
     "phrase": "[shouting] ضربة جزاء!!! [gasp] الحكم يشير إلى علامة الجزاء!",
     "audio_url": "audio/ar/PENALTY_1.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/PENALTY_1.mp3",
     "wav_url": "audio/ar/PENALTY_1.wav"
   },
   {
@@ -116,6 +132,7 @@
     "event": "PENALTY",
     "phrase": "[tense] لحظة حاسمة هنا. ركلة جزاء! الملعب بأكمله يحبس أنفاسه.",
     "audio_url": "audio/ar/PENALTY_2.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/PENALTY_2.mp3",
     "wav_url": "audio/ar/PENALTY_2.wav"
   },
   {
@@ -123,6 +140,7 @@
     "event": "PENALTY",
     "phrase": "[excited] يسقط داخل منطقة العمليات! إنها ضربة جزاء!",
     "audio_url": "audio/ar/PENALTY_3.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/PENALTY_3.mp3",
     "wav_url": "audio/ar/PENALTY_3.wav"
   },
   {
@@ -130,6 +148,7 @@
     "event": "PENALTY",
     "phrase": "[whispering] صمت مطبق في أرجاء الملعب... المهاجم يستعد للتنفيذ...",
     "audio_url": "audio/ar/PENALTY_4.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/PENALTY_4.mp3",
     "wav_url": "audio/ar/PENALTY_4.wav"
   },
   {
@@ -137,6 +156,7 @@
     "event": "PENALTY",
     "phrase": "[dramatic] الحكم لا يتردد أبداً! ركلة جزاء! هذا القرار قد يغير كل الموازين!",
     "audio_url": "audio/ar/PENALTY_5.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/PENALTY_5.mp3",
     "wav_url": "audio/ar/PENALTY_5.wav"
   },
   {
@@ -144,6 +164,7 @@
     "event": "CORNER",
     "phrase": "[excited] ركلة ركنية! فرصة مواتية للغاية لإرسال الكرة داخل المنطقة.",
     "audio_url": "audio/ar/CORNER_1.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/CORNER_1.mp3",
     "wav_url": "audio/ar/CORNER_1.wav"
   },
   {
@@ -151,6 +172,7 @@
     "event": "CORNER",
     "phrase": "[energetic] المدافع يبعد الكرة إلى ما وراء خط المرمى، وركنية جديدة.",
     "audio_url": "audio/ar/CORNER_2.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/CORNER_2.mp3",
     "wav_url": "audio/ar/CORNER_2.wav"
   },
   {
@@ -158,6 +180,7 @@
     "event": "CORNER",
     "phrase": "[focused] تنفيذ الركنية يقترب... ازدحام خانق داخل منطقة الجزاء!",
     "audio_url": "audio/ar/CORNER_3.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/CORNER_3.mp3",
     "wav_url": "audio/ar/CORNER_3.wav"
   },
   {
@@ -165,6 +188,7 @@
     "event": "CORNER",
     "phrase": "[intense] ركنية في منتهى الخطورة! الحذر كل الحذر من ضربة رأس مباغتة!",
     "audio_url": "audio/ar/CORNER_4.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/CORNER_4.mp3",
     "wav_url": "audio/ar/CORNER_4.wav"
   },
   {
@@ -172,6 +196,7 @@
     "event": "CORNER",
     "phrase": "[calm] ركنية أخرى لصالح الفريق المهاجم. لنر كيف ستلعب هذه المحاولة.",
     "audio_url": "audio/ar/CORNER_5.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/CORNER_5.mp3",
     "wav_url": "audio/ar/CORNER_5.wav"
   },
   {
@@ -179,6 +204,7 @@
     "event": "SAVE",
     "phrase": "[shouting] يا له من تصدٍ إعجازي!!! [gasp] لقطة خيالية من حارس المرمى!",
     "audio_url": "audio/ar/SAVE_1.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/SAVE_1.mp3",
     "wav_url": "audio/ar/SAVE_1.wav"
   },
   {
@@ -186,6 +212,7 @@
     "event": "SAVE",
     "phrase": "[amazed] يلمسها بأطراف أصابعه! سرعة رد فعل لا تصدق!",
     "audio_url": "audio/ar/SAVE_2.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/SAVE_2.mp3",
     "wav_url": "audio/ar/SAVE_2.wav"
   },
   {
@@ -193,6 +220,7 @@
     "event": "SAVE",
     "phrase": "[excited] حارس المرمى يتحول إلى جدار عازل الليلة! تصدٍ في قمة الروعة!",
     "audio_url": "audio/ar/SAVE_3.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/SAVE_3.mp3",
     "wav_url": "audio/ar/SAVE_3.wav"
   },
   {
@@ -200,6 +228,7 @@
     "event": "SAVE",
     "phrase": "[screaming] لا، مستحيل! يمنعها من الشباك! [laughs] كيف أخرج هذه الكرة بالله عليكم؟!",
     "audio_url": "audio/ar/SAVE_4.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/SAVE_4.mp3",
     "wav_url": "audio/ar/SAVE_4.wav"
   },
   {
@@ -207,6 +236,7 @@
     "event": "SAVE",
     "phrase": "[breathless] يا إلهي، أي إنقاذ هذا! الحارس ينتشل فريقه من هدف محقق!",
     "audio_url": "audio/ar/SAVE_5.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/SAVE_5.mp3",
     "wav_url": "audio/ar/SAVE_5.wav"
   },
   {
@@ -214,6 +244,7 @@
     "event": "LONGPASS",
     "phrase": "[excited] يا إلهي! يا لها من تمريرة! مزقت الدفاع تمزيقاً!",
     "audio_url": "audio/ar/LONGPASS_1.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/LONGPASS_1.mp3",
     "wav_url": "audio/ar/LONGPASS_1.wav"
   },
   {
@@ -221,6 +252,7 @@
     "event": "LONGPASS",
     "phrase": "[amazed] كرة طويلة خيالية! يا لها من رؤية ثاقبة!",
     "audio_url": "audio/ar/LONGPASS_2.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/LONGPASS_2.mp3",
     "wav_url": "audio/ar/LONGPASS_2.wav"
   },
   {
@@ -228,6 +260,7 @@
     "event": "LONGPASS",
     "phrase": "[energetic] تمريرة بينية! لقد كسر خط الدفاع!",
     "audio_url": "audio/ar/LONGPASS_3.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/LONGPASS_3.mp3",
     "wav_url": "audio/ar/LONGPASS_3.wav"
   },
   {
@@ -235,6 +268,7 @@
     "event": "LONGPASS",
     "phrase": "[impressed] كرة مقشرة! جودة عالية جداً!",
     "audio_url": "audio/ar/LONGPASS_4.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/LONGPASS_4.mp3",
     "wav_url": "audio/ar/LONGPASS_4.wav"
   },
   {
@@ -242,6 +276,7 @@
     "event": "LONGPASS",
     "phrase": "[excited] تمريرة ساقطة مثالية! يا لها من فرصة ذهبية!",
     "audio_url": "audio/ar/LONGPASS_5.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/LONGPASS_5.mp3",
     "wav_url": "audio/ar/LONGPASS_5.wav"
   },
   {
@@ -249,6 +284,7 @@
     "event": "TACKLE",
     "phrase": "[excited] يا له من تدخل! توقيت مثالي!",
     "audio_url": "audio/ar/TACKLE_1.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/TACKLE_1.mp3",
     "wav_url": "audio/ar/TACKLE_1.wav"
   },
   {
@@ -256,6 +292,7 @@
     "event": "TACKLE",
     "phrase": "[impressed] دفاع عبقري! افتكاك نظيف للكرة!",
     "audio_url": "audio/ar/TACKLE_2.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/TACKLE_2.mp3",
     "wav_url": "audio/ar/TACKLE_2.wav"
   },
   {
@@ -263,6 +300,7 @@
     "event": "TACKLE",
     "phrase": "[energetic] تدخل قوي، والخطر قد زال!",
     "audio_url": "audio/ar/TACKLE_3.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/TACKLE_3.mp3",
     "wav_url": "audio/ar/TACKLE_3.wav"
   },
   {
@@ -270,6 +308,7 @@
     "event": "TACKLE",
     "phrase": "[amazed] يا للروعة! تدخل قوي وتوقيت سليم!",
     "audio_url": "audio/ar/TACKLE_4.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/TACKLE_4.mp3",
     "wav_url": "audio/ar/TACKLE_4.wav"
   },
   {
@@ -277,6 +316,7 @@
     "event": "TACKLE",
     "phrase": "[cheerful] نظيفة، حادة، وفعالة. تدخل ممتاز!",
     "audio_url": "audio/ar/TACKLE_5.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/TACKLE_5.mp3",
     "wav_url": "audio/ar/TACKLE_5.wav"
   },
   {
@@ -284,6 +324,7 @@
     "event": "COUNTER",
     "phrase": "[shouting] هجمة مرتدة! [excited] انطلاقة صاروخية نحو المرمى!",
     "audio_url": "audio/ar/COUNTER_1.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/COUNTER_1.mp3",
     "wav_url": "audio/ar/COUNTER_1.wav"
   },
   {
@@ -291,6 +332,7 @@
     "event": "COUNTER",
     "phrase": "[breathless] هجمة سريعة! يا للسرعة! الوضع خطير جداً!",
     "audio_url": "audio/ar/COUNTER_2.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/COUNTER_2.mp3",
     "wav_url": "audio/ar/COUNTER_2.wav"
   },
   {
@@ -298,6 +340,7 @@
     "event": "COUNTER",
     "phrase": "[intense] يندفعون بسرعة البرق! هل سينهونها بهدف؟",
     "audio_url": "audio/ar/COUNTER_3.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/COUNTER_3.mp3",
     "wav_url": "audio/ar/COUNTER_3.wav"
   },
   {
@@ -305,6 +348,7 @@
     "event": "COUNTER",
     "phrase": "[urgent] مرتدة سريعة! زيادة عددية! الخطر قادم!",
     "audio_url": "audio/ar/COUNTER_4.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/COUNTER_4.mp3",
     "wav_url": "audio/ar/COUNTER_4.wav"
   },
   {
@@ -312,6 +356,7 @@
     "event": "COUNTER",
     "phrase": "[excited] مرتدة خاطفة! الدفاع في مهب الريح!",
     "audio_url": "audio/ar/COUNTER_5.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/COUNTER_5.mp3",
     "wav_url": "audio/ar/COUNTER_5.wav"
   },
   {
@@ -319,6 +364,7 @@
     "event": "ATTACK",
     "phrase": "[excited] هجمة خطيرة! والضغط يزداد في هذه اللحظات!",
     "audio_url": "audio/ar/ATTACK_1.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/ATTACK_1.mp3",
     "wav_url": "audio/ar/ATTACK_1.wav"
   },
   {
@@ -326,6 +372,7 @@
     "event": "ATTACK",
     "phrase": "[energetic] يتقدمون إلى الأمام! فرصة قادمة لا محالة!",
     "audio_url": "audio/ar/ATTACK_2.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/ATTACK_2.mp3",
     "wav_url": "audio/ar/ATTACK_2.wav"
   },
   {
@@ -333,6 +380,7 @@
     "event": "ATTACK",
     "phrase": "[intense] تحركات رائعة في الثلث الأخير! شيء ما سيحدث هنا!",
     "audio_url": "audio/ar/ATTACK_3.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/ATTACK_3.mp3",
     "wav_url": "audio/ar/ATTACK_3.wav"
   },
   {
@@ -340,6 +388,7 @@
     "event": "ATTACK",
     "phrase": "[focused] الهجمة متواصلة، والبحث جارٍ عن الثغرة!",
     "audio_url": "audio/ar/ATTACK_4.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/ATTACK_4.mp3",
     "wav_url": "audio/ar/ATTACK_4.wav"
   },
   {
@@ -347,6 +396,7 @@
     "event": "ATTACK",
     "phrase": "[shouting] ها هم قادمون! خطر حقيقي يهدد المرمى!",
     "audio_url": "audio/ar/ATTACK_5.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/ATTACK_5.mp3",
     "wav_url": "audio/ar/ATTACK_5.wav"
   },
   {
@@ -354,6 +404,7 @@
     "event": "OFFSIDE",
     "phrase": "[serious] الراية مرفوعة. هناك تسلل.",
     "audio_url": "audio/ar/OFFSIDE_1.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/OFFSIDE_1.mp3",
     "wav_url": "audio/ar/OFFSIDE_1.wav"
   },
   {
@@ -361,6 +412,7 @@
     "event": "OFFSIDE",
     "phrase": "[disappointed] يا للأسف، حكم الراية يرفع الراية. تسلل!",
     "audio_url": "audio/ar/OFFSIDE_2.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/OFFSIDE_2.mp3",
     "wav_url": "audio/ar/OFFSIDE_2.wav"
   },
   {
@@ -368,6 +420,7 @@
     "event": "OFFSIDE",
     "phrase": "[calm] وقع في مصيدة التسلل. تتوقف الهجمة.",
     "audio_url": "audio/ar/OFFSIDE_3.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/OFFSIDE_3.mp3",
     "wav_url": "audio/ar/OFFSIDE_3.wav"
   },
   {
@@ -375,6 +428,7 @@
     "event": "OFFSIDE",
     "phrase": "[groans] آخ، كان متقدماً بخطوة واحدة فقط. تسلل.",
     "audio_url": "audio/ar/OFFSIDE_4.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/OFFSIDE_4.mp3",
     "wav_url": "audio/ar/OFFSIDE_4.wav"
   },
   {
@@ -382,6 +436,7 @@
     "event": "OFFSIDE",
     "phrase": "[matter-of-fact] الراية ترتفع. ركلة حرة للدفاع.",
     "audio_url": "audio/ar/OFFSIDE_5.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/OFFSIDE_5.mp3",
     "wav_url": "audio/ar/OFFSIDE_5.wav"
   },
   {
@@ -389,6 +444,7 @@
     "event": "HALFTIME",
     "phrase": "[calm] صافرة الحكم تُعلن نهاية الشوط الأول.",
     "audio_url": "audio/ar/HALFTIME_1.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/HALFTIME_1.mp3",
     "wav_url": "audio/ar/HALFTIME_1.wav"
   },
   {
@@ -396,6 +452,7 @@
     "event": "HALFTIME",
     "phrase": "[relaxed] وهذه نهاية الشوط الأول. الكثير من العمل ينتظر المدربين.",
     "audio_url": "audio/ar/HALFTIME_2.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/HALFTIME_2.mp3",
     "wav_url": "audio/ar/HALFTIME_2.wav"
   },
   {
@@ -403,6 +460,7 @@
     "event": "HALFTIME",
     "phrase": "[cheerful] انتهى الشوط الأول. حان وقت استراحة قصيرة!",
     "audio_url": "audio/ar/HALFTIME_3.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/HALFTIME_3.mp3",
     "wav_url": "audio/ar/HALFTIME_3.wav"
   },
   {
@@ -410,6 +468,7 @@
     "event": "HALFTIME",
     "phrase": "[thoughtful] يتوجه الفريقان إلى غرف الملابس. ترى ماذا يخبئ لنا الشوط الثاني؟",
     "audio_url": "audio/ar/HALFTIME_4.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/HALFTIME_4.mp3",
     "wav_url": "audio/ar/HALFTIME_4.wav"
   },
   {
@@ -417,6 +476,7 @@
     "event": "HALFTIME",
     "phrase": "[energetic] نهاية الشوط الأول! يا لها من خمس وأربعين دقيقة مثيرة!",
     "audio_url": "audio/ar/HALFTIME_5.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/HALFTIME_5.mp3",
     "wav_url": "audio/ar/HALFTIME_5.wav"
   },
   {
@@ -424,6 +484,7 @@
     "event": "FULLTIME",
     "phrase": "[excited] صافرة النهاية! انتهت المباراة!",
     "audio_url": "audio/ar/FULLTIME_1.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/FULLTIME_1.mp3",
     "wav_url": "audio/ar/FULLTIME_1.wav"
   },
   {
@@ -431,6 +492,7 @@
     "event": "FULLTIME",
     "phrase": "[calm] نهاية المباراة. شكراً لكم على حسن المتابعة.",
     "audio_url": "audio/ar/FULLTIME_2.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/FULLTIME_2.mp3",
     "wav_url": "audio/ar/FULLTIME_2.wav"
   },
   {
@@ -438,6 +500,7 @@
     "event": "FULLTIME",
     "phrase": "[energetic] انتهى كل شيء! يا لها من قمة كروية عشناها الليلة!",
     "audio_url": "audio/ar/FULLTIME_3.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/FULLTIME_3.mp3",
     "wav_url": "audio/ar/FULLTIME_3.wav"
   },
   {
@@ -445,6 +508,7 @@
     "event": "FULLTIME",
     "phrase": "[emotional] الحكم يطلق صافرة النهاية. يا له من أداء بطولي وتاريخي من الفريقين!",
     "audio_url": "audio/ar/FULLTIME_4.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/FULLTIME_4.mp3",
     "wav_url": "audio/ar/FULLTIME_4.wav"
   },
   {
@@ -452,6 +516,7 @@
     "event": "FULLTIME",
     "phrase": "[cheerful] وهذا كل شيء! صافرة النهاية تعلن ختام اللقاء في هذا الملعب!",
     "audio_url": "audio/ar/FULLTIME_5.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/FULLTIME_5.mp3",
     "wav_url": "audio/ar/FULLTIME_5.wav"
   },
   {
@@ -459,6 +524,7 @@
     "event": "HOMEWIN",
     "phrase": "[shouting] الفوز لأصحاب الأرض! [excited] الجماهير تحتفل بكل جنون!",
     "audio_url": "audio/ar/HOMEWIN_1.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/HOMEWIN_1.mp3",
     "wav_url": "audio/ar/HOMEWIN_1.wav"
   },
   {
@@ -466,6 +532,7 @@
     "event": "HOMEWIN",
     "phrase": "[cheerful] انتصار رائع ومستحق في الديار! المدرجات تهتز فرحاً!",
     "audio_url": "audio/ar/HOMEWIN_2.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/HOMEWIN_2.mp3",
     "wav_url": "audio/ar/HOMEWIN_2.wav"
   },
   {
@@ -473,6 +540,7 @@
     "event": "HOMEWIN",
     "phrase": "[excited] أصحاب الأرض يحسمونها! يا لها من ليلة لا تُنسى للعشاق والأنصار!",
     "audio_url": "audio/ar/HOMEWIN_3.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/HOMEWIN_3.mp3",
     "wav_url": "audio/ar/HOMEWIN_3.wav"
   },
   {
@@ -480,6 +548,7 @@
     "event": "HOMEWIN",
     "phrase": "[emotional] انتصار أصحاب الدار! لقد قدموا أرواحهم وكل ما يملكون من أجل الجماهير!",
     "audio_url": "audio/ar/HOMEWIN_4.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/HOMEWIN_4.mp3",
     "wav_url": "audio/ar/HOMEWIN_4.wav"
   },
   {
@@ -487,6 +556,7 @@
     "event": "HOMEWIN",
     "phrase": "[energetic] ثلاث نقاط ثمينة لأصحاب الأرض! أداء كروي مبهر واستعراضي!",
     "audio_url": "audio/ar/HOMEWIN_5.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/HOMEWIN_5.mp3",
     "wav_url": "audio/ar/HOMEWIN_5.wav"
   },
   {
@@ -494,6 +564,7 @@
     "event": "AWAYWIN",
     "phrase": "[excited] الضيوف يخطفون الفوز! نتيجة مذهلة خارج القواعد!",
     "audio_url": "audio/ar/AWAYWIN_1.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/AWAYWIN_1.mp3",
     "wav_url": "audio/ar/AWAYWIN_1.wav"
   },
   {
@@ -501,6 +572,7 @@
     "event": "AWAYWIN",
     "phrase": "[impressed] انتصار خارج الديار! لقد أسكتوا الملعب بأكمله الليلة!",
     "audio_url": "audio/ar/AWAYWIN_2.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/AWAYWIN_2.mp3",
     "wav_url": "audio/ar/AWAYWIN_2.wav"
   },
   {
@@ -508,6 +580,7 @@
     "event": "AWAYWIN",
     "phrase": "[shouting] انتصار مدوٍ للضيوف! يا له من أداء بطولي وشجاع!",
     "audio_url": "audio/ar/AWAYWIN_3.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/AWAYWIN_3.mp3",
     "wav_url": "audio/ar/AWAYWIN_3.wav"
   },
   {
@@ -515,6 +588,7 @@
     "event": "AWAYWIN",
     "phrase": "[cheerful] الجماهير المسافرة تحتفل بجنون! فوز عظيم خارج الديار!",
     "audio_url": "audio/ar/AWAYWIN_4.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/AWAYWIN_4.mp3",
     "wav_url": "audio/ar/AWAYWIN_4.wav"
   },
   {
@@ -522,6 +596,7 @@
     "event": "AWAYWIN",
     "phrase": "[energetic] ثلاث نقاط من خارج الميدان! انتصار رائع ومستحق للضيوف!",
     "audio_url": "audio/ar/AWAYWIN_5.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/ar/AWAYWIN_5.mp3",
     "wav_url": "audio/ar/AWAYWIN_5.wav"
   }
 ]

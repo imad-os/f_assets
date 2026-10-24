@@ -604,6 +604,12 @@
         const frAudio = item.audio_fr || item.translations?.fr?.audio_url || `audio/fr/${id}.mp3`;
         const esAudio = item.audio_es || item.translations?.es?.audio_url || `audio/es/${id}.mp3`;
 
+        const enFullMale = item.audio_full_url_male || `https://imad-os.github.io/f_assets/${enAudioMale}`;
+        const enFullFemale = item.audio_full_url_female || `https://imad-os.github.io/f_assets/${enAudioFemale}`;
+        const arFull = item.audio_full_url_ar || `https://imad-os.github.io/f_assets/${arAudio}`;
+        const frFull = item.audio_full_url_fr || `https://imad-os.github.io/f_assets/${frAudio}`;
+        const esFull = item.audio_full_url_es || `https://imad-os.github.io/f_assets/${esAudio}`;
+
         const showEn = activeLang === 'all' || activeLang === 'en';
         const showAr = activeLang === 'all' || activeLang === 'ar';
         const showFr = activeLang === 'all' || activeLang === 'fr';
@@ -627,8 +633,14 @@
                 <button class="btn-play" onclick="playAudio('${enAudioMale}', '${id} — English (Male)', '${ev}', this)">
                   ▶ Play Male
                 </button>
+                <button class="btn-play" onclick="copyLink('${enFullMale}', this)">
+                  📋 Copy URL
+                </button>
                 <button class="btn-play" onclick="playAudio('${enAudioFemale}', '${id} — English (Female)', '${ev}', this)">
                   ▶ Play Female
+                </button>
+                <button class="btn-play" onclick="copyLink('${enFullFemale}', this)">
+                  📋 Copy URL
                 </button>
               </div>
             </div>` : ''}
@@ -644,6 +656,9 @@
                 <button class="btn-play" onclick="playAudio('${arAudio}', '${id} — Arabic', '${ev}', this)">
                   ▶ Play Arabic
                 </button>
+                <button class="btn-play" onclick="copyLink('${arFull}', this)">
+                  📋 Copy URL
+                </button>
               </div>
             </div>` : ''}
 
@@ -657,6 +672,9 @@
               <div class="actions-row">
                 <button class="btn-play" onclick="playAudio('${frAudio}', '${id} — French', '${ev}', this)">
                   ▶ Play French
+                </button>
+                <button class="btn-play" onclick="copyLink('${frFull}', this)">
+                  📋 Copy URL
                 </button>
               </div>
             </div>` : ''}
@@ -672,11 +690,24 @@
                 <button class="btn-play" onclick="playAudio('${esAudio}', '${id} — Spanish', '${ev}', this)">
                   ▶ Play Spanish
                 </button>
+                <button class="btn-play" onclick="copyLink('${esFull}', this)">
+                  📋 Copy URL
+                </button>
               </div>
             </div>` : ''}
           </div>
         `;
       }).join('');
+    }
+
+    function copyLink(url, btn) {
+      navigator.clipboard.writeText(url).then(() => {
+        const orig = btn.textContent;
+        btn.textContent = '✓ Copied!';
+        setTimeout(() => btn.textContent = orig, 1800);
+      }).catch(() => {
+        prompt('Copy URL:', url);
+      });
     }
 
     loadData();

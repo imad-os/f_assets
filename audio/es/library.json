@@ -4,6 +4,7 @@
     "event": "INTRO",
     "phrase": "[excited] ¡Hola a todos y muy bienvenidos! ¡Los equipos ya están listos y el partido está a punto de comenzar!",
     "audio_url": "audio/es/INTRO_1.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/INTRO_1.mp3",
     "wav_url": "audio/es/INTRO_1.wav"
   },
   {
@@ -11,6 +12,7 @@
     "event": "INTRO",
     "phrase": "[cheerful] ¡Y ya rueda el balón! ¡La grada está de pie, qué ambientazo tenemos esta noche!",
     "audio_url": "audio/es/INTRO_2.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/INTRO_2.mp3",
     "wav_url": "audio/es/INTRO_2.wav"
   },
   {
@@ -18,6 +20,7 @@
     "event": "INTRO",
     "phrase": "[energetic] ¡Aquí vamos! ¡El colegiado pita y arranca el partido!",
     "audio_url": "audio/es/INTRO_3.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/INTRO_3.mp3",
     "wav_url": "audio/es/INTRO_3.wav"
   },
   {
@@ -25,6 +28,7 @@
     "event": "INTRO",
     "phrase": "[excited] ¡Pitido inicial! ¡A ver qué nos tienen preparado estos dos equipazos hoy!",
     "audio_url": "audio/es/INTRO_4.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/INTRO_4.mp3",
     "wav_url": "audio/es/INTRO_4.wav"
   },
   {
@@ -32,6 +36,7 @@
     "event": "INTRO",
     "phrase": "[enthusiastic] ¡Bienvenidos al estadio, amantes del fútbol! ¡Se viene un auténtico partidazo!",
     "audio_url": "audio/es/INTRO_5.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/INTRO_5.mp3",
     "wav_url": "audio/es/INTRO_5.wav"
   },
   {
@@ -39,6 +44,7 @@
     "event": "GOAL",
     "phrase": "[shouting] ¡¡¡Gooooooooool!!! [excited] ¡Qué definición de locos! ¡Absolutamente fantástico!",
     "audio_url": "audio/es/GOAL_1.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/GOAL_1.mp3",
     "wav_url": "audio/es/GOAL_1.wav"
   },
   {
@@ -46,6 +52,7 @@
     "event": "GOAL",
     "phrase": "[screaming] ¡¡Gooooool!! [laughs] ¡Ay, esto es increíble! ¡Qué golazo, por Dios!",
     "audio_url": "audio/es/GOAL_2.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/GOAL_2.mp3",
     "wav_url": "audio/es/GOAL_2.wav"
   },
   {
@@ -53,6 +60,7 @@
     "event": "GOAL",
     "phrase": "[shouting] ¡Adentro, adentro! [excited] ¡Se infla la red! ¡Vaya zapatazo descomunal!",
     "audio_url": "audio/es/GOAL_3.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/GOAL_3.mp3",
     "wav_url": "audio/es/GOAL_3.wav"
   },
   {
@@ -60,6 +68,7 @@
     "event": "GOAL",
     "phrase": "[screaming] ¡Gooool, gooooool! [breathless] ¡Pura clase, señores! ¡El estadio se vuelve completamente loco!",
     "audio_url": "audio/es/GOAL_4.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/GOAL_4.mp3",
     "wav_url": "audio/es/GOAL_4.wav"
   },
   {
@@ -67,6 +76,7 @@
     "event": "GOAL",
     "phrase": "[shouting] ¡¡La manda a guardar!! [gasp] ¡Qué momento! ¡Pero qué golazo antológico!",
     "audio_url": "audio/es/GOAL_5.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/GOAL_5.mp3",
     "wav_url": "audio/es/GOAL_5.wav"
   },
   {
@@ -74,6 +84,7 @@
     "event": "FOUL",
     "phrase": "[serious] El colegiado hace sonar su silbato. Hay falta.",
     "audio_url": "audio/es/FOUL_1.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/FOUL_1.mp3",
     "wav_url": "audio/es/FOUL_1.wav"
   },
   {
@@ -81,6 +92,7 @@
     "event": "FOUL",
     "phrase": "[annoyed] ¡Uy, qué entrada tan dura y a destiempo! El árbitro detiene el juego.",
     "audio_url": "audio/es/FOUL_2.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/FOUL_2.mp3",
     "wav_url": "audio/es/FOUL_2.wav"
   },
   {
@@ -88,6 +100,7 @@
     "event": "FOUL",
     "phrase": "[calm] Falta clara en esa acción. Tiro libre concedido.",
     "audio_url": "audio/es/FOUL_3.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/FOUL_3.mp3",
     "wav_url": "audio/es/FOUL_3.wav"
   },
   {
@@ -95,6 +108,7 @@
     "event": "FOUL",
     "phrase": "[surprised] ¡Ay! Esa pareció muy dolorosa. El árbitro no duda e interviene.",
     "audio_url": "audio/es/FOUL_4.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/FOUL_4.mp3",
     "wav_url": "audio/es/FOUL_4.wav"
   },
   {
@@ -102,6 +116,7 @@
     "event": "FOUL",
     "phrase": "[disapproving] ¡Llegó tardísimo al cruce! Falta clarísima sin ninguna duda.",
     "audio_url": "audio/es/FOUL_5.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/FOUL_5.mp3",
     "wav_url": "audio/es/FOUL_5.wav"
   },
   {
@@ -109,6 +124,7 @@
     "event": "PENALTY",
     "phrase": "[shouting] ¡¡¡Penal, penal, penal!!! [gasp] ¡El árbitro señala el punto fatídico!",
     "audio_url": "audio/es/PENALTY_1.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/PENALTY_1.mp3",
     "wav_url": "audio/es/PENALTY_1.wav"
   },
   {
@@ -116,6 +132,7 @@
     "event": "PENALTY",
     "phrase": "[tense] Momento culminante del partido. ¡Tiro penal! Todo el estadio contiene la respiración.",
     "audio_url": "audio/es/PENALTY_2.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/PENALTY_2.mp3",
     "wav_url": "audio/es/PENALTY_2.wav"
   },
   {
@@ -123,6 +140,7 @@
     "event": "PENALTY",
     "phrase": "[excited] ¡Lo derriban dentro del área! ¡Es penal, es penal!",
     "audio_url": "audio/es/PENALTY_3.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/PENALTY_3.mp3",
     "wav_url": "audio/es/PENALTY_3.wav"
   },
   {
@@ -130,6 +148,7 @@
     "event": "PENALTY",
     "phrase": "[whispering] Silencio sepulcral en el estadio... el ejecutor toma carrera...",
     "audio_url": "audio/es/PENALTY_4.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/PENALTY_4.mp3",
     "wav_url": "audio/es/PENALTY_4.wav"
   },
   {
@@ -137,6 +156,7 @@
     "event": "PENALTY",
     "phrase": "[dramatic] ¡El árbitro no lo duda un segundo! ¡Penal! ¡Esto puede cambiar completamente el rumbo del partido!",
     "audio_url": "audio/es/PENALTY_5.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/PENALTY_5.mp3",
     "wav_url": "audio/es/PENALTY_5.wav"
   },
   {
@@ -144,6 +164,7 @@
     "event": "CORNER",
     "phrase": "[excited] ¡Tiro de esquina! Gran oportunidad para mandar el balón a la candela.",
     "audio_url": "audio/es/CORNER_1.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/CORNER_1.mp3",
     "wav_url": "audio/es/CORNER_1.wav"
   },
   {
@@ -151,6 +172,7 @@
     "event": "CORNER",
     "phrase": "[energetic] La manda afuera el defensor, ¡y se viene el córner!",
     "audio_url": "audio/es/CORNER_2.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/CORNER_2.mp3",
     "wav_url": "audio/es/CORNER_2.wav"
   },
   {
@@ -158,6 +180,7 @@
     "event": "CORNER",
     "phrase": "[focused] Se prepara el tiro de esquina... ¡todo el mundo apretado en el corazón del área!",
     "audio_url": "audio/es/CORNER_3.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/CORNER_3.mp3",
     "wav_url": "audio/es/CORNER_3.wav"
   },
   {
@@ -165,6 +188,7 @@
     "event": "CORNER",
     "phrase": "[intense] ¡Un tiro de esquina peligrosísimo! ¡Cuidado con el cabezazo!",
     "audio_url": "audio/es/CORNER_4.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/CORNER_4.mp3",
     "wav_url": "audio/es/CORNER_4.wav"
   },
   {
@@ -172,6 +196,7 @@
     "event": "CORNER",
     "phrase": "[calm] Otro córner para la visita. Vamos a ver qué prepararon en la pizarra.",
     "audio_url": "audio/es/CORNER_5.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/CORNER_5.mp3",
     "wav_url": "audio/es/CORNER_5.wav"
   },
   {
@@ -179,6 +204,7 @@
     "event": "SAVE",
     "phrase": "[shouting] ¡¡¡Qué atajada monumental!!! [gasp] ¡Impresionante lo del arquero!",
     "audio_url": "audio/es/SAVE_1.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/SAVE_1.mp3",
     "wav_url": "audio/es/SAVE_1.wav"
   },
   {
@@ -186,6 +212,7 @@
     "event": "SAVE",
     "phrase": "[amazed] ¡Mete el manotazo salvador! ¡Reflejos felinos, de otro planeta!",
     "audio_url": "audio/es/SAVE_2.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/SAVE_2.mp3",
     "wav_url": "audio/es/SAVE_2.wav"
   },
   {
@@ -193,6 +220,7 @@
     "event": "SAVE",
     "phrase": "[excited] ¡El arquero es una muralla infranqueable esta noche! ¡Brillante intervención!",
     "audio_url": "audio/es/SAVE_3.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/SAVE_3.mp3",
     "wav_url": "audio/es/SAVE_3.wav"
   },
   {
@@ -200,6 +228,7 @@
     "event": "SAVE",
     "phrase": "[screaming] ¡No me lo creo, no te lo puedo creer! ¡La sacó de la línea! [laughs] ¡¿Pero cómo hizo eso?!",
     "audio_url": "audio/es/SAVE_4.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/SAVE_4.mp3",
     "wav_url": "audio/es/SAVE_4.wav"
   },
   {
@@ -207,6 +236,7 @@
     "event": "SAVE",
     "phrase": "[breathless] ¡Uf, qué salvada épica! ¡El guardameta salva los papeles de su equipo!",
     "audio_url": "audio/es/SAVE_5.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/SAVE_5.mp3",
     "wav_url": "audio/es/SAVE_5.wav"
   },
   {
@@ -214,6 +244,7 @@
     "event": "LONGPASS",
     "phrase": "[excited] ¡Oh, qué pase! ¡Ha partido a la defensa en dos!",
     "audio_url": "audio/es/LONGPASS_1.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/LONGPASS_1.mp3",
     "wav_url": "audio/es/LONGPASS_1.wav"
   },
   {
@@ -221,6 +252,7 @@
     "event": "LONGPASS",
     "phrase": "[amazed] ¡Qué pase largo tan hermoso! ¡Mira esa visión!",
     "audio_url": "audio/es/LONGPASS_2.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/LONGPASS_2.mp3",
     "wav_url": "audio/es/LONGPASS_2.wav"
   },
   {
@@ -228,6 +260,7 @@
     "event": "LONGPASS",
     "phrase": "[energetic] ¡Pase filtrado! ¡Le ganó la espalda a toda la defensa!",
     "audio_url": "audio/es/LONGPASS_3.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/LONGPASS_3.mp3",
     "wav_url": "audio/es/LONGPASS_3.wav"
   },
   {
@@ -235,6 +268,7 @@
     "event": "LONGPASS",
     "phrase": "[impressed] ¡Qué servicio magistral! ¡Eso es pura calidad!",
     "audio_url": "audio/es/LONGPASS_4.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/LONGPASS_4.mp3",
     "wav_url": "audio/es/LONGPASS_4.wav"
   },
   {
@@ -242,6 +276,7 @@
     "event": "LONGPASS",
     "phrase": "[excited] ¡Un pase bombeado perfecto! ¡Qué oportunidad!",
     "audio_url": "audio/es/LONGPASS_5.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/LONGPASS_5.mp3",
     "wav_url": "audio/es/LONGPASS_5.wav"
   },
   {
@@ -249,6 +284,7 @@
     "event": "TACKLE",
     "phrase": "[excited] ¡Qué entrada! ¡Con el tiempo perfecto!",
     "audio_url": "audio/es/TACKLE_1.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/TACKLE_1.mp3",
     "wav_url": "audio/es/TACKLE_1.wav"
   },
   {
@@ -256,6 +292,7 @@
     "event": "TACKLE",
     "phrase": "[impressed] ¡Defensa brillante! ¡Le roba la pelota limpiamente!",
     "audio_url": "audio/es/TACKLE_2.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/TACKLE_2.mp3",
     "wav_url": "audio/es/TACKLE_2.wav"
   },
   {
@@ -263,6 +300,7 @@
     "event": "TACKLE",
     "phrase": "[energetic] ¡Un quite fuerte, y el peligro ha desaparecido!",
     "audio_url": "audio/es/TACKLE_3.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/TACKLE_3.mp3",
     "wav_url": "audio/es/TACKLE_3.wav"
   },
   {
@@ -270,6 +308,7 @@
     "event": "TACKLE",
     "phrase": "[amazed] ¡Oh, qué barrida tan contundente! ¡Gran timing!",
     "audio_url": "audio/es/TACKLE_4.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/TACKLE_4.mp3",
     "wav_url": "audio/es/TACKLE_4.wav"
   },
   {
@@ -277,6 +316,7 @@
     "event": "TACKLE",
     "phrase": "[cheerful] Limpio, preciso y efectivo. ¡Excelente entrada!",
     "audio_url": "audio/es/TACKLE_5.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/TACKLE_5.mp3",
     "wav_url": "audio/es/TACKLE_5.wav"
   },
   {
@@ -284,6 +324,7 @@
     "event": "COUNTER",
     "phrase": "[shouting] ¡Contraataque! [excited] ¡Salen disparados hacia el arco!",
     "audio_url": "audio/es/COUNTER_1.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/COUNTER_1.mp3",
     "wav_url": "audio/es/COUNTER_1.wav"
   },
   {
@@ -291,6 +332,7 @@
     "event": "COUNTER",
     "phrase": "[breathless] ¡Contraataque rápido! ¡Mira esa velocidad! ¡Esto es muy peligroso!",
     "audio_url": "audio/es/COUNTER_2.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/COUNTER_2.mp3",
     "wav_url": "audio/es/COUNTER_2.wav"
   },
   {
@@ -298,6 +340,7 @@
     "event": "COUNTER",
     "phrase": "[intense] ¡Salen a una velocidad de rayo! ¿Podrán concretar?",
     "audio_url": "audio/es/COUNTER_3.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/COUNTER_3.mp3",
     "wav_url": "audio/es/COUNTER_3.wav"
   },
   {
@@ -305,6 +348,7 @@
     "event": "COUNTER",
     "phrase": "[urgent] ¡Contragolpe rápido! ¡Mucha gente al ataque! ¡Aquí viene el peligro!",
     "audio_url": "audio/es/COUNTER_4.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/COUNTER_4.mp3",
     "wav_url": "audio/es/COUNTER_4.wav"
   },
   {
@@ -312,6 +356,7 @@
     "event": "COUNTER",
     "phrase": "[excited] ¡Contraataque relámpago! ¡La defensa ha sido superada!",
     "audio_url": "audio/es/COUNTER_5.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/COUNTER_5.mp3",
     "wav_url": "audio/es/COUNTER_5.wav"
   },
   {
@@ -319,6 +364,7 @@
     "event": "ATTACK",
     "phrase": "[excited] ¡Ataque peligrosísimo! ¡Se siente la presión!",
     "audio_url": "audio/es/ATTACK_1.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/ATTACK_1.mp3",
     "wav_url": "audio/es/ATTACK_1.wav"
   },
   {
@@ -326,6 +372,7 @@
     "event": "ATTACK",
     "phrase": "[energetic] ¡Se van con todo hacia adelante! ¡Se viene una clarísima!",
     "audio_url": "audio/es/ATTACK_2.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/ATTACK_2.mp3",
     "wav_url": "audio/es/ATTACK_2.wav"
   },
   {
@@ -333,6 +380,7 @@
     "event": "ATTACK",
     "phrase": "[intense] ¡Qué gran movimiento en el último tercio! ¡Aquí va a pasar algo grande!",
     "audio_url": "audio/es/ATTACK_3.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/ATTACK_3.mp3",
     "wav_url": "audio/es/ATTACK_3.wav"
   },
   {
@@ -340,6 +388,7 @@
     "event": "ATTACK",
     "phrase": "[focused] ¡Prosigue el ataque, buscando el espacio por dónde entrar!",
     "audio_url": "audio/es/ATTACK_4.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/ATTACK_4.mp3",
     "wav_url": "audio/es/ATTACK_4.wav"
   },
   {
@@ -347,6 +396,7 @@
     "event": "ATTACK",
     "phrase": "[shouting] ¡Se vienen con todo! ¡Peligro inminente en el área!",
     "audio_url": "audio/es/ATTACK_5.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/ATTACK_5.mp3",
     "wav_url": "audio/es/ATTACK_5.wav"
   },
   {
@@ -354,6 +404,7 @@
     "event": "OFFSIDE",
     "phrase": "[serious] Arriba la bandera. Hay posición adelantada.",
     "audio_url": "audio/es/OFFSIDE_1.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/OFFSIDE_1.mp3",
     "wav_url": "audio/es/OFFSIDE_1.wav"
   },
   {
@@ -361,6 +412,7 @@
     "event": "OFFSIDE",
     "phrase": "[disappointed] ¡No te lo puedo creer! El juez de línea levanta el banderín. ¡Fuera de juego!",
     "audio_url": "audio/es/OFFSIDE_2.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/OFFSIDE_2.mp3",
     "wav_url": "audio/es/OFFSIDE_2.wav"
   },
   {
@@ -368,6 +420,7 @@
     "event": "OFFSIDE",
     "phrase": "[calm] Atrapado en offside. Se termina el peligro.",
     "audio_url": "audio/es/OFFSIDE_3.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/OFFSIDE_3.mp3",
     "wav_url": "audio/es/OFFSIDE_3.wav"
   },
   {
@@ -375,6 +428,7 @@
     "event": "OFFSIDE",
     "phrase": "[groans] ¡Ay, estaba apenas un pasito adelantado! Fuera de juego.",
     "audio_url": "audio/es/OFFSIDE_4.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/OFFSIDE_4.mp3",
     "wav_url": "audio/es/OFFSIDE_4.wav"
   },
   {
@@ -382,6 +436,7 @@
     "event": "OFFSIDE",
     "phrase": "[matter-of-fact] Bandera levantada. Tiro libre defensivo.",
     "audio_url": "audio/es/OFFSIDE_5.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/OFFSIDE_5.mp3",
     "wav_url": "audio/es/OFFSIDE_5.wav"
   },
   {
@@ -389,6 +444,7 @@
     "event": "HALFTIME",
     "phrase": "[calm] El árbitro pita el final. Terminan los primeros cuarenta y cinco minutos.",
     "audio_url": "audio/es/HALFTIME_1.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/HALFTIME_1.mp3",
     "wav_url": "audio/es/HALFTIME_1.wav"
   },
   {
@@ -396,6 +452,7 @@
     "event": "HALFTIME",
     "phrase": "[relaxed] Y nos vamos al descanso. Mucho que analizar para ambos entrenadores.",
     "audio_url": "audio/es/HALFTIME_2.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/HALFTIME_2.mp3",
     "wav_url": "audio/es/HALFTIME_2.wav"
   },
   {
@@ -403,6 +460,7 @@
     "event": "HALFTIME",
     "phrase": "[cheerful] ¡Termina la primera parte! ¡Momento de tomar un respiro!",
     "audio_url": "audio/es/HALFTIME_3.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/HALFTIME_3.mp3",
     "wav_url": "audio/es/HALFTIME_3.wav"
   },
   {
@@ -410,6 +468,7 @@
     "event": "HALFTIME",
     "phrase": "[thoughtful] Los equipos se marchan al vestuario. ¿Qué nos deparará la segunda mitad?",
     "audio_url": "audio/es/HALFTIME_4.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/HALFTIME_4.mp3",
     "wav_url": "audio/es/HALFTIME_4.wav"
   },
   {
@@ -417,6 +476,7 @@
     "event": "HALFTIME",
     "phrase": "[energetic] ¡Final del primer tiempo! ¡Qué primeros cuarenta y cinco minutos tan vibrantes!",
     "audio_url": "audio/es/HALFTIME_5.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/HALFTIME_5.mp3",
     "wav_url": "audio/es/HALFTIME_5.wav"
   },
   {
@@ -424,6 +484,7 @@
     "event": "FULLTIME",
     "phrase": "[excited] ¡Pitazo final! ¡Se termina el partido!",
     "audio_url": "audio/es/FULLTIME_1.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/FULLTIME_1.mp3",
     "wav_url": "audio/es/FULLTIME_1.wav"
   },
   {
@@ -431,6 +492,7 @@
     "event": "FULLTIME",
     "phrase": "[calm] Final del partido. Muchas gracias por acompañarnos.",
     "audio_url": "audio/es/FULLTIME_2.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/FULLTIME_2.mp3",
     "wav_url": "audio/es/FULLTIME_2.wav"
   },
   {
@@ -438,6 +500,7 @@
     "event": "FULLTIME",
     "phrase": "[energetic] ¡Se acabó todo! ¡Qué partidazo hemos vivido esta noche!",
     "audio_url": "audio/es/FULLTIME_3.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/FULLTIME_3.mp3",
     "wav_url": "audio/es/FULLTIME_3.wav"
   },
   {
@@ -445,6 +508,7 @@
     "event": "FULLTIME",
     "phrase": "[emotional] El árbitro marca el final. ¡Qué entrega y qué partidazo de ambos equipos!",
     "audio_url": "audio/es/FULLTIME_4.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/FULLTIME_4.mp3",
     "wav_url": "audio/es/FULLTIME_4.wav"
   },
   {
@@ -452,6 +516,7 @@
     "event": "FULLTIME",
     "phrase": "[cheerful] ¡Y esto es todo! ¡Final del partido en el estadio!",
     "audio_url": "audio/es/FULLTIME_5.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/FULLTIME_5.mp3",
     "wav_url": "audio/es/FULLTIME_5.wav"
   },
   {
@@ -459,6 +524,7 @@
     "event": "HOMEWIN",
     "phrase": "[shouting] ¡Victoria para los locales! [excited] ¡La afición lo celebra por todo lo alto!",
     "audio_url": "audio/es/HOMEWIN_1.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/HOMEWIN_1.mp3",
     "wav_url": "audio/es/HOMEWIN_1.wav"
   },
   {
@@ -466,6 +532,7 @@
     "event": "HOMEWIN",
     "phrase": "[cheerful] ¡Un triunfo fantástico en casa! ¡La grada se vuelve loca!",
     "audio_url": "audio/es/HOMEWIN_2.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/HOMEWIN_2.mp3",
     "wav_url": "audio/es/HOMEWIN_2.wav"
   },
   {
@@ -473,6 +540,7 @@
     "event": "HOMEWIN",
     "phrase": "[excited] ¡Se lo lleva el equipo de casa! ¡Qué noche inolvidable para los hinchas!",
     "audio_url": "audio/es/HOMEWIN_3.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/HOMEWIN_3.mp3",
     "wav_url": "audio/es/HOMEWIN_3.wav"
   },
   {
@@ -480,6 +548,7 @@
     "event": "HOMEWIN",
     "phrase": "[emotional] ¡Victoria en casa! ¡Se dejaron el alma por su gente!",
     "audio_url": "audio/es/HOMEWIN_4.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/HOMEWIN_4.mp3",
     "wav_url": "audio/es/HOMEWIN_4.wav"
   },
   {
@@ -487,6 +556,7 @@
     "event": "HOMEWIN",
     "phrase": "[energetic] ¡Tres puntos para los de casa! ¡Una actuación brillante!",
     "audio_url": "audio/es/HOMEWIN_5.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/HOMEWIN_5.mp3",
     "wav_url": "audio/es/HOMEWIN_5.wav"
   },
   {
@@ -494,6 +564,7 @@
     "event": "AWAYWIN",
     "phrase": "[excited] ¡Victoria para la visita! ¡Un resultado tremendo fuera de casa!",
     "audio_url": "audio/es/AWAYWIN_1.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/AWAYWIN_1.mp3",
     "wav_url": "audio/es/AWAYWIN_1.wav"
   },
   {
@@ -501,6 +572,7 @@
     "event": "AWAYWIN",
     "phrase": "[impressed] ¡Triunfo visitante! ¡Hicieron enmudecer a todo el estadio!",
     "audio_url": "audio/es/AWAYWIN_2.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/AWAYWIN_2.mp3",
     "wav_url": "audio/es/AWAYWIN_2.wav"
   },
   {
@@ -508,6 +580,7 @@
     "event": "AWAYWIN",
     "phrase": "[shouting] ¡Triunfazo para el equipo visitante! ¡Vaya exhibición!",
     "audio_url": "audio/es/AWAYWIN_3.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/AWAYWIN_3.mp3",
     "wav_url": "audio/es/AWAYWIN_3.wav"
   },
   {
@@ -515,6 +588,7 @@
     "event": "AWAYWIN",
     "phrase": "[cheerful] ¡La hinchada visitante festeja por todo lo alto! ¡Gran victoria a domicilio!",
     "audio_url": "audio/es/AWAYWIN_4.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/AWAYWIN_4.mp3",
     "wav_url": "audio/es/AWAYWIN_4.wav"
   },
   {
@@ -522,6 +596,7 @@
     "event": "AWAYWIN",
     "phrase": "[energetic] ¡Tres puntos de oro como visitantes! ¡Una victoria fantástica fuera de casa!",
     "audio_url": "audio/es/AWAYWIN_5.mp3",
+    "audio_full_url": "https://imad-os.github.io/f_assets/audio/es/AWAYWIN_5.mp3",
     "wav_url": "audio/es/AWAYWIN_5.wav"
   }
 ]
