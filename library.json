@@ -1,677 +1,2852 @@
 [
   {
+    "id": "INTRO_1",
     "event": "INTRO",
-    "phrase": "[excited] Hello everyone, and welcome! The teams are ready, and the match is about to begin!",
-    "audio_url": "en/male/INTRO_1.mp3",
-    "audio_url_male": "en/male/INTRO_1.mp3",
-    "audio_url_female": "en/female/INTRO_1.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Kore"
+    "phrase_en": "[excited] Hello everyone, and welcome! The teams are ready, and the match is about to begin!",
+    "phrase_ar": "[excited] أهلاً وسهلاً بكم جميعاً ومرحباً بكم! الفريقان على أرضية الميدان، والمباراة على وشك الانطلاق!",
+    "phrase_fr": "[excited] Bonjour à toutes et à tous, et bienvenue ! Les deux équipes sont prêtes, le coup d'envoi est imminent !",
+    "phrase_es": "[excited] ¡Hola a todos y muy bienvenidos! ¡Los equipos ya están listos y el partido está a punto de comenzar!",
+    "audio_en_male": "audio/en/male/INTRO_1.mp3",
+    "audio_en_female": "audio/en/female/INTRO_1.mp3",
+    "audio_ar": "audio/ar/INTRO_1.mp3",
+    "audio_fr": "audio/fr/INTRO_1.mp3",
+    "audio_es": "audio/es/INTRO_1.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[excited] Hello everyone, and welcome! The teams are ready, and the match is about to begin!",
+        "audio_url_male": "audio/en/male/INTRO_1.mp3",
+        "audio_url_female": "audio/en/female/INTRO_1.mp3",
+        "wav_url_male": "audio/en/male/INTRO_1.wav",
+        "wav_url_female": "audio/en/female/INTRO_1.wav",
+        "audio_url": "audio/en/male/INTRO_1.mp3"
+      },
+      "ar": {
+        "phrase": "[excited] أهلاً وسهلاً بكم جميعاً ومرحباً بكم! الفريقان على أرضية الميدان، والمباراة على وشك الانطلاق!",
+        "audio_url": "audio/ar/INTRO_1.mp3",
+        "wav_url": "audio/ar/INTRO_1.wav"
+      },
+      "fr": {
+        "phrase": "[excited] Bonjour à toutes et à tous, et bienvenue ! Les deux équipes sont prêtes, le coup d'envoi est imminent !",
+        "audio_url": "audio/fr/INTRO_1.mp3",
+        "wav_url": "audio/fr/INTRO_1.wav"
+      },
+      "es": {
+        "phrase": "[excited] ¡Hola a todos y muy bienvenidos! ¡Los equipos ya están listos y el partido está a punto de comenzar!",
+        "audio_url": "audio/es/INTRO_1.mp3",
+        "wav_url": "audio/es/INTRO_1.wav"
+      }
+    }
   },
   {
+    "id": "INTRO_2",
     "event": "INTRO",
-    "phrase": "[cheerful] And we are underway! The crowd is on its feet, and what an atmosphere tonight!",
-    "audio_url": "en/male/INTRO_2.mp3",
-    "audio_url_male": "en/male/INTRO_2.mp3",
-    "audio_url_female": "en/female/INTRO_2.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Aoede"
+    "phrase_en": "[cheerful] And we are underway! The crowd is on its feet, and what an atmosphere tonight!",
+    "phrase_ar": "[cheerful] وانطلقت المباراة! الجماهير تهتف بحرارة في المدرجات، ويا لها من أجواء خيالية الليلة!",
+    "phrase_fr": "[cheerful] Et c'est parti ! Le public est debout, quelle ambiance exceptionnelle ce soir !",
+    "phrase_es": "[cheerful] ¡Y ya rueda el balón! ¡La grada está de pie, qué ambientazo tenemos esta noche!",
+    "audio_en_male": "audio/en/male/INTRO_2.mp3",
+    "audio_en_female": "audio/en/female/INTRO_2.mp3",
+    "audio_ar": "audio/ar/INTRO_2.mp3",
+    "audio_fr": "audio/fr/INTRO_2.mp3",
+    "audio_es": "audio/es/INTRO_2.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[cheerful] And we are underway! The crowd is on its feet, and what an atmosphere tonight!",
+        "audio_url_male": "audio/en/male/INTRO_2.mp3",
+        "audio_url_female": "audio/en/female/INTRO_2.mp3",
+        "wav_url_male": "audio/en/male/INTRO_2.wav",
+        "wav_url_female": "audio/en/female/INTRO_2.wav",
+        "audio_url": "audio/en/male/INTRO_2.mp3"
+      },
+      "ar": {
+        "phrase": "[cheerful] وانطلقت المباراة! الجماهير تهتف بحرارة في المدرجات، ويا لها من أجواء خيالية الليلة!",
+        "audio_url": "audio/ar/INTRO_2.mp3",
+        "wav_url": "audio/ar/INTRO_2.wav"
+      },
+      "fr": {
+        "phrase": "[cheerful] Et c'est parti ! Le public est debout, quelle ambiance exceptionnelle ce soir !",
+        "audio_url": "audio/fr/INTRO_2.mp3",
+        "wav_url": "audio/fr/INTRO_2.wav"
+      },
+      "es": {
+        "phrase": "[cheerful] ¡Y ya rueda el balón! ¡La grada está de pie, qué ambientazo tenemos esta noche!",
+        "audio_url": "audio/es/INTRO_2.mp3",
+        "wav_url": "audio/es/INTRO_2.wav"
+      }
+    }
   },
   {
+    "id": "INTRO_3",
     "event": "INTRO",
-    "phrase": "[energetic] Here we go! The referee blows the whistle, and the game is on!",
-    "audio_url": "en/male/INTRO_3.mp3",
-    "audio_url_male": "en/male/INTRO_3.mp3",
-    "audio_url_female": "en/female/INTRO_3.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Zephyr"
+    "phrase_en": "[energetic] Here we go! The referee blows the whistle, and the game is on!",
+    "phrase_ar": "[energetic] هيا بنا! الحكم يطلق صافرته، والنزال يبدأ الآن!",
+    "phrase_fr": "[energetic] C'est parti ! Coup de sifflet de l'arbitre, le match est lancé !",
+    "phrase_es": "[energetic] ¡Aquí vamos! ¡El colegiado pita y arranca el partido!",
+    "audio_en_male": "audio/en/male/INTRO_3.mp3",
+    "audio_en_female": "audio/en/female/INTRO_3.mp3",
+    "audio_ar": "audio/ar/INTRO_3.mp3",
+    "audio_fr": "audio/fr/INTRO_3.mp3",
+    "audio_es": "audio/es/INTRO_3.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[energetic] Here we go! The referee blows the whistle, and the game is on!",
+        "audio_url_male": "audio/en/male/INTRO_3.mp3",
+        "audio_url_female": "audio/en/female/INTRO_3.mp3",
+        "wav_url_male": "audio/en/male/INTRO_3.wav",
+        "wav_url_female": "audio/en/female/INTRO_3.wav",
+        "audio_url": "audio/en/male/INTRO_3.mp3"
+      },
+      "ar": {
+        "phrase": "[energetic] هيا بنا! الحكم يطلق صافرته، والنزال يبدأ الآن!",
+        "audio_url": "audio/ar/INTRO_3.mp3",
+        "wav_url": "audio/ar/INTRO_3.wav"
+      },
+      "fr": {
+        "phrase": "[energetic] C'est parti ! Coup de sifflet de l'arbitre, le match est lancé !",
+        "audio_url": "audio/fr/INTRO_3.mp3",
+        "wav_url": "audio/fr/INTRO_3.wav"
+      },
+      "es": {
+        "phrase": "[energetic] ¡Aquí vamos! ¡El colegiado pita y arranca el partido!",
+        "audio_url": "audio/es/INTRO_3.mp3",
+        "wav_url": "audio/es/INTRO_3.wav"
+      }
+    }
   },
   {
+    "id": "INTRO_4",
     "event": "INTRO",
-    "phrase": "[excited] Kick off! Let's see what these two teams have for us today!",
-    "audio_url": "en/male/INTRO_4.mp3",
-    "audio_url_male": "en/male/INTRO_4.mp3",
-    "audio_url_female": "en/female/INTRO_4.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Kore"
+    "phrase_en": "[excited] Kick off! Let's see what these two teams have for us today!",
+    "phrase_ar": "[excited] ضربة البداية! لنرَ ماذا يخبئ لنا الفريقان اليوم في هذه القمة!",
+    "phrase_fr": "[excited] Coup d'envoi ! Voyons ce que ces deux équipes nous réservent aujourd'hui !",
+    "phrase_es": "[excited] ¡Pitido inicial! ¡A ver qué nos tienen preparado estos dos equipazos hoy!",
+    "audio_en_male": "audio/en/male/INTRO_4.mp3",
+    "audio_en_female": "audio/en/female/INTRO_4.mp3",
+    "audio_ar": "audio/ar/INTRO_4.mp3",
+    "audio_fr": "audio/fr/INTRO_4.mp3",
+    "audio_es": "audio/es/INTRO_4.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[excited] Kick off! Let's see what these two teams have for us today!",
+        "audio_url_male": "audio/en/male/INTRO_4.mp3",
+        "audio_url_female": "audio/en/female/INTRO_4.mp3",
+        "wav_url_male": "audio/en/male/INTRO_4.wav",
+        "wav_url_female": "audio/en/female/INTRO_4.wav",
+        "audio_url": "audio/en/male/INTRO_4.mp3"
+      },
+      "ar": {
+        "phrase": "[excited] ضربة البداية! لنرَ ماذا يخبئ لنا الفريقان اليوم في هذه القمة!",
+        "audio_url": "audio/ar/INTRO_4.mp3",
+        "wav_url": "audio/ar/INTRO_4.wav"
+      },
+      "fr": {
+        "phrase": "[excited] Coup d'envoi ! Voyons ce que ces deux équipes nous réservent aujourd'hui !",
+        "audio_url": "audio/fr/INTRO_4.mp3",
+        "wav_url": "audio/fr/INTRO_4.wav"
+      },
+      "es": {
+        "phrase": "[excited] ¡Pitido inicial! ¡A ver qué nos tienen preparado estos dos equipazos hoy!",
+        "audio_url": "audio/es/INTRO_4.mp3",
+        "wav_url": "audio/es/INTRO_4.wav"
+      }
+    }
   },
   {
+    "id": "INTRO_5",
     "event": "INTRO",
-    "phrase": "[enthusiastic] Welcome to the stadium, football fans! It's going to be a big one!",
-    "audio_url": "en/male/INTRO_5.mp3",
-    "audio_url_male": "en/male/INTRO_5.mp3",
-    "audio_url_female": "en/female/INTRO_5.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Aoede"
+    "phrase_en": "[enthusiastic] Welcome to the stadium, football fans! It's going to be a big one!",
+    "phrase_ar": "[enthusiastic] مرحباً بكم في الملعب يا عشاق المستديرة! نحن أمام قمة كروية كبرى!",
+    "phrase_fr": "[enthusiastic] Bienvenue au stade, chers passionnés de football ! On s'attend à un très grand match !",
+    "phrase_es": "[enthusiastic] ¡Bienvenidos al estadio, amantes del fútbol! ¡Se viene un auténtico partidazo!",
+    "audio_en_male": "audio/en/male/INTRO_5.mp3",
+    "audio_en_female": "audio/en/female/INTRO_5.mp3",
+    "audio_ar": "audio/ar/INTRO_5.mp3",
+    "audio_fr": "audio/fr/INTRO_5.mp3",
+    "audio_es": "audio/es/INTRO_5.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[enthusiastic] Welcome to the stadium, football fans! It's going to be a big one!",
+        "audio_url_male": "audio/en/male/INTRO_5.mp3",
+        "audio_url_female": "audio/en/female/INTRO_5.mp3",
+        "wav_url_male": "audio/en/male/INTRO_5.wav",
+        "wav_url_female": "audio/en/female/INTRO_5.wav",
+        "audio_url": "audio/en/male/INTRO_5.mp3"
+      },
+      "ar": {
+        "phrase": "[enthusiastic] مرحباً بكم في الملعب يا عشاق المستديرة! نحن أمام قمة كروية كبرى!",
+        "audio_url": "audio/ar/INTRO_5.mp3",
+        "wav_url": "audio/ar/INTRO_5.wav"
+      },
+      "fr": {
+        "phrase": "[enthusiastic] Bienvenue au stade, chers passionnés de football ! On s'attend à un très grand match !",
+        "audio_url": "audio/fr/INTRO_5.mp3",
+        "wav_url": "audio/fr/INTRO_5.wav"
+      },
+      "es": {
+        "phrase": "[enthusiastic] ¡Bienvenidos al estadio, amantes del fútbol! ¡Se viene un auténtico partidazo!",
+        "audio_url": "audio/es/INTRO_5.mp3",
+        "wav_url": "audio/es/INTRO_5.wav"
+      }
+    }
   },
   {
+    "id": "GOAL_1",
     "event": "GOAL",
-    "phrase": "[shouting] Gooooooal!!! [excited] What a finish! Absolutely fantastic!",
-    "audio_url": "en/male/GOAL_1.mp3",
-    "audio_url_male": "en/male/GOAL_1.mp3",
-    "audio_url_female": "en/female/GOAL_1.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Kore"
+    "phrase_en": "[shouting] Gooooooal!!! [excited] What a finish! Absolutely fantastic!",
+    "phrase_ar": "[shouting] جوووووول!!! [excited] يا لها من إنهاء رائع! خيالي، غير معقول على الإطلاق!",
+    "phrase_fr": "[shouting] Buuuuuuut !!! [excited] Quelle finition ! C'est absolument fantastique !",
+    "phrase_es": "[shouting] ¡¡¡Gooooooooool!!! [excited] ¡Qué definición de locos! ¡Absolutamente fantástico!",
+    "audio_en_male": "audio/en/male/GOAL_1.mp3",
+    "audio_en_female": "audio/en/female/GOAL_1.mp3",
+    "audio_ar": "audio/ar/GOAL_1.mp3",
+    "audio_fr": "audio/fr/GOAL_1.mp3",
+    "audio_es": "audio/es/GOAL_1.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[shouting] Gooooooal!!! [excited] What a finish! Absolutely fantastic!",
+        "audio_url_male": "audio/en/male/GOAL_1.mp3",
+        "audio_url_female": "audio/en/female/GOAL_1.mp3",
+        "wav_url_male": "audio/en/male/GOAL_1.wav",
+        "wav_url_female": "audio/en/female/GOAL_1.wav",
+        "audio_url": "audio/en/male/GOAL_1.mp3"
+      },
+      "ar": {
+        "phrase": "[shouting] جوووووول!!! [excited] يا لها من إنهاء رائع! خيالي، غير معقول على الإطلاق!",
+        "audio_url": "audio/ar/GOAL_1.mp3",
+        "wav_url": "audio/ar/GOAL_1.wav"
+      },
+      "fr": {
+        "phrase": "[shouting] Buuuuuuut !!! [excited] Quelle finition ! C'est absolument fantastique !",
+        "audio_url": "audio/fr/GOAL_1.mp3",
+        "wav_url": "audio/fr/GOAL_1.wav"
+      },
+      "es": {
+        "phrase": "[shouting] ¡¡¡Gooooooooool!!! [excited] ¡Qué definición de locos! ¡Absolutamente fantástico!",
+        "audio_url": "audio/es/GOAL_1.mp3",
+        "wav_url": "audio/es/GOAL_1.wav"
+      }
+    }
   },
   {
+    "id": "GOAL_2",
     "event": "GOAL",
-    "phrase": "[screaming] Goooooal! [laughs] Oh, that is unbelievable! Very nice goal!",
-    "audio_url": "en/male/GOAL_2.mp3",
-    "audio_url_male": "en/male/GOAL_2.mp3",
-    "audio_url_female": "en/female/GOAL_2.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Aoede"
+    "phrase_en": "[screaming] Goooooal! [laughs] Oh, that is unbelievable! Very nice goal!",
+    "phrase_ar": "[screaming] يا رباه، جووووول! [laughs] أوه، هذا لا يُصدَّق! هدف غاية في الروعة والجمال!",
+    "phrase_fr": "[screaming] Buuuuuuut ! [laughs] Oh, c'est incroyable ! Quel superbe but !",
+    "phrase_es": "[screaming] ¡¡Gooooool!! [laughs] ¡Ay, esto es increíble! ¡Qué golazo, por Dios!",
+    "audio_en_male": "audio/en/male/GOAL_2.mp3",
+    "audio_en_female": "audio/en/female/GOAL_2.mp3",
+    "audio_ar": "audio/ar/GOAL_2.mp3",
+    "audio_fr": "audio/fr/GOAL_2.mp3",
+    "audio_es": "audio/es/GOAL_2.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[screaming] Goooooal! [laughs] Oh, that is unbelievable! Very nice goal!",
+        "audio_url_male": "audio/en/male/GOAL_2.mp3",
+        "audio_url_female": "audio/en/female/GOAL_2.mp3",
+        "wav_url_male": "audio/en/male/GOAL_2.wav",
+        "wav_url_female": "audio/en/female/GOAL_2.wav",
+        "audio_url": "audio/en/male/GOAL_2.mp3"
+      },
+      "ar": {
+        "phrase": "[screaming] يا رباه، جووووول! [laughs] أوه، هذا لا يُصدَّق! هدف غاية في الروعة والجمال!",
+        "audio_url": "audio/ar/GOAL_2.mp3",
+        "wav_url": "audio/ar/GOAL_2.wav"
+      },
+      "fr": {
+        "phrase": "[screaming] Buuuuuuut ! [laughs] Oh, c'est incroyable ! Quel superbe but !",
+        "audio_url": "audio/fr/GOAL_2.mp3",
+        "wav_url": "audio/fr/GOAL_2.wav"
+      },
+      "es": {
+        "phrase": "[screaming] ¡¡Gooooool!! [laughs] ¡Ay, esto es increíble! ¡Qué golazo, por Dios!",
+        "audio_url": "audio/es/GOAL_2.mp3",
+        "wav_url": "audio/es/GOAL_2.wav"
+      }
+    }
   },
   {
+    "id": "GOAL_3",
     "event": "GOAL",
-    "phrase": "[shouting] It's in! It's in! [excited] The net is shaking! What a strike!",
-    "audio_url": "en/male/GOAL_3.mp3",
-    "audio_url_male": "en/male/GOAL_3.mp3",
-    "audio_url_female": "en/female/GOAL_3.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Zephyr"
+    "phrase_en": "[shouting] It's in! It's in! [excited] The net is shaking! What a strike!",
+    "phrase_ar": "[shouting] في الشباك! في الشباك! [excited] الشباك تهتز بعنف! يا لها من قذيفة صاروخية!",
+    "phrase_fr": "[shouting] Ça y est, c'est au fond ! [excited] Les filets tremblent ! Quelle frappe magistrale !",
+    "phrase_es": "[shouting] ¡Adentro, adentro! [excited] ¡Se infla la red! ¡Vaya zapatazo descomunal!",
+    "audio_en_male": "audio/en/male/GOAL_3.mp3",
+    "audio_en_female": "audio/en/female/GOAL_3.mp3",
+    "audio_ar": "audio/ar/GOAL_3.mp3",
+    "audio_fr": "audio/fr/GOAL_3.mp3",
+    "audio_es": "audio/es/GOAL_3.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[shouting] It's in! It's in! [excited] The net is shaking! What a strike!",
+        "audio_url_male": "audio/en/male/GOAL_3.mp3",
+        "audio_url_female": "audio/en/female/GOAL_3.mp3",
+        "wav_url_male": "audio/en/male/GOAL_3.wav",
+        "wav_url_female": "audio/en/female/GOAL_3.wav",
+        "audio_url": "audio/en/male/GOAL_3.mp3"
+      },
+      "ar": {
+        "phrase": "[shouting] في الشباك! في الشباك! [excited] الشباك تهتز بعنف! يا لها من قذيفة صاروخية!",
+        "audio_url": "audio/ar/GOAL_3.mp3",
+        "wav_url": "audio/ar/GOAL_3.wav"
+      },
+      "fr": {
+        "phrase": "[shouting] Ça y est, c'est au fond ! [excited] Les filets tremblent ! Quelle frappe magistrale !",
+        "audio_url": "audio/fr/GOAL_3.mp3",
+        "wav_url": "audio/fr/GOAL_3.wav"
+      },
+      "es": {
+        "phrase": "[shouting] ¡Adentro, adentro! [excited] ¡Se infla la red! ¡Vaya zapatazo descomunal!",
+        "audio_url": "audio/es/GOAL_3.mp3",
+        "wav_url": "audio/es/GOAL_3.wav"
+      }
+    }
   },
   {
+    "id": "GOAL_4",
     "event": "GOAL",
-    "phrase": "[screaming] Gooooal, goooooal! [breathless] Pure class! The stadium is going wild!",
-    "audio_url": "en/male/GOAL_4.mp3",
-    "audio_url_male": "en/male/GOAL_4.mp3",
-    "audio_url_female": "en/female/GOAL_4.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Kore"
+    "phrase_en": "[screaming] Gooooal, goooooal! [breathless] Pure class! The stadium is going wild!",
+    "phrase_ar": "[screaming] جوووول، جوووووول! [breathless] منتهى الإبداع والرقي! المدرجات تشتعل جنوناً!",
+    "phrase_fr": "[screaming] Buuuuut, buuuuut ! [breathless] La classe à l'état pur ! Le stade est en ébullition !",
+    "phrase_es": "[screaming] ¡Gooool, gooooool! [breathless] ¡Pura clase, señores! ¡El estadio se vuelve completamente loco!",
+    "audio_en_male": "audio/en/male/GOAL_4.mp3",
+    "audio_en_female": "audio/en/female/GOAL_4.mp3",
+    "audio_ar": "audio/ar/GOAL_4.mp3",
+    "audio_fr": "audio/fr/GOAL_4.mp3",
+    "audio_es": "audio/es/GOAL_4.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[screaming] Gooooal, goooooal! [breathless] Pure class! The stadium is going wild!",
+        "audio_url_male": "audio/en/male/GOAL_4.mp3",
+        "audio_url_female": "audio/en/female/GOAL_4.mp3",
+        "wav_url_male": "audio/en/male/GOAL_4.wav",
+        "wav_url_female": "audio/en/female/GOAL_4.wav",
+        "audio_url": "audio/en/male/GOAL_4.mp3"
+      },
+      "ar": {
+        "phrase": "[screaming] جوووول، جوووووول! [breathless] منتهى الإبداع والرقي! المدرجات تشتعل جنوناً!",
+        "audio_url": "audio/ar/GOAL_4.mp3",
+        "wav_url": "audio/ar/GOAL_4.wav"
+      },
+      "fr": {
+        "phrase": "[screaming] Buuuuut, buuuuut ! [breathless] La classe à l'état pur ! Le stade est en ébullition !",
+        "audio_url": "audio/fr/GOAL_4.mp3",
+        "wav_url": "audio/fr/GOAL_4.wav"
+      },
+      "es": {
+        "phrase": "[screaming] ¡Gooool, gooooool! [breathless] ¡Pura clase, señores! ¡El estadio se vuelve completamente loco!",
+        "audio_url": "audio/es/GOAL_4.mp3",
+        "wav_url": "audio/es/GOAL_4.wav"
+      }
+    }
   },
   {
+    "id": "GOAL_5",
     "event": "GOAL",
-    "phrase": "[shouting] He scores!!! [gasp] What a moment! What a goal!",
-    "audio_url": "en/male/GOAL_5.mp3",
-    "audio_url_male": "en/male/GOAL_5.mp3",
-    "audio_url_female": "en/female/GOAL_5.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Aoede"
+    "phrase_en": "[shouting] He scores!!! [gasp] What a moment! What a goal!",
+    "phrase_ar": "[shouting] يضعها في الشباك!!! [gasp] يا لها من لحظة جنونية! يا له من هدف تاريخي!",
+    "phrase_fr": "[shouting] Et il marque !!! [gasp] Quel moment exceptionnel ! Quel but magnifique !",
+    "phrase_es": "[shouting] ¡¡La manda a guardar!! [gasp] ¡Qué momento! ¡Pero qué golazo antológico!",
+    "audio_en_male": "audio/en/male/GOAL_5.mp3",
+    "audio_en_female": "audio/en/female/GOAL_5.mp3",
+    "audio_ar": "audio/ar/GOAL_5.mp3",
+    "audio_fr": "audio/fr/GOAL_5.mp3",
+    "audio_es": "audio/es/GOAL_5.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[shouting] He scores!!! [gasp] What a moment! What a goal!",
+        "audio_url_male": "audio/en/male/GOAL_5.mp3",
+        "audio_url_female": "audio/en/female/GOAL_5.mp3",
+        "wav_url_male": "audio/en/male/GOAL_5.wav",
+        "wav_url_female": "audio/en/female/GOAL_5.wav",
+        "audio_url": "audio/en/male/GOAL_5.mp3"
+      },
+      "ar": {
+        "phrase": "[shouting] يضعها في الشباك!!! [gasp] يا لها من لحظة جنونية! يا له من هدف تاريخي!",
+        "audio_url": "audio/ar/GOAL_5.mp3",
+        "wav_url": "audio/ar/GOAL_5.wav"
+      },
+      "fr": {
+        "phrase": "[shouting] Et il marque !!! [gasp] Quel moment exceptionnel ! Quel but magnifique !",
+        "audio_url": "audio/fr/GOAL_5.mp3",
+        "wav_url": "audio/fr/GOAL_5.wav"
+      },
+      "es": {
+        "phrase": "[shouting] ¡¡La manda a guardar!! [gasp] ¡Qué momento! ¡Pero qué golazo antológico!",
+        "audio_url": "audio/es/GOAL_5.mp3",
+        "wav_url": "audio/es/GOAL_5.wav"
+      }
+    }
   },
   {
+    "id": "FOUL_1",
     "event": "FOUL",
-    "phrase": "[serious] The referee blows the whistle. That's a foul.",
-    "audio_url": "en/male/FOUL_1.mp3",
-    "audio_url_male": "en/male/FOUL_1.mp3",
-    "audio_url_female": "en/female/FOUL_1.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Kore"
+    "phrase_en": "[serious] The referee blows the whistle. That's a foul.",
+    "phrase_ar": "[serious] الحكم يطلق صافرته معلناً عن مخالفة.",
+    "phrase_fr": "[serious] L'arbitre siffle. C'est une faute.",
+    "phrase_es": "[serious] El colegiado hace sonar su silbato. Hay falta.",
+    "audio_en_male": "audio/en/male/FOUL_1.mp3",
+    "audio_en_female": "audio/en/female/FOUL_1.mp3",
+    "audio_ar": "audio/ar/FOUL_1.mp3",
+    "audio_fr": "audio/fr/FOUL_1.mp3",
+    "audio_es": "audio/es/FOUL_1.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[serious] The referee blows the whistle. That's a foul.",
+        "audio_url_male": "audio/en/male/FOUL_1.mp3",
+        "audio_url_female": "audio/en/female/FOUL_1.mp3",
+        "wav_url_male": "audio/en/male/FOUL_1.wav",
+        "wav_url_female": "audio/en/female/FOUL_1.wav",
+        "audio_url": "audio/en/male/FOUL_1.mp3"
+      },
+      "ar": {
+        "phrase": "[serious] الحكم يطلق صافرته معلناً عن مخالفة.",
+        "audio_url": "audio/ar/FOUL_1.mp3",
+        "wav_url": "audio/ar/FOUL_1.wav"
+      },
+      "fr": {
+        "phrase": "[serious] L'arbitre siffle. C'est une faute.",
+        "audio_url": "audio/fr/FOUL_1.mp3",
+        "wav_url": "audio/fr/FOUL_1.wav"
+      },
+      "es": {
+        "phrase": "[serious] El colegiado hace sonar su silbato. Hay falta.",
+        "audio_url": "audio/es/FOUL_1.mp3",
+        "wav_url": "audio/es/FOUL_1.wav"
+      }
+    }
   },
   {
+    "id": "FOUL_2",
     "event": "FOUL",
-    "phrase": "[annoyed] Oh, that was a rough challenge! The referee stops the game.",
-    "audio_url": "en/male/FOUL_2.mp3",
-    "audio_url_male": "en/male/FOUL_2.mp3",
-    "audio_url_female": "en/female/FOUL_2.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Aoede"
+    "phrase_en": "[annoyed] Oh, that was a rough challenge! The referee stops the game.",
+    "phrase_ar": "[annoyed] أووه، تدخل عنيف وقاسٍ للغاية! الحكم يوقف اللعب مباشرة.",
+    "phrase_fr": "[annoyed] Oh, quel tacle rugueux ! L'arbitre interrompt immédiatement le jeu.",
+    "phrase_es": "[annoyed] ¡Uy, qué entrada tan dura y a destiempo! El árbitro detiene el juego.",
+    "audio_en_male": "audio/en/male/FOUL_2.mp3",
+    "audio_en_female": "audio/en/female/FOUL_2.mp3",
+    "audio_ar": "audio/ar/FOUL_2.mp3",
+    "audio_fr": "audio/fr/FOUL_2.mp3",
+    "audio_es": "audio/es/FOUL_2.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[annoyed] Oh, that was a rough challenge! The referee stops the game.",
+        "audio_url_male": "audio/en/male/FOUL_2.mp3",
+        "audio_url_female": "audio/en/female/FOUL_2.mp3",
+        "wav_url_male": "audio/en/male/FOUL_2.wav",
+        "wav_url_female": "audio/en/female/FOUL_2.wav",
+        "audio_url": "audio/en/male/FOUL_2.mp3"
+      },
+      "ar": {
+        "phrase": "[annoyed] أووه، تدخل عنيف وقاسٍ للغاية! الحكم يوقف اللعب مباشرة.",
+        "audio_url": "audio/ar/FOUL_2.mp3",
+        "wav_url": "audio/ar/FOUL_2.wav"
+      },
+      "fr": {
+        "phrase": "[annoyed] Oh, quel tacle rugueux ! L'arbitre interrompt immédiatement le jeu.",
+        "audio_url": "audio/fr/FOUL_2.mp3",
+        "wav_url": "audio/fr/FOUL_2.wav"
+      },
+      "es": {
+        "phrase": "[annoyed] ¡Uy, qué entrada tan dura y a destiempo! El árbitro detiene el juego.",
+        "audio_url": "audio/es/FOUL_2.mp3",
+        "wav_url": "audio/es/FOUL_2.wav"
+      }
+    }
   },
   {
+    "id": "FOUL_3",
     "event": "FOUL",
-    "phrase": "[calm] A clear foul there. Free kick awarded.",
-    "audio_url": "en/male/FOUL_3.mp3",
-    "audio_url_male": "en/male/FOUL_3.mp3",
-    "audio_url_female": "en/female/FOUL_3.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Zephyr"
+    "phrase_en": "[calm] A clear foul there. Free kick awarded.",
+    "phrase_ar": "[calm] خطأ واضح وصريح هنا، وركلة حرة محتسبة.",
+    "phrase_fr": "[calm] Faute indiscutable ici. Coup franc accordé.",
+    "phrase_es": "[calm] Falta clara en esa acción. Tiro libre concedido.",
+    "audio_en_male": "audio/en/male/FOUL_3.mp3",
+    "audio_en_female": "audio/en/female/FOUL_3.mp3",
+    "audio_ar": "audio/ar/FOUL_3.mp3",
+    "audio_fr": "audio/fr/FOUL_3.mp3",
+    "audio_es": "audio/es/FOUL_3.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[calm] A clear foul there. Free kick awarded.",
+        "audio_url_male": "audio/en/male/FOUL_3.mp3",
+        "audio_url_female": "audio/en/female/FOUL_3.mp3",
+        "wav_url_male": "audio/en/male/FOUL_3.wav",
+        "wav_url_female": "audio/en/female/FOUL_3.wav",
+        "audio_url": "audio/en/male/FOUL_3.mp3"
+      },
+      "ar": {
+        "phrase": "[calm] خطأ واضح وصريح هنا، وركلة حرة محتسبة.",
+        "audio_url": "audio/ar/FOUL_3.mp3",
+        "wav_url": "audio/ar/FOUL_3.wav"
+      },
+      "fr": {
+        "phrase": "[calm] Faute indiscutable ici. Coup franc accordé.",
+        "audio_url": "audio/fr/FOUL_3.mp3",
+        "wav_url": "audio/fr/FOUL_3.wav"
+      },
+      "es": {
+        "phrase": "[calm] Falta clara en esa acción. Tiro libre concedido.",
+        "audio_url": "audio/es/FOUL_3.mp3",
+        "wav_url": "audio/es/FOUL_3.wav"
+      }
+    }
   },
   {
+    "id": "FOUL_4",
     "event": "FOUL",
-    "phrase": "[surprised] Ouch! That one looked painful. The referee has seen enough.",
-    "audio_url": "en/male/FOUL_4.mp3",
-    "audio_url_male": "en/male/FOUL_4.mp3",
-    "audio_url_female": "en/female/FOUL_4.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Kore"
+    "phrase_en": "[surprised] Ouch! That one looked painful. The referee has seen enough.",
+    "phrase_ar": "[surprised] أوتش! تدخل يبدو مؤلماً جداً. الحكم شاهد كل شيء ويتدخل.",
+    "phrase_fr": "[surprised] Aïe ! Ça semblait bien douloureux. L'arbitre en a vu assez et intervient.",
+    "phrase_es": "[surprised] ¡Ay! Esa pareció muy dolorosa. El árbitro no duda e interviene.",
+    "audio_en_male": "audio/en/male/FOUL_4.mp3",
+    "audio_en_female": "audio/en/female/FOUL_4.mp3",
+    "audio_ar": "audio/ar/FOUL_4.mp3",
+    "audio_fr": "audio/fr/FOUL_4.mp3",
+    "audio_es": "audio/es/FOUL_4.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[surprised] Ouch! That one looked painful. The referee has seen enough.",
+        "audio_url_male": "audio/en/male/FOUL_4.mp3",
+        "audio_url_female": "audio/en/female/FOUL_4.mp3",
+        "wav_url_male": "audio/en/male/FOUL_4.wav",
+        "wav_url_female": "audio/en/female/FOUL_4.wav",
+        "audio_url": "audio/en/male/FOUL_4.mp3"
+      },
+      "ar": {
+        "phrase": "[surprised] أوتش! تدخل يبدو مؤلماً جداً. الحكم شاهد كل شيء ويتدخل.",
+        "audio_url": "audio/ar/FOUL_4.mp3",
+        "wav_url": "audio/ar/FOUL_4.wav"
+      },
+      "fr": {
+        "phrase": "[surprised] Aïe ! Ça semblait bien douloureux. L'arbitre en a vu assez et intervient.",
+        "audio_url": "audio/fr/FOUL_4.mp3",
+        "wav_url": "audio/fr/FOUL_4.wav"
+      },
+      "es": {
+        "phrase": "[surprised] ¡Ay! Esa pareció muy dolorosa. El árbitro no duda e interviene.",
+        "audio_url": "audio/es/FOUL_4.mp3",
+        "wav_url": "audio/es/FOUL_4.wav"
+      }
+    }
   },
   {
+    "id": "FOUL_5",
     "event": "FOUL",
-    "phrase": "[disapproving] Late challenge! That's definitely a foul.",
-    "audio_url": "en/male/FOUL_5.mp3",
-    "audio_url_male": "en/male/FOUL_5.mp3",
-    "audio_url_female": "en/female/FOUL_5.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Aoede"
+    "phrase_en": "[disapproving] Late challenge! That's definitely a foul.",
+    "phrase_ar": "[disapproving] تدخل متأخر بتهور! هذا خطأ صريح دون أدنى شك.",
+    "phrase_fr": "[disapproving] Intervention très en retard ! C'est incontestablement une faute.",
+    "phrase_es": "[disapproving] ¡Llegó tardísimo al cruce! Falta clarísima sin ninguna duda.",
+    "audio_en_male": "audio/en/male/FOUL_5.mp3",
+    "audio_en_female": "audio/en/female/FOUL_5.mp3",
+    "audio_ar": "audio/ar/FOUL_5.mp3",
+    "audio_fr": "audio/fr/FOUL_5.mp3",
+    "audio_es": "audio/es/FOUL_5.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[disapproving] Late challenge! That's definitely a foul.",
+        "audio_url_male": "audio/en/male/FOUL_5.mp3",
+        "audio_url_female": "audio/en/female/FOUL_5.mp3",
+        "wav_url_male": "audio/en/male/FOUL_5.wav",
+        "wav_url_female": "audio/en/female/FOUL_5.wav",
+        "audio_url": "audio/en/male/FOUL_5.mp3"
+      },
+      "ar": {
+        "phrase": "[disapproving] تدخل متأخر بتهور! هذا خطأ صريح دون أدنى شك.",
+        "audio_url": "audio/ar/FOUL_5.mp3",
+        "wav_url": "audio/ar/FOUL_5.wav"
+      },
+      "fr": {
+        "phrase": "[disapproving] Intervention très en retard ! C'est incontestablement une faute.",
+        "audio_url": "audio/fr/FOUL_5.mp3",
+        "wav_url": "audio/fr/FOUL_5.wav"
+      },
+      "es": {
+        "phrase": "[disapproving] ¡Llegó tardísimo al cruce! Falta clarísima sin ninguna duda.",
+        "audio_url": "audio/es/FOUL_5.mp3",
+        "wav_url": "audio/es/FOUL_5.wav"
+      }
+    }
   },
   {
+    "id": "PENALTY_1",
     "event": "PENALTY",
-    "phrase": "[shouting] Penalty!!! [gasp] The referee points to the spot!",
-    "audio_url": "en/male/PENALTY_1.mp3",
-    "audio_url_male": "en/male/PENALTY_1.mp3",
-    "audio_url_female": "en/female/PENALTY_1.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Kore"
+    "phrase_en": "[shouting] Penalty!!! [gasp] The referee points to the spot!",
+    "phrase_ar": "[shouting] ضربة جزاء!!! [gasp] الحكم يشير إلى علامة الجزاء!",
+    "phrase_fr": "[shouting] Penalty !!! [gasp] L'arbitre désigne le point de penalty !",
+    "phrase_es": "[shouting] ¡¡¡Penal, penal, penal!!! [gasp] ¡El árbitro señala el punto fatídico!",
+    "audio_en_male": "audio/en/male/PENALTY_1.mp3",
+    "audio_en_female": "audio/en/female/PENALTY_1.mp3",
+    "audio_ar": "audio/ar/PENALTY_1.mp3",
+    "audio_fr": "audio/fr/PENALTY_1.mp3",
+    "audio_es": "audio/es/PENALTY_1.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[shouting] Penalty!!! [gasp] The referee points to the spot!",
+        "audio_url_male": "audio/en/male/PENALTY_1.mp3",
+        "audio_url_female": "audio/en/female/PENALTY_1.mp3",
+        "wav_url_male": "audio/en/male/PENALTY_1.wav",
+        "wav_url_female": "audio/en/female/PENALTY_1.wav",
+        "audio_url": "audio/en/male/PENALTY_1.mp3"
+      },
+      "ar": {
+        "phrase": "[shouting] ضربة جزاء!!! [gasp] الحكم يشير إلى علامة الجزاء!",
+        "audio_url": "audio/ar/PENALTY_1.mp3",
+        "wav_url": "audio/ar/PENALTY_1.wav"
+      },
+      "fr": {
+        "phrase": "[shouting] Penalty !!! [gasp] L'arbitre désigne le point de penalty !",
+        "audio_url": "audio/fr/PENALTY_1.mp3",
+        "wav_url": "audio/fr/PENALTY_1.wav"
+      },
+      "es": {
+        "phrase": "[shouting] ¡¡¡Penal, penal, penal!!! [gasp] ¡El árbitro señala el punto fatídico!",
+        "audio_url": "audio/es/PENALTY_1.mp3",
+        "wav_url": "audio/es/PENALTY_1.wav"
+      }
+    }
   },
   {
+    "id": "PENALTY_2",
     "event": "PENALTY",
-    "phrase": "[tense] A huge moment here. Penalty kick! The whole stadium is holding its breath.",
-    "audio_url": "en/male/PENALTY_2.mp3",
-    "audio_url_male": "en/male/PENALTY_2.mp3",
-    "audio_url_female": "en/female/PENALTY_2.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Aoede"
+    "phrase_en": "[tense] A huge moment here. Penalty kick! The whole stadium is holding its breath.",
+    "phrase_ar": "[tense] لحظة حاسمة هنا. ركلة جزاء! الملعب بأكمله يحبس أنفاسه.",
+    "phrase_fr": "[tense] Moment crucial ici. Coup de réparation ! Tout le stade retient son souffle.",
+    "phrase_es": "[tense] Momento culminante del partido. ¡Tiro penal! Todo el estadio contiene la respiración.",
+    "audio_en_male": "audio/en/male/PENALTY_2.mp3",
+    "audio_en_female": "audio/en/female/PENALTY_2.mp3",
+    "audio_ar": "audio/ar/PENALTY_2.mp3",
+    "audio_fr": "audio/fr/PENALTY_2.mp3",
+    "audio_es": "audio/es/PENALTY_2.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[tense] A huge moment here. Penalty kick! The whole stadium is holding its breath.",
+        "audio_url_male": "audio/en/male/PENALTY_2.mp3",
+        "audio_url_female": "audio/en/female/PENALTY_2.mp3",
+        "wav_url_male": "audio/en/male/PENALTY_2.wav",
+        "wav_url_female": "audio/en/female/PENALTY_2.wav",
+        "audio_url": "audio/en/male/PENALTY_2.mp3"
+      },
+      "ar": {
+        "phrase": "[tense] لحظة حاسمة هنا. ركلة جزاء! الملعب بأكمله يحبس أنفاسه.",
+        "audio_url": "audio/ar/PENALTY_2.mp3",
+        "wav_url": "audio/ar/PENALTY_2.wav"
+      },
+      "fr": {
+        "phrase": "[tense] Moment crucial ici. Coup de réparation ! Tout le stade retient son souffle.",
+        "audio_url": "audio/fr/PENALTY_2.mp3",
+        "wav_url": "audio/fr/PENALTY_2.wav"
+      },
+      "es": {
+        "phrase": "[tense] Momento culminante del partido. ¡Tiro penal! Todo el estadio contiene la respiración.",
+        "audio_url": "audio/es/PENALTY_2.mp3",
+        "wav_url": "audio/es/PENALTY_2.wav"
+      }
+    }
   },
   {
+    "id": "PENALTY_3",
     "event": "PENALTY",
-    "phrase": "[excited] He's been brought down in the box! It's a penalty!",
-    "audio_url": "en/male/PENALTY_3.mp3",
-    "audio_url_male": "en/male/PENALTY_3.mp3",
-    "audio_url_female": "en/female/PENALTY_3.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Zephyr"
+    "phrase_en": "[excited] He's been brought down in the box! It's a penalty!",
+    "phrase_ar": "[excited] يسقط داخل منطقة العمليات! إنها ضربة جزاء!",
+    "phrase_fr": "[excited] Il est accroché dans la surface ! C'est un penalty !",
+    "phrase_es": "[excited] ¡Lo derriban dentro del área! ¡Es penal, es penal!",
+    "audio_en_male": "audio/en/male/PENALTY_3.mp3",
+    "audio_en_female": "audio/en/female/PENALTY_3.mp3",
+    "audio_ar": "audio/ar/PENALTY_3.mp3",
+    "audio_fr": "audio/fr/PENALTY_3.mp3",
+    "audio_es": "audio/es/PENALTY_3.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[excited] He's been brought down in the box! It's a penalty!",
+        "audio_url_male": "audio/en/male/PENALTY_3.mp3",
+        "audio_url_female": "audio/en/female/PENALTY_3.mp3",
+        "wav_url_male": "audio/en/male/PENALTY_3.wav",
+        "wav_url_female": "audio/en/female/PENALTY_3.wav",
+        "audio_url": "audio/en/male/PENALTY_3.mp3"
+      },
+      "ar": {
+        "phrase": "[excited] يسقط داخل منطقة العمليات! إنها ضربة جزاء!",
+        "audio_url": "audio/ar/PENALTY_3.mp3",
+        "wav_url": "audio/ar/PENALTY_3.wav"
+      },
+      "fr": {
+        "phrase": "[excited] Il est accroché dans la surface ! C'est un penalty !",
+        "audio_url": "audio/fr/PENALTY_3.mp3",
+        "wav_url": "audio/fr/PENALTY_3.wav"
+      },
+      "es": {
+        "phrase": "[excited] ¡Lo derriban dentro del área! ¡Es penal, es penal!",
+        "audio_url": "audio/es/PENALTY_3.mp3",
+        "wav_url": "audio/es/PENALTY_3.wav"
+      }
+    }
   },
   {
+    "id": "PENALTY_4",
     "event": "PENALTY",
-    "phrase": "[whispering] Silence in the stadium... the penalty taker steps up...",
-    "audio_url": "en/male/PENALTY_4.mp3",
-    "audio_url_male": "en/male/PENALTY_4.mp3",
-    "audio_url_female": "en/female/PENALTY_4.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Kore"
+    "phrase_en": "[whispering] Silence in the stadium... the penalty taker steps up...",
+    "phrase_ar": "[whispering] صمت مطبق في أرجاء الملعب... المهاجم يستعد للتنفيذ...",
+    "phrase_fr": "[whispering] Silence de cathédrale dans le stade... le tireur s'avance...",
+    "phrase_es": "[whispering] Silencio sepulcral en el estadio... el ejecutor toma carrera...",
+    "audio_en_male": "audio/en/male/PENALTY_4.mp3",
+    "audio_en_female": "audio/en/female/PENALTY_4.mp3",
+    "audio_ar": "audio/ar/PENALTY_4.mp3",
+    "audio_fr": "audio/fr/PENALTY_4.mp3",
+    "audio_es": "audio/es/PENALTY_4.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[whispering] Silence in the stadium... the penalty taker steps up...",
+        "audio_url_male": "audio/en/male/PENALTY_4.mp3",
+        "audio_url_female": "audio/en/female/PENALTY_4.mp3",
+        "wav_url_male": "audio/en/male/PENALTY_4.wav",
+        "wav_url_female": "audio/en/female/PENALTY_4.wav",
+        "audio_url": "audio/en/male/PENALTY_4.mp3"
+      },
+      "ar": {
+        "phrase": "[whispering] صمت مطبق في أرجاء الملعب... المهاجم يستعد للتنفيذ...",
+        "audio_url": "audio/ar/PENALTY_4.mp3",
+        "wav_url": "audio/ar/PENALTY_4.wav"
+      },
+      "fr": {
+        "phrase": "[whispering] Silence de cathédrale dans le stade... le tireur s'avance...",
+        "audio_url": "audio/fr/PENALTY_4.mp3",
+        "wav_url": "audio/fr/PENALTY_4.wav"
+      },
+      "es": {
+        "phrase": "[whispering] Silencio sepulcral en el estadio... el ejecutor toma carrera...",
+        "audio_url": "audio/es/PENALTY_4.mp3",
+        "wav_url": "audio/es/PENALTY_4.wav"
+      }
+    }
   },
   {
+    "id": "PENALTY_5",
     "event": "PENALTY",
-    "phrase": "[dramatic] The referee doesn't hesitate! Penalty! This could change everything!",
-    "audio_url": "en/male/PENALTY_5.mp3",
-    "audio_url_male": "en/male/PENALTY_5.mp3",
-    "audio_url_female": "en/female/PENALTY_5.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Aoede"
+    "phrase_en": "[dramatic] The referee doesn't hesitate! Penalty! This could change everything!",
+    "phrase_ar": "[dramatic] الحكم لا يتردد أبداً! ركلة جزاء! هذا القرار قد يغير كل الموازين!",
+    "phrase_fr": "[dramatic] L'arbitre n'hésite pas une seule seconde ! Penalty ! Cela peut absolument tout changer !",
+    "phrase_es": "[dramatic] ¡El árbitro no lo duda un segundo! ¡Penal! ¡Esto puede cambiar completamente el rumbo del partido!",
+    "audio_en_male": "audio/en/male/PENALTY_5.mp3",
+    "audio_en_female": "audio/en/female/PENALTY_5.mp3",
+    "audio_ar": "audio/ar/PENALTY_5.mp3",
+    "audio_fr": "audio/fr/PENALTY_5.mp3",
+    "audio_es": "audio/es/PENALTY_5.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[dramatic] The referee doesn't hesitate! Penalty! This could change everything!",
+        "audio_url_male": "audio/en/male/PENALTY_5.mp3",
+        "audio_url_female": "audio/en/female/PENALTY_5.mp3",
+        "wav_url_male": "audio/en/male/PENALTY_5.wav",
+        "wav_url_female": "audio/en/female/PENALTY_5.wav",
+        "audio_url": "audio/en/male/PENALTY_5.mp3"
+      },
+      "ar": {
+        "phrase": "[dramatic] الحكم لا يتردد أبداً! ركلة جزاء! هذا القرار قد يغير كل الموازين!",
+        "audio_url": "audio/ar/PENALTY_5.mp3",
+        "wav_url": "audio/ar/PENALTY_5.wav"
+      },
+      "fr": {
+        "phrase": "[dramatic] L'arbitre n'hésite pas une seule seconde ! Penalty ! Cela peut absolument tout changer !",
+        "audio_url": "audio/fr/PENALTY_5.mp3",
+        "wav_url": "audio/fr/PENALTY_5.wav"
+      },
+      "es": {
+        "phrase": "[dramatic] ¡El árbitro no lo duda un segundo! ¡Penal! ¡Esto puede cambiar completamente el rumbo del partido!",
+        "audio_url": "audio/es/PENALTY_5.mp3",
+        "wav_url": "audio/es/PENALTY_5.wav"
+      }
+    }
   },
   {
+    "id": "CORNER_1",
     "event": "CORNER",
-    "phrase": "[excited] Corner kick! A great chance to put the ball in the box.",
-    "audio_url": "en/male/CORNER_1.mp3",
-    "audio_url_male": "en/male/CORNER_1.mp3",
-    "audio_url_female": "en/female/CORNER_1.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Kore"
+    "phrase_en": "[excited] Corner kick! A great chance to put the ball in the box.",
+    "phrase_ar": "[excited] ركلة ركنية! فرصة مواتية للغاية لإرسال الكرة داخل المنطقة.",
+    "phrase_fr": "[excited] Corner ! Une occasion en or de mettre le ballon dans la boîte.",
+    "phrase_es": "[excited] ¡Tiro de esquina! Gran oportunidad para mandar el balón a la candela.",
+    "audio_en_male": "audio/en/male/CORNER_1.mp3",
+    "audio_en_female": "audio/en/female/CORNER_1.mp3",
+    "audio_ar": "audio/ar/CORNER_1.mp3",
+    "audio_fr": "audio/fr/CORNER_1.mp3",
+    "audio_es": "audio/es/CORNER_1.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[excited] Corner kick! A great chance to put the ball in the box.",
+        "audio_url_male": "audio/en/male/CORNER_1.mp3",
+        "audio_url_female": "audio/en/female/CORNER_1.mp3",
+        "wav_url_male": "audio/en/male/CORNER_1.wav",
+        "wav_url_female": "audio/en/female/CORNER_1.wav",
+        "audio_url": "audio/en/male/CORNER_1.mp3"
+      },
+      "ar": {
+        "phrase": "[excited] ركلة ركنية! فرصة مواتية للغاية لإرسال الكرة داخل المنطقة.",
+        "audio_url": "audio/ar/CORNER_1.mp3",
+        "wav_url": "audio/ar/CORNER_1.wav"
+      },
+      "fr": {
+        "phrase": "[excited] Corner ! Une occasion en or de mettre le ballon dans la boîte.",
+        "audio_url": "audio/fr/CORNER_1.mp3",
+        "wav_url": "audio/fr/CORNER_1.wav"
+      },
+      "es": {
+        "phrase": "[excited] ¡Tiro de esquina! Gran oportunidad para mandar el balón a la candela.",
+        "audio_url": "audio/es/CORNER_1.mp3",
+        "wav_url": "audio/es/CORNER_1.wav"
+      }
+    }
   },
   {
+    "id": "CORNER_2",
     "event": "CORNER",
-    "phrase": "[energetic] The defender clears it behind, and it's a corner.",
-    "audio_url": "en/male/CORNER_2.mp3",
-    "audio_url_male": "en/male/CORNER_2.mp3",
-    "audio_url_female": "en/female/CORNER_2.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Aoede"
+    "phrase_en": "[energetic] The defender clears it behind, and it's a corner.",
+    "phrase_ar": "[energetic] المدافع يبعد الكرة إلى ما وراء خط المرمى، وركنية جديدة.",
+    "phrase_fr": "[energetic] Le défenseur dégage derrière sa ligne, et ce sera un corner.",
+    "phrase_es": "[energetic] La manda afuera el defensor, ¡y se viene el córner!",
+    "audio_en_male": "audio/en/male/CORNER_2.mp3",
+    "audio_en_female": "audio/en/female/CORNER_2.mp3",
+    "audio_ar": "audio/ar/CORNER_2.mp3",
+    "audio_fr": "audio/fr/CORNER_2.mp3",
+    "audio_es": "audio/es/CORNER_2.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[energetic] The defender clears it behind, and it's a corner.",
+        "audio_url_male": "audio/en/male/CORNER_2.mp3",
+        "audio_url_female": "audio/en/female/CORNER_2.mp3",
+        "wav_url_male": "audio/en/male/CORNER_2.wav",
+        "wav_url_female": "audio/en/female/CORNER_2.wav",
+        "audio_url": "audio/en/male/CORNER_2.mp3"
+      },
+      "ar": {
+        "phrase": "[energetic] المدافع يبعد الكرة إلى ما وراء خط المرمى، وركنية جديدة.",
+        "audio_url": "audio/ar/CORNER_2.mp3",
+        "wav_url": "audio/ar/CORNER_2.wav"
+      },
+      "fr": {
+        "phrase": "[energetic] Le défenseur dégage derrière sa ligne, et ce sera un corner.",
+        "audio_url": "audio/fr/CORNER_2.mp3",
+        "wav_url": "audio/fr/CORNER_2.wav"
+      },
+      "es": {
+        "phrase": "[energetic] La manda afuera el defensor, ¡y se viene el córner!",
+        "audio_url": "audio/es/CORNER_2.mp3",
+        "wav_url": "audio/es/CORNER_2.wav"
+      }
+    }
   },
   {
+    "id": "CORNER_3",
     "event": "CORNER",
-    "phrase": "[focused] Corner kick coming in... everyone is packed into the box!",
-    "audio_url": "en/male/CORNER_3.mp3",
-    "audio_url_male": "en/male/CORNER_3.mp3",
-    "audio_url_female": "en/female/CORNER_3.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Zephyr"
+    "phrase_en": "[focused] Corner kick coming in... everyone is packed into the box!",
+    "phrase_ar": "[focused] تنفيذ الركنية يقترب... ازدحام خانق داخل منطقة الجزاء!",
+    "phrase_fr": "[focused] Le corner va être botté... embouteillage monstre dans la surface !",
+    "phrase_es": "[focused] Se prepara el tiro de esquina... ¡todo el mundo apretado en el corazón del área!",
+    "audio_en_male": "audio/en/male/CORNER_3.mp3",
+    "audio_en_female": "audio/en/female/CORNER_3.mp3",
+    "audio_ar": "audio/ar/CORNER_3.mp3",
+    "audio_fr": "audio/fr/CORNER_3.mp3",
+    "audio_es": "audio/es/CORNER_3.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[focused] Corner kick coming in... everyone is packed into the box!",
+        "audio_url_male": "audio/en/male/CORNER_3.mp3",
+        "audio_url_female": "audio/en/female/CORNER_3.mp3",
+        "wav_url_male": "audio/en/male/CORNER_3.wav",
+        "wav_url_female": "audio/en/female/CORNER_3.wav",
+        "audio_url": "audio/en/male/CORNER_3.mp3"
+      },
+      "ar": {
+        "phrase": "[focused] تنفيذ الركنية يقترب... ازدحام خانق داخل منطقة الجزاء!",
+        "audio_url": "audio/ar/CORNER_3.mp3",
+        "wav_url": "audio/ar/CORNER_3.wav"
+      },
+      "fr": {
+        "phrase": "[focused] Le corner va être botté... embouteillage monstre dans la surface !",
+        "audio_url": "audio/fr/CORNER_3.mp3",
+        "wav_url": "audio/fr/CORNER_3.wav"
+      },
+      "es": {
+        "phrase": "[focused] Se prepara el tiro de esquina... ¡todo el mundo apretado en el corazón del área!",
+        "audio_url": "audio/es/CORNER_3.mp3",
+        "wav_url": "audio/es/CORNER_3.wav"
+      }
+    }
   },
   {
+    "id": "CORNER_4",
     "event": "CORNER",
-    "phrase": "[intense] A dangerous corner! Watch out for the header!",
-    "audio_url": "en/male/CORNER_4.mp3",
-    "audio_url_male": "en/male/CORNER_4.mp3",
-    "audio_url_female": "en/female/CORNER_4.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Kore"
+    "phrase_en": "[intense] A dangerous corner! Watch out for the header!",
+    "phrase_ar": "[intense] ركنية في منتهى الخطورة! الحذر كل الحذر من ضربة رأس مباغتة!",
+    "phrase_fr": "[intense] Un corner bouillant ! Attention au coup de tête !",
+    "phrase_es": "[intense] ¡Un tiro de esquina peligrosísimo! ¡Cuidado con el cabezazo!",
+    "audio_en_male": "audio/en/male/CORNER_4.mp3",
+    "audio_en_female": "audio/en/female/CORNER_4.mp3",
+    "audio_ar": "audio/ar/CORNER_4.mp3",
+    "audio_fr": "audio/fr/CORNER_4.mp3",
+    "audio_es": "audio/es/CORNER_4.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[intense] A dangerous corner! Watch out for the header!",
+        "audio_url_male": "audio/en/male/CORNER_4.mp3",
+        "audio_url_female": "audio/en/female/CORNER_4.mp3",
+        "wav_url_male": "audio/en/male/CORNER_4.wav",
+        "wav_url_female": "audio/en/female/CORNER_4.wav",
+        "audio_url": "audio/en/male/CORNER_4.mp3"
+      },
+      "ar": {
+        "phrase": "[intense] ركنية في منتهى الخطورة! الحذر كل الحذر من ضربة رأس مباغتة!",
+        "audio_url": "audio/ar/CORNER_4.mp3",
+        "wav_url": "audio/ar/CORNER_4.wav"
+      },
+      "fr": {
+        "phrase": "[intense] Un corner bouillant ! Attention au coup de tête !",
+        "audio_url": "audio/fr/CORNER_4.mp3",
+        "wav_url": "audio/fr/CORNER_4.wav"
+      },
+      "es": {
+        "phrase": "[intense] ¡Un tiro de esquina peligrosísimo! ¡Cuidado con el cabezazo!",
+        "audio_url": "audio/es/CORNER_4.mp3",
+        "wav_url": "audio/es/CORNER_4.wav"
+      }
+    }
   },
   {
+    "id": "CORNER_5",
     "event": "CORNER",
-    "phrase": "[calm] Another corner for the attacking side. Let's see what they do with it.",
-    "audio_url": "en/male/CORNER_5.mp3",
-    "audio_url_male": "en/male/CORNER_5.mp3",
-    "audio_url_female": "en/female/CORNER_5.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Aoede"
+    "phrase_en": "[calm] Another corner for the attacking side. Let's see what they do with it.",
+    "phrase_ar": "[calm] ركنية أخرى لصالح الفريق المهاجم. لنر كيف ستلعب هذه المحاولة.",
+    "phrase_fr": "[calm] Nouveau corner pour les attaquants. Voyons ce qu'ils vont proposer.",
+    "phrase_es": "[calm] Otro córner para la visita. Vamos a ver qué prepararon en la pizarra.",
+    "audio_en_male": "audio/en/male/CORNER_5.mp3",
+    "audio_en_female": "audio/en/female/CORNER_5.mp3",
+    "audio_ar": "audio/ar/CORNER_5.mp3",
+    "audio_fr": "audio/fr/CORNER_5.mp3",
+    "audio_es": "audio/es/CORNER_5.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[calm] Another corner for the attacking side. Let's see what they do with it.",
+        "audio_url_male": "audio/en/male/CORNER_5.mp3",
+        "audio_url_female": "audio/en/female/CORNER_5.mp3",
+        "wav_url_male": "audio/en/male/CORNER_5.wav",
+        "wav_url_female": "audio/en/female/CORNER_5.wav",
+        "audio_url": "audio/en/male/CORNER_5.mp3"
+      },
+      "ar": {
+        "phrase": "[calm] ركنية أخرى لصالح الفريق المهاجم. لنر كيف ستلعب هذه المحاولة.",
+        "audio_url": "audio/ar/CORNER_5.mp3",
+        "wav_url": "audio/ar/CORNER_5.wav"
+      },
+      "fr": {
+        "phrase": "[calm] Nouveau corner pour les attaquants. Voyons ce qu'ils vont proposer.",
+        "audio_url": "audio/fr/CORNER_5.mp3",
+        "wav_url": "audio/fr/CORNER_5.wav"
+      },
+      "es": {
+        "phrase": "[calm] Otro córner para la visita. Vamos a ver qué prepararon en la pizarra.",
+        "audio_url": "audio/es/CORNER_5.mp3",
+        "wav_url": "audio/es/CORNER_5.wav"
+      }
+    }
   },
   {
+    "id": "SAVE_1",
     "event": "SAVE",
-    "phrase": "[shouting] What a save!!! [gasp] Incredible from the goalkeeper!",
-    "audio_url": "en/male/SAVE_1.mp3",
-    "audio_url_male": "en/male/SAVE_1.mp3",
-    "audio_url_female": "en/female/SAVE_1.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Kore"
+    "phrase_en": "[shouting] What a save!!! [gasp] Incredible from the goalkeeper!",
+    "phrase_ar": "[shouting] يا له من تصدٍ إعجازي!!! [gasp] لقطة خيالية من حارس المرمى!",
+    "phrase_fr": "[shouting] Quel arrêt extraordinaire !!! [gasp] Parade d'anthologie du gardien !",
+    "phrase_es": "[shouting] ¡¡¡Qué atajada monumental!!! [gasp] ¡Impresionante lo del arquero!",
+    "audio_en_male": "audio/en/male/SAVE_1.mp3",
+    "audio_en_female": "audio/en/female/SAVE_1.mp3",
+    "audio_ar": "audio/ar/SAVE_1.mp3",
+    "audio_fr": "audio/fr/SAVE_1.mp3",
+    "audio_es": "audio/es/SAVE_1.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[shouting] What a save!!! [gasp] Incredible from the goalkeeper!",
+        "audio_url_male": "audio/en/male/SAVE_1.mp3",
+        "audio_url_female": "audio/en/female/SAVE_1.mp3",
+        "wav_url_male": "audio/en/male/SAVE_1.wav",
+        "wav_url_female": "audio/en/female/SAVE_1.wav",
+        "audio_url": "audio/en/male/SAVE_1.mp3"
+      },
+      "ar": {
+        "phrase": "[shouting] يا له من تصدٍ إعجازي!!! [gasp] لقطة خيالية من حارس المرمى!",
+        "audio_url": "audio/ar/SAVE_1.mp3",
+        "wav_url": "audio/ar/SAVE_1.wav"
+      },
+      "fr": {
+        "phrase": "[shouting] Quel arrêt extraordinaire !!! [gasp] Parade d'anthologie du gardien !",
+        "audio_url": "audio/fr/SAVE_1.mp3",
+        "wav_url": "audio/fr/SAVE_1.wav"
+      },
+      "es": {
+        "phrase": "[shouting] ¡¡¡Qué atajada monumental!!! [gasp] ¡Impresionante lo del arquero!",
+        "audio_url": "audio/es/SAVE_1.mp3",
+        "wav_url": "audio/es/SAVE_1.wav"
+      }
+    }
   },
   {
+    "id": "SAVE_2",
     "event": "SAVE",
-    "phrase": "[amazed] He gets a hand to it! Unbelievable reflexes!",
-    "audio_url": "en/male/SAVE_2.mp3",
-    "audio_url_male": "en/male/SAVE_2.mp3",
-    "audio_url_female": "en/female/SAVE_2.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Aoede"
+    "phrase_en": "[amazed] He gets a hand to it! Unbelievable reflexes!",
+    "phrase_ar": "[amazed] يلمسها بأطراف أصابعه! سرعة رد فعل لا تصدق!",
+    "phrase_fr": "[amazed] La manchette miraculeuse ! Des réflexes venus d'ailleurs !",
+    "phrase_es": "[amazed] ¡Mete el manotazo salvador! ¡Reflejos felinos, de otro planeta!",
+    "audio_en_male": "audio/en/male/SAVE_2.mp3",
+    "audio_en_female": "audio/en/female/SAVE_2.mp3",
+    "audio_ar": "audio/ar/SAVE_2.mp3",
+    "audio_fr": "audio/fr/SAVE_2.mp3",
+    "audio_es": "audio/es/SAVE_2.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[amazed] He gets a hand to it! Unbelievable reflexes!",
+        "audio_url_male": "audio/en/male/SAVE_2.mp3",
+        "audio_url_female": "audio/en/female/SAVE_2.mp3",
+        "wav_url_male": "audio/en/male/SAVE_2.wav",
+        "wav_url_female": "audio/en/female/SAVE_2.wav",
+        "audio_url": "audio/en/male/SAVE_2.mp3"
+      },
+      "ar": {
+        "phrase": "[amazed] يلمسها بأطراف أصابعه! سرعة رد فعل لا تصدق!",
+        "audio_url": "audio/ar/SAVE_2.mp3",
+        "wav_url": "audio/ar/SAVE_2.wav"
+      },
+      "fr": {
+        "phrase": "[amazed] La manchette miraculeuse ! Des réflexes venus d'ailleurs !",
+        "audio_url": "audio/fr/SAVE_2.mp3",
+        "wav_url": "audio/fr/SAVE_2.wav"
+      },
+      "es": {
+        "phrase": "[amazed] ¡Mete el manotazo salvador! ¡Reflejos felinos, de otro planeta!",
+        "audio_url": "audio/es/SAVE_2.mp3",
+        "wav_url": "audio/es/SAVE_2.wav"
+      }
+    }
   },
   {
+    "id": "SAVE_3",
     "event": "SAVE",
-    "phrase": "[excited] The goalkeeper is a wall tonight! Superb save!",
-    "audio_url": "en/male/SAVE_3.mp3",
-    "audio_url_male": "en/male/SAVE_3.mp3",
-    "audio_url_female": "en/female/SAVE_3.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Zephyr"
+    "phrase_en": "[excited] The goalkeeper is a wall tonight! Superb save!",
+    "phrase_ar": "[excited] حارس المرمى يتحول إلى جدار عازل الليلة! تصدٍ في قمة الروعة!",
+    "phrase_fr": "[excited] Le gardien est une véritable forteresse ce soir ! Quelle parade !",
+    "phrase_es": "[excited] ¡El arquero es una muralla infranqueable esta noche! ¡Brillante intervención!",
+    "audio_en_male": "audio/en/male/SAVE_3.mp3",
+    "audio_en_female": "audio/en/female/SAVE_3.mp3",
+    "audio_ar": "audio/ar/SAVE_3.mp3",
+    "audio_fr": "audio/fr/SAVE_3.mp3",
+    "audio_es": "audio/es/SAVE_3.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[excited] The goalkeeper is a wall tonight! Superb save!",
+        "audio_url_male": "audio/en/male/SAVE_3.mp3",
+        "audio_url_female": "audio/en/female/SAVE_3.mp3",
+        "wav_url_male": "audio/en/male/SAVE_3.wav",
+        "wav_url_female": "audio/en/female/SAVE_3.wav",
+        "audio_url": "audio/en/male/SAVE_3.mp3"
+      },
+      "ar": {
+        "phrase": "[excited] حارس المرمى يتحول إلى جدار عازل الليلة! تصدٍ في قمة الروعة!",
+        "audio_url": "audio/ar/SAVE_3.mp3",
+        "wav_url": "audio/ar/SAVE_3.wav"
+      },
+      "fr": {
+        "phrase": "[excited] Le gardien est une véritable forteresse ce soir ! Quelle parade !",
+        "audio_url": "audio/fr/SAVE_3.mp3",
+        "wav_url": "audio/fr/SAVE_3.wav"
+      },
+      "es": {
+        "phrase": "[excited] ¡El arquero es una muralla infranqueable esta noche! ¡Brillante intervención!",
+        "audio_url": "audio/es/SAVE_3.mp3",
+        "wav_url": "audio/es/SAVE_3.wav"
+      }
+    }
   },
   {
+    "id": "SAVE_4",
     "event": "SAVE",
-    "phrase": "[screaming] No way! He keeps it out! [laughs] How did he do that?",
-    "audio_url": "en/male/SAVE_4.mp3",
-    "audio_url_male": "en/male/SAVE_4.mp3",
-    "audio_url_female": "en/female/SAVE_4.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Kore"
+    "phrase_en": "[screaming] No way! He keeps it out! [laughs] How did he do that?",
+    "phrase_ar": "[screaming] لا، مستحيل! يمنعها من الشباك! [laughs] كيف أخرج هذه الكرة بالله عليكم؟!",
+    "phrase_fr": "[screaming] Non mais c'est pas possible ! Il la sort de nulle part ! [laughs] Mais comment il a fait ça ?!",
+    "phrase_es": "[screaming] ¡No me lo creo, no te lo puedo creer! ¡La sacó de la línea! [laughs] ¡¿Pero cómo hizo eso?!",
+    "audio_en_male": "audio/en/male/SAVE_4.mp3",
+    "audio_en_female": "audio/en/female/SAVE_4.mp3",
+    "audio_ar": "audio/ar/SAVE_4.mp3",
+    "audio_fr": "audio/fr/SAVE_4.mp3",
+    "audio_es": "audio/es/SAVE_4.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[screaming] No way! He keeps it out! [laughs] How did he do that?",
+        "audio_url_male": "audio/en/male/SAVE_4.mp3",
+        "audio_url_female": "audio/en/female/SAVE_4.mp3",
+        "wav_url_male": "audio/en/male/SAVE_4.wav",
+        "wav_url_female": "audio/en/female/SAVE_4.wav",
+        "audio_url": "audio/en/male/SAVE_4.mp3"
+      },
+      "ar": {
+        "phrase": "[screaming] لا، مستحيل! يمنعها من الشباك! [laughs] كيف أخرج هذه الكرة بالله عليكم؟!",
+        "audio_url": "audio/ar/SAVE_4.mp3",
+        "wav_url": "audio/ar/SAVE_4.wav"
+      },
+      "fr": {
+        "phrase": "[screaming] Non mais c'est pas possible ! Il la sort de nulle part ! [laughs] Mais comment il a fait ça ?!",
+        "audio_url": "audio/fr/SAVE_4.mp3",
+        "wav_url": "audio/fr/SAVE_4.wav"
+      },
+      "es": {
+        "phrase": "[screaming] ¡No me lo creo, no te lo puedo creer! ¡La sacó de la línea! [laughs] ¡¿Pero cómo hizo eso?!",
+        "audio_url": "audio/es/SAVE_4.mp3",
+        "wav_url": "audio/es/SAVE_4.wav"
+      }
+    }
   },
   {
+    "id": "SAVE_5",
     "event": "SAVE",
-    "phrase": "[breathless] Oh, what a stop! The keeper saves his team!",
-    "audio_url": "en/male/SAVE_5.mp3",
-    "audio_url_male": "en/male/SAVE_5.mp3",
-    "audio_url_female": "en/female/SAVE_5.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Aoede"
+    "phrase_en": "[breathless] Oh, what a stop! The keeper saves his team!",
+    "phrase_ar": "[breathless] يا إلهي، أي إنقاذ هذا! الحارس ينتشل فريقه من هدف محقق!",
+    "phrase_fr": "[breathless] Oh, quel sauvetage monumental ! Le portier préserve les siens !",
+    "phrase_es": "[breathless] ¡Uf, qué salvada épica! ¡El guardameta salva los papeles de su equipo!",
+    "audio_en_male": "audio/en/male/SAVE_5.mp3",
+    "audio_en_female": "audio/en/female/SAVE_5.mp3",
+    "audio_ar": "audio/ar/SAVE_5.mp3",
+    "audio_fr": "audio/fr/SAVE_5.mp3",
+    "audio_es": "audio/es/SAVE_5.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[breathless] Oh, what a stop! The keeper saves his team!",
+        "audio_url_male": "audio/en/male/SAVE_5.mp3",
+        "audio_url_female": "audio/en/female/SAVE_5.mp3",
+        "wav_url_male": "audio/en/male/SAVE_5.wav",
+        "wav_url_female": "audio/en/female/SAVE_5.wav",
+        "audio_url": "audio/en/male/SAVE_5.mp3"
+      },
+      "ar": {
+        "phrase": "[breathless] يا إلهي، أي إنقاذ هذا! الحارس ينتشل فريقه من هدف محقق!",
+        "audio_url": "audio/ar/SAVE_5.mp3",
+        "wav_url": "audio/ar/SAVE_5.wav"
+      },
+      "fr": {
+        "phrase": "[breathless] Oh, quel sauvetage monumental ! Le portier préserve les siens !",
+        "audio_url": "audio/fr/SAVE_5.mp3",
+        "wav_url": "audio/fr/SAVE_5.wav"
+      },
+      "es": {
+        "phrase": "[breathless] ¡Uf, qué salvada épica! ¡El guardameta salva los papeles de su equipo!",
+        "audio_url": "audio/es/SAVE_5.mp3",
+        "wav_url": "audio/es/SAVE_5.wav"
+      }
+    }
   },
   {
+    "id": "LONGPASS_1",
     "event": "LONGPASS",
-    "phrase": "[excited] Oh, what a pass! That splits the defense wide open!",
-    "audio_url": "en/male/LONGPASS_1.mp3",
-    "audio_url_male": "en/male/LONGPASS_1.mp3",
-    "audio_url_female": "en/female/LONGPASS_1.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Kore"
+    "phrase_en": "[excited] Oh, what a pass! That splits the defense wide open!",
+    "phrase_ar": "[excited] يا إلهي! يا لها من تمريرة! مزقت الدفاع تمزيقاً!",
+    "phrase_fr": "[excited] Oh, quelle passe ! Elle transperce toute la défense !",
+    "phrase_es": "[excited] ¡Oh, qué pase! ¡Ha partido a la defensa en dos!",
+    "audio_en_male": "audio/en/male/LONGPASS_1.mp3",
+    "audio_en_female": "audio/en/female/LONGPASS_1.mp3",
+    "audio_ar": "audio/ar/LONGPASS_1.mp3",
+    "audio_fr": "audio/fr/LONGPASS_1.mp3",
+    "audio_es": "audio/es/LONGPASS_1.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[excited] Oh, what a pass! That splits the defense wide open!",
+        "audio_url_male": "audio/en/male/LONGPASS_1.mp3",
+        "audio_url_female": "audio/en/female/LONGPASS_1.mp3",
+        "wav_url_male": "audio/en/male/LONGPASS_1.wav",
+        "wav_url_female": "audio/en/female/LONGPASS_1.wav",
+        "audio_url": "audio/en/male/LONGPASS_1.mp3"
+      },
+      "ar": {
+        "phrase": "[excited] يا إلهي! يا لها من تمريرة! مزقت الدفاع تمزيقاً!",
+        "audio_url": "audio/ar/LONGPASS_1.mp3",
+        "wav_url": "audio/ar/LONGPASS_1.wav"
+      },
+      "fr": {
+        "phrase": "[excited] Oh, quelle passe ! Elle transperce toute la défense !",
+        "audio_url": "audio/fr/LONGPASS_1.mp3",
+        "wav_url": "audio/fr/LONGPASS_1.wav"
+      },
+      "es": {
+        "phrase": "[excited] ¡Oh, qué pase! ¡Ha partido a la defensa en dos!",
+        "audio_url": "audio/es/LONGPASS_1.mp3",
+        "wav_url": "audio/es/LONGPASS_1.wav"
+      }
+    }
   },
   {
+    "id": "LONGPASS_2",
     "event": "LONGPASS",
-    "phrase": "[amazed] A beautiful long ball! Look at the vision!",
-    "audio_url": "en/male/LONGPASS_2.mp3",
-    "audio_url_male": "en/male/LONGPASS_2.mp3",
-    "audio_url_female": "en/female/LONGPASS_2.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Aoede"
+    "phrase_en": "[amazed] A beautiful long ball! Look at the vision!",
+    "phrase_ar": "[amazed] كرة طويلة خيالية! يا لها من رؤية ثاقبة!",
+    "phrase_fr": "[amazed] Une transversale magnifique ! Quelle vision de jeu !",
+    "phrase_es": "[amazed] ¡Qué pase largo tan hermoso! ¡Mira esa visión!",
+    "audio_en_male": "audio/en/male/LONGPASS_2.mp3",
+    "audio_en_female": "audio/en/female/LONGPASS_2.mp3",
+    "audio_ar": "audio/ar/LONGPASS_2.mp3",
+    "audio_fr": "audio/fr/LONGPASS_2.mp3",
+    "audio_es": "audio/es/LONGPASS_2.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[amazed] A beautiful long ball! Look at the vision!",
+        "audio_url_male": "audio/en/male/LONGPASS_2.mp3",
+        "audio_url_female": "audio/en/female/LONGPASS_2.mp3",
+        "wav_url_male": "audio/en/male/LONGPASS_2.wav",
+        "wav_url_female": "audio/en/female/LONGPASS_2.wav",
+        "audio_url": "audio/en/male/LONGPASS_2.mp3"
+      },
+      "ar": {
+        "phrase": "[amazed] كرة طويلة خيالية! يا لها من رؤية ثاقبة!",
+        "audio_url": "audio/ar/LONGPASS_2.mp3",
+        "wav_url": "audio/ar/LONGPASS_2.wav"
+      },
+      "fr": {
+        "phrase": "[amazed] Une transversale magnifique ! Quelle vision de jeu !",
+        "audio_url": "audio/fr/LONGPASS_2.mp3",
+        "wav_url": "audio/fr/LONGPASS_2.wav"
+      },
+      "es": {
+        "phrase": "[amazed] ¡Qué pase largo tan hermoso! ¡Mira esa visión!",
+        "audio_url": "audio/es/LONGPASS_2.mp3",
+        "wav_url": "audio/es/LONGPASS_2.wav"
+      }
+    }
   },
   {
+    "id": "LONGPASS_3",
     "event": "LONGPASS",
-    "phrase": "[energetic] Through ball! He's in behind the defense!",
-    "audio_url": "en/male/LONGPASS_3.mp3",
-    "audio_url_male": "en/male/LONGPASS_3.mp3",
-    "audio_url_female": "en/female/LONGPASS_3.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Zephyr"
+    "phrase_en": "[energetic] Through ball! He's in behind the defense!",
+    "phrase_ar": "[energetic] تمريرة بينية! لقد كسر خط الدفاع!",
+    "phrase_fr": "[energetic] La passe en profondeur ! Il est dans le dos de la défense !",
+    "phrase_es": "[energetic] ¡Pase filtrado! ¡Le ganó la espalda a toda la defensa!",
+    "audio_en_male": "audio/en/male/LONGPASS_3.mp3",
+    "audio_en_female": "audio/en/female/LONGPASS_3.mp3",
+    "audio_ar": "audio/ar/LONGPASS_3.mp3",
+    "audio_fr": "audio/fr/LONGPASS_3.mp3",
+    "audio_es": "audio/es/LONGPASS_3.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[energetic] Through ball! He's in behind the defense!",
+        "audio_url_male": "audio/en/male/LONGPASS_3.mp3",
+        "audio_url_female": "audio/en/female/LONGPASS_3.mp3",
+        "wav_url_male": "audio/en/male/LONGPASS_3.wav",
+        "wav_url_female": "audio/en/female/LONGPASS_3.wav",
+        "audio_url": "audio/en/male/LONGPASS_3.mp3"
+      },
+      "ar": {
+        "phrase": "[energetic] تمريرة بينية! لقد كسر خط الدفاع!",
+        "audio_url": "audio/ar/LONGPASS_3.mp3",
+        "wav_url": "audio/ar/LONGPASS_3.wav"
+      },
+      "fr": {
+        "phrase": "[energetic] La passe en profondeur ! Il est dans le dos de la défense !",
+        "audio_url": "audio/fr/LONGPASS_3.mp3",
+        "wav_url": "audio/fr/LONGPASS_3.wav"
+      },
+      "es": {
+        "phrase": "[energetic] ¡Pase filtrado! ¡Le ganó la espalda a toda la defensa!",
+        "audio_url": "audio/es/LONGPASS_3.mp3",
+        "wav_url": "audio/es/LONGPASS_3.wav"
+      }
+    }
   },
   {
+    "id": "LONGPASS_4",
     "event": "LONGPASS",
-    "phrase": "[impressed] Superb delivery! That is pure quality!",
-    "audio_url": "en/male/LONGPASS_4.mp3",
-    "audio_url_male": "en/male/LONGPASS_4.mp3",
-    "audio_url_female": "en/female/LONGPASS_4.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Kore"
+    "phrase_en": "[impressed] Superb delivery! That is pure quality!",
+    "phrase_ar": "[impressed] كرة مقشرة! جودة عالية جداً!",
+    "phrase_fr": "[impressed] Un caviar ! C'est de la pure classe !",
+    "phrase_es": "[impressed] ¡Qué servicio magistral! ¡Eso es pura calidad!",
+    "audio_en_male": "audio/en/male/LONGPASS_4.mp3",
+    "audio_en_female": "audio/en/female/LONGPASS_4.mp3",
+    "audio_ar": "audio/ar/LONGPASS_4.mp3",
+    "audio_fr": "audio/fr/LONGPASS_4.mp3",
+    "audio_es": "audio/es/LONGPASS_4.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[impressed] Superb delivery! That is pure quality!",
+        "audio_url_male": "audio/en/male/LONGPASS_4.mp3",
+        "audio_url_female": "audio/en/female/LONGPASS_4.mp3",
+        "wav_url_male": "audio/en/male/LONGPASS_4.wav",
+        "wav_url_female": "audio/en/female/LONGPASS_4.wav",
+        "audio_url": "audio/en/male/LONGPASS_4.mp3"
+      },
+      "ar": {
+        "phrase": "[impressed] كرة مقشرة! جودة عالية جداً!",
+        "audio_url": "audio/ar/LONGPASS_4.mp3",
+        "wav_url": "audio/ar/LONGPASS_4.wav"
+      },
+      "fr": {
+        "phrase": "[impressed] Un caviar ! C'est de la pure classe !",
+        "audio_url": "audio/fr/LONGPASS_4.mp3",
+        "wav_url": "audio/fr/LONGPASS_4.wav"
+      },
+      "es": {
+        "phrase": "[impressed] ¡Qué servicio magistral! ¡Eso es pura calidad!",
+        "audio_url": "audio/es/LONGPASS_4.mp3",
+        "wav_url": "audio/es/LONGPASS_4.wav"
+      }
+    }
   },
   {
+    "id": "LONGPASS_5",
     "event": "LONGPASS",
-    "phrase": "[excited] A perfect pass over the top! What an opportunity!",
-    "audio_url": "en/male/LONGPASS_5.mp3",
-    "audio_url_male": "en/male/LONGPASS_5.mp3",
-    "audio_url_female": "en/female/LONGPASS_5.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Aoede"
+    "phrase_en": "[excited] A perfect pass over the top! What an opportunity!",
+    "phrase_ar": "[excited] تمريرة ساقطة مثالية! يا لها من فرصة ذهبية!",
+    "phrase_fr": "[excited] Un ballon piqué parfait ! Quelle opportunité !",
+    "phrase_es": "[excited] ¡Un pase bombeado perfecto! ¡Qué oportunidad!",
+    "audio_en_male": "audio/en/male/LONGPASS_5.mp3",
+    "audio_en_female": "audio/en/female/LONGPASS_5.mp3",
+    "audio_ar": "audio/ar/LONGPASS_5.mp3",
+    "audio_fr": "audio/fr/LONGPASS_5.mp3",
+    "audio_es": "audio/es/LONGPASS_5.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[excited] A perfect pass over the top! What an opportunity!",
+        "audio_url_male": "audio/en/male/LONGPASS_5.mp3",
+        "audio_url_female": "audio/en/female/LONGPASS_5.mp3",
+        "wav_url_male": "audio/en/male/LONGPASS_5.wav",
+        "wav_url_female": "audio/en/female/LONGPASS_5.wav",
+        "audio_url": "audio/en/male/LONGPASS_5.mp3"
+      },
+      "ar": {
+        "phrase": "[excited] تمريرة ساقطة مثالية! يا لها من فرصة ذهبية!",
+        "audio_url": "audio/ar/LONGPASS_5.mp3",
+        "wav_url": "audio/ar/LONGPASS_5.wav"
+      },
+      "fr": {
+        "phrase": "[excited] Un ballon piqué parfait ! Quelle opportunité !",
+        "audio_url": "audio/fr/LONGPASS_5.mp3",
+        "wav_url": "audio/fr/LONGPASS_5.wav"
+      },
+      "es": {
+        "phrase": "[excited] ¡Un pase bombeado perfecto! ¡Qué oportunidad!",
+        "audio_url": "audio/es/LONGPASS_5.mp3",
+        "wav_url": "audio/es/LONGPASS_5.wav"
+      }
+    }
   },
   {
+    "id": "TACKLE_1",
     "event": "TACKLE",
-    "phrase": "[excited] What a tackle! Perfectly timed!",
-    "audio_url": "en/male/TACKLE_1.mp3",
-    "audio_url_male": "en/male/TACKLE_1.mp3",
-    "audio_url_female": "en/female/TACKLE_1.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Kore"
+    "phrase_en": "[excited] What a tackle! Perfectly timed!",
+    "phrase_ar": "[excited] يا له من تدخل! توقيت مثالي!",
+    "phrase_fr": "[excited] Quel tacle ! Le timing est parfait !",
+    "phrase_es": "[excited] ¡Qué entrada! ¡Con el tiempo perfecto!",
+    "audio_en_male": "audio/en/male/TACKLE_1.mp3",
+    "audio_en_female": "audio/en/female/TACKLE_1.mp3",
+    "audio_ar": "audio/ar/TACKLE_1.mp3",
+    "audio_fr": "audio/fr/TACKLE_1.mp3",
+    "audio_es": "audio/es/TACKLE_1.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[excited] What a tackle! Perfectly timed!",
+        "audio_url_male": "audio/en/male/TACKLE_1.mp3",
+        "audio_url_female": "audio/en/female/TACKLE_1.mp3",
+        "wav_url_male": "audio/en/male/TACKLE_1.wav",
+        "wav_url_female": "audio/en/female/TACKLE_1.wav",
+        "audio_url": "audio/en/male/TACKLE_1.mp3"
+      },
+      "ar": {
+        "phrase": "[excited] يا له من تدخل! توقيت مثالي!",
+        "audio_url": "audio/ar/TACKLE_1.mp3",
+        "wav_url": "audio/ar/TACKLE_1.wav"
+      },
+      "fr": {
+        "phrase": "[excited] Quel tacle ! Le timing est parfait !",
+        "audio_url": "audio/fr/TACKLE_1.mp3",
+        "wav_url": "audio/fr/TACKLE_1.wav"
+      },
+      "es": {
+        "phrase": "[excited] ¡Qué entrada! ¡Con el tiempo perfecto!",
+        "audio_url": "audio/es/TACKLE_1.mp3",
+        "wav_url": "audio/es/TACKLE_1.wav"
+      }
+    }
   },
   {
+    "id": "TACKLE_2",
     "event": "TACKLE",
-    "phrase": "[impressed] Brilliant defending! He wins the ball cleanly!",
-    "audio_url": "en/male/TACKLE_2.mp3",
-    "audio_url_male": "en/male/TACKLE_2.mp3",
-    "audio_url_female": "en/female/TACKLE_2.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Aoede"
+    "phrase_en": "[impressed] Brilliant defending! He wins the ball cleanly!",
+    "phrase_ar": "[impressed] دفاع عبقري! افتكاك نظيف للكرة!",
+    "phrase_fr": "[impressed] Défense brillante ! Il récupère le ballon proprement !",
+    "phrase_es": "[impressed] ¡Defensa brillante! ¡Le roba la pelota limpiamente!",
+    "audio_en_male": "audio/en/male/TACKLE_2.mp3",
+    "audio_en_female": "audio/en/female/TACKLE_2.mp3",
+    "audio_ar": "audio/ar/TACKLE_2.mp3",
+    "audio_fr": "audio/fr/TACKLE_2.mp3",
+    "audio_es": "audio/es/TACKLE_2.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[impressed] Brilliant defending! He wins the ball cleanly!",
+        "audio_url_male": "audio/en/male/TACKLE_2.mp3",
+        "audio_url_female": "audio/en/female/TACKLE_2.mp3",
+        "wav_url_male": "audio/en/male/TACKLE_2.wav",
+        "wav_url_female": "audio/en/female/TACKLE_2.wav",
+        "audio_url": "audio/en/male/TACKLE_2.mp3"
+      },
+      "ar": {
+        "phrase": "[impressed] دفاع عبقري! افتكاك نظيف للكرة!",
+        "audio_url": "audio/ar/TACKLE_2.mp3",
+        "wav_url": "audio/ar/TACKLE_2.wav"
+      },
+      "fr": {
+        "phrase": "[impressed] Défense brillante ! Il récupère le ballon proprement !",
+        "audio_url": "audio/fr/TACKLE_2.mp3",
+        "wav_url": "audio/fr/TACKLE_2.wav"
+      },
+      "es": {
+        "phrase": "[impressed] ¡Defensa brillante! ¡Le roba la pelota limpiamente!",
+        "audio_url": "audio/es/TACKLE_2.mp3",
+        "wav_url": "audio/es/TACKLE_2.wav"
+      }
+    }
   },
   {
+    "id": "TACKLE_3",
     "event": "TACKLE",
-    "phrase": "[energetic] A strong challenge, and the danger is gone!",
-    "audio_url": "en/male/TACKLE_3.mp3",
-    "audio_url_male": "en/male/TACKLE_3.mp3",
-    "audio_url_female": "en/female/TACKLE_3.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Zephyr"
+    "phrase_en": "[energetic] A strong challenge, and the danger is gone!",
+    "phrase_ar": "[energetic] تدخل قوي، والخطر قد زال!",
+    "phrase_fr": "[energetic] Un duel musclé, le danger est écarté !",
+    "phrase_es": "[energetic] ¡Un quite fuerte, y el peligro ha desaparecido!",
+    "audio_en_male": "audio/en/male/TACKLE_3.mp3",
+    "audio_en_female": "audio/en/female/TACKLE_3.mp3",
+    "audio_ar": "audio/ar/TACKLE_3.mp3",
+    "audio_fr": "audio/fr/TACKLE_3.mp3",
+    "audio_es": "audio/es/TACKLE_3.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[energetic] A strong challenge, and the danger is gone!",
+        "audio_url_male": "audio/en/male/TACKLE_3.mp3",
+        "audio_url_female": "audio/en/female/TACKLE_3.mp3",
+        "wav_url_male": "audio/en/male/TACKLE_3.wav",
+        "wav_url_female": "audio/en/female/TACKLE_3.wav",
+        "audio_url": "audio/en/male/TACKLE_3.mp3"
+      },
+      "ar": {
+        "phrase": "[energetic] تدخل قوي، والخطر قد زال!",
+        "audio_url": "audio/ar/TACKLE_3.mp3",
+        "wav_url": "audio/ar/TACKLE_3.wav"
+      },
+      "fr": {
+        "phrase": "[energetic] Un duel musclé, le danger est écarté !",
+        "audio_url": "audio/fr/TACKLE_3.mp3",
+        "wav_url": "audio/fr/TACKLE_3.wav"
+      },
+      "es": {
+        "phrase": "[energetic] ¡Un quite fuerte, y el peligro ha desaparecido!",
+        "audio_url": "audio/es/TACKLE_3.mp3",
+        "wav_url": "audio/es/TACKLE_3.wav"
+      }
+    }
   },
   {
+    "id": "TACKLE_4",
     "event": "TACKLE",
-    "phrase": "[amazed] Oh, that was a crunching tackle! Great timing!",
-    "audio_url": "en/male/TACKLE_4.mp3",
-    "audio_url_male": "en/male/TACKLE_4.mp3",
-    "audio_url_female": "en/female/TACKLE_4.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Kore"
+    "phrase_en": "[amazed] Oh, that was a crunching tackle! Great timing!",
+    "phrase_ar": "[amazed] يا للروعة! تدخل قوي وتوقيت سليم!",
+    "phrase_fr": "[amazed] Oh, quel tacle autoritaire ! Quel timing !",
+    "phrase_es": "[amazed] ¡Oh, qué barrida tan contundente! ¡Gran timing!",
+    "audio_en_male": "audio/en/male/TACKLE_4.mp3",
+    "audio_en_female": "audio/en/female/TACKLE_4.mp3",
+    "audio_ar": "audio/ar/TACKLE_4.mp3",
+    "audio_fr": "audio/fr/TACKLE_4.mp3",
+    "audio_es": "audio/es/TACKLE_4.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[amazed] Oh, that was a crunching tackle! Great timing!",
+        "audio_url_male": "audio/en/male/TACKLE_4.mp3",
+        "audio_url_female": "audio/en/female/TACKLE_4.mp3",
+        "wav_url_male": "audio/en/male/TACKLE_4.wav",
+        "wav_url_female": "audio/en/female/TACKLE_4.wav",
+        "audio_url": "audio/en/male/TACKLE_4.mp3"
+      },
+      "ar": {
+        "phrase": "[amazed] يا للروعة! تدخل قوي وتوقيت سليم!",
+        "audio_url": "audio/ar/TACKLE_4.mp3",
+        "wav_url": "audio/ar/TACKLE_4.wav"
+      },
+      "fr": {
+        "phrase": "[amazed] Oh, quel tacle autoritaire ! Quel timing !",
+        "audio_url": "audio/fr/TACKLE_4.mp3",
+        "wav_url": "audio/fr/TACKLE_4.wav"
+      },
+      "es": {
+        "phrase": "[amazed] ¡Oh, qué barrida tan contundente! ¡Gran timing!",
+        "audio_url": "audio/es/TACKLE_4.mp3",
+        "wav_url": "audio/es/TACKLE_4.wav"
+      }
+    }
   },
   {
+    "id": "TACKLE_5",
     "event": "TACKLE",
-    "phrase": "[cheerful] Clean, sharp, and effective. Excellent tackle!",
-    "audio_url": "en/male/TACKLE_5.mp3",
-    "audio_url_male": "en/male/TACKLE_5.mp3",
-    "audio_url_female": "en/female/TACKLE_5.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Aoede"
+    "phrase_en": "[cheerful] Clean, sharp, and effective. Excellent tackle!",
+    "phrase_ar": "[cheerful] نظيفة، حادة، وفعالة. تدخل ممتاز!",
+    "phrase_fr": "[cheerful] Propre, tranchant et efficace. Quel tacle !",
+    "phrase_es": "[cheerful] Limpio, preciso y efectivo. ¡Excelente entrada!",
+    "audio_en_male": "audio/en/male/TACKLE_5.mp3",
+    "audio_en_female": "audio/en/female/TACKLE_5.mp3",
+    "audio_ar": "audio/ar/TACKLE_5.mp3",
+    "audio_fr": "audio/fr/TACKLE_5.mp3",
+    "audio_es": "audio/es/TACKLE_5.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[cheerful] Clean, sharp, and effective. Excellent tackle!",
+        "audio_url_male": "audio/en/male/TACKLE_5.mp3",
+        "audio_url_female": "audio/en/female/TACKLE_5.mp3",
+        "wav_url_male": "audio/en/male/TACKLE_5.wav",
+        "wav_url_female": "audio/en/female/TACKLE_5.wav",
+        "audio_url": "audio/en/male/TACKLE_5.mp3"
+      },
+      "ar": {
+        "phrase": "[cheerful] نظيفة، حادة، وفعالة. تدخل ممتاز!",
+        "audio_url": "audio/ar/TACKLE_5.mp3",
+        "wav_url": "audio/ar/TACKLE_5.wav"
+      },
+      "fr": {
+        "phrase": "[cheerful] Propre, tranchant et efficace. Quel tacle !",
+        "audio_url": "audio/fr/TACKLE_5.mp3",
+        "wav_url": "audio/fr/TACKLE_5.wav"
+      },
+      "es": {
+        "phrase": "[cheerful] Limpio, preciso y efectivo. ¡Excelente entrada!",
+        "audio_url": "audio/es/TACKLE_5.mp3",
+        "wav_url": "audio/es/TACKLE_5.wav"
+      }
+    }
   },
   {
+    "id": "COUNTER_1",
     "event": "COUNTER",
-    "phrase": "[shouting] Counter attack! [excited] They're flying up the pitch!",
-    "audio_url": "en/male/COUNTER_1.mp3",
-    "audio_url_male": "en/male/COUNTER_1.mp3",
-    "audio_url_female": "en/female/COUNTER_1.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Kore"
+    "phrase_en": "[shouting] Counter attack! [excited] They're flying up the pitch!",
+    "phrase_ar": "[shouting] هجمة مرتدة! [excited] انطلاقة صاروخية نحو المرمى!",
+    "phrase_fr": "[shouting] Contre-attaque ! [excited] Ils déferlent sur le terrain !",
+    "phrase_es": "[shouting] ¡Contraataque! [excited] ¡Salen disparados hacia el arco!",
+    "audio_en_male": "audio/en/male/COUNTER_1.mp3",
+    "audio_en_female": "audio/en/female/COUNTER_1.mp3",
+    "audio_ar": "audio/ar/COUNTER_1.mp3",
+    "audio_fr": "audio/fr/COUNTER_1.mp3",
+    "audio_es": "audio/es/COUNTER_1.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[shouting] Counter attack! [excited] They're flying up the pitch!",
+        "audio_url_male": "audio/en/male/COUNTER_1.mp3",
+        "audio_url_female": "audio/en/female/COUNTER_1.mp3",
+        "wav_url_male": "audio/en/male/COUNTER_1.wav",
+        "wav_url_female": "audio/en/female/COUNTER_1.wav",
+        "audio_url": "audio/en/male/COUNTER_1.mp3"
+      },
+      "ar": {
+        "phrase": "[shouting] هجمة مرتدة! [excited] انطلاقة صاروخية نحو المرمى!",
+        "audio_url": "audio/ar/COUNTER_1.mp3",
+        "wav_url": "audio/ar/COUNTER_1.wav"
+      },
+      "fr": {
+        "phrase": "[shouting] Contre-attaque ! [excited] Ils déferlent sur le terrain !",
+        "audio_url": "audio/fr/COUNTER_1.mp3",
+        "wav_url": "audio/fr/COUNTER_1.wav"
+      },
+      "es": {
+        "phrase": "[shouting] ¡Contraataque! [excited] ¡Salen disparados hacia el arco!",
+        "audio_url": "audio/es/COUNTER_1.mp3",
+        "wav_url": "audio/es/COUNTER_1.wav"
+      }
+    }
   },
   {
+    "id": "COUNTER_2",
     "event": "COUNTER",
-    "phrase": "[breathless] Fast break! Look at the speed! This is dangerous!",
-    "audio_url": "en/male/COUNTER_2.mp3",
-    "audio_url_male": "en/male/COUNTER_2.mp3",
-    "audio_url_female": "en/female/COUNTER_2.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Aoede"
+    "phrase_en": "[breathless] Fast break! Look at the speed! This is dangerous!",
+    "phrase_ar": "[breathless] هجمة سريعة! يا للسرعة! الوضع خطير جداً!",
+    "phrase_fr": "[breathless] La contre-attaque éclair ! Quelle vitesse ! C'est très dangereux !",
+    "phrase_es": "[breathless] ¡Contraataque rápido! ¡Mira esa velocidad! ¡Esto es muy peligroso!",
+    "audio_en_male": "audio/en/male/COUNTER_2.mp3",
+    "audio_en_female": "audio/en/female/COUNTER_2.mp3",
+    "audio_ar": "audio/ar/COUNTER_2.mp3",
+    "audio_fr": "audio/fr/COUNTER_2.mp3",
+    "audio_es": "audio/es/COUNTER_2.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[breathless] Fast break! Look at the speed! This is dangerous!",
+        "audio_url_male": "audio/en/male/COUNTER_2.mp3",
+        "audio_url_female": "audio/en/female/COUNTER_2.mp3",
+        "wav_url_male": "audio/en/male/COUNTER_2.wav",
+        "wav_url_female": "audio/en/female/COUNTER_2.wav",
+        "audio_url": "audio/en/male/COUNTER_2.mp3"
+      },
+      "ar": {
+        "phrase": "[breathless] هجمة سريعة! يا للسرعة! الوضع خطير جداً!",
+        "audio_url": "audio/ar/COUNTER_2.mp3",
+        "wav_url": "audio/ar/COUNTER_2.wav"
+      },
+      "fr": {
+        "phrase": "[breathless] La contre-attaque éclair ! Quelle vitesse ! C'est très dangereux !",
+        "audio_url": "audio/fr/COUNTER_2.mp3",
+        "wav_url": "audio/fr/COUNTER_2.wav"
+      },
+      "es": {
+        "phrase": "[breathless] ¡Contraataque rápido! ¡Mira esa velocidad! ¡Esto es muy peligroso!",
+        "audio_url": "audio/es/COUNTER_2.mp3",
+        "wav_url": "audio/es/COUNTER_2.wav"
+      }
+    }
   },
   {
+    "id": "COUNTER_3",
     "event": "COUNTER",
-    "phrase": "[intense] They are breaking at lightning speed! Can they finish it?",
-    "audio_url": "en/male/COUNTER_3.mp3",
-    "audio_url_male": "en/male/COUNTER_3.mp3",
-    "audio_url_female": "en/female/COUNTER_3.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Zephyr"
+    "phrase_en": "[intense] They are breaking at lightning speed! Can they finish it?",
+    "phrase_ar": "[intense] يندفعون بسرعة البرق! هل سينهونها بهدف؟",
+    "phrase_fr": "[intense] Ils se projettent à la vitesse de l'éclair ! Vont-ils conclure ?",
+    "phrase_es": "[intense] ¡Salen a una velocidad de rayo! ¿Podrán concretar?",
+    "audio_en_male": "audio/en/male/COUNTER_3.mp3",
+    "audio_en_female": "audio/en/female/COUNTER_3.mp3",
+    "audio_ar": "audio/ar/COUNTER_3.mp3",
+    "audio_fr": "audio/fr/COUNTER_3.mp3",
+    "audio_es": "audio/es/COUNTER_3.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[intense] They are breaking at lightning speed! Can they finish it?",
+        "audio_url_male": "audio/en/male/COUNTER_3.mp3",
+        "audio_url_female": "audio/en/female/COUNTER_3.mp3",
+        "wav_url_male": "audio/en/male/COUNTER_3.wav",
+        "wav_url_female": "audio/en/female/COUNTER_3.wav",
+        "audio_url": "audio/en/male/COUNTER_3.mp3"
+      },
+      "ar": {
+        "phrase": "[intense] يندفعون بسرعة البرق! هل سينهونها بهدف؟",
+        "audio_url": "audio/ar/COUNTER_3.mp3",
+        "wav_url": "audio/ar/COUNTER_3.wav"
+      },
+      "fr": {
+        "phrase": "[intense] Ils se projettent à la vitesse de l'éclair ! Vont-ils conclure ?",
+        "audio_url": "audio/fr/COUNTER_3.mp3",
+        "wav_url": "audio/fr/COUNTER_3.wav"
+      },
+      "es": {
+        "phrase": "[intense] ¡Salen a una velocidad de rayo! ¿Podrán concretar?",
+        "audio_url": "audio/es/COUNTER_3.mp3",
+        "wav_url": "audio/es/COUNTER_3.wav"
+      }
+    }
   },
   {
+    "id": "COUNTER_4",
     "event": "COUNTER",
-    "phrase": "[urgent] A quick counter! Numbers forward! Here comes the danger!",
-    "audio_url": "en/male/COUNTER_4.mp3",
-    "audio_url_male": "en/male/COUNTER_4.mp3",
-    "audio_url_female": "en/female/COUNTER_4.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Kore"
+    "phrase_en": "[urgent] A quick counter! Numbers forward! Here comes the danger!",
+    "phrase_ar": "[urgent] مرتدة سريعة! زيادة عددية! الخطر قادم!",
+    "phrase_fr": "[urgent] Contre rapide ! Il y a du monde devant ! Le danger se précise !",
+    "phrase_es": "[urgent] ¡Contragolpe rápido! ¡Mucha gente al ataque! ¡Aquí viene el peligro!",
+    "audio_en_male": "audio/en/male/COUNTER_4.mp3",
+    "audio_en_female": "audio/en/female/COUNTER_4.mp3",
+    "audio_ar": "audio/ar/COUNTER_4.mp3",
+    "audio_fr": "audio/fr/COUNTER_4.mp3",
+    "audio_es": "audio/es/COUNTER_4.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[urgent] A quick counter! Numbers forward! Here comes the danger!",
+        "audio_url_male": "audio/en/male/COUNTER_4.mp3",
+        "audio_url_female": "audio/en/female/COUNTER_4.mp3",
+        "wav_url_male": "audio/en/male/COUNTER_4.wav",
+        "wav_url_female": "audio/en/female/COUNTER_4.wav",
+        "audio_url": "audio/en/male/COUNTER_4.mp3"
+      },
+      "ar": {
+        "phrase": "[urgent] مرتدة سريعة! زيادة عددية! الخطر قادم!",
+        "audio_url": "audio/ar/COUNTER_4.mp3",
+        "wav_url": "audio/ar/COUNTER_4.wav"
+      },
+      "fr": {
+        "phrase": "[urgent] Contre rapide ! Il y a du monde devant ! Le danger se précise !",
+        "audio_url": "audio/fr/COUNTER_4.mp3",
+        "wav_url": "audio/fr/COUNTER_4.wav"
+      },
+      "es": {
+        "phrase": "[urgent] ¡Contragolpe rápido! ¡Mucha gente al ataque! ¡Aquí viene el peligro!",
+        "audio_url": "audio/es/COUNTER_4.mp3",
+        "wav_url": "audio/es/COUNTER_4.wav"
+      }
+    }
   },
   {
+    "id": "COUNTER_5",
     "event": "COUNTER",
-    "phrase": "[excited] Lightning counter! The defense is caught out!",
-    "audio_url": "en/male/COUNTER_5.mp3",
-    "audio_url_male": "en/male/COUNTER_5.mp3",
-    "audio_url_female": "en/female/COUNTER_5.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Aoede"
+    "phrase_en": "[excited] Lightning counter! The defense is caught out!",
+    "phrase_ar": "[excited] مرتدة خاطفة! الدفاع في مهب الريح!",
+    "phrase_fr": "[excited] Contre-éclair ! La défense est totalement prise de vitesse !",
+    "phrase_es": "[excited] ¡Contraataque relámpago! ¡La defensa ha sido superada!",
+    "audio_en_male": "audio/en/male/COUNTER_5.mp3",
+    "audio_en_female": "audio/en/female/COUNTER_5.mp3",
+    "audio_ar": "audio/ar/COUNTER_5.mp3",
+    "audio_fr": "audio/fr/COUNTER_5.mp3",
+    "audio_es": "audio/es/COUNTER_5.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[excited] Lightning counter! The defense is caught out!",
+        "audio_url_male": "audio/en/male/COUNTER_5.mp3",
+        "audio_url_female": "audio/en/female/COUNTER_5.mp3",
+        "wav_url_male": "audio/en/male/COUNTER_5.wav",
+        "wav_url_female": "audio/en/female/COUNTER_5.wav",
+        "audio_url": "audio/en/male/COUNTER_5.mp3"
+      },
+      "ar": {
+        "phrase": "[excited] مرتدة خاطفة! الدفاع في مهب الريح!",
+        "audio_url": "audio/ar/COUNTER_5.mp3",
+        "wav_url": "audio/ar/COUNTER_5.wav"
+      },
+      "fr": {
+        "phrase": "[excited] Contre-éclair ! La défense est totalement prise de vitesse !",
+        "audio_url": "audio/fr/COUNTER_5.mp3",
+        "wav_url": "audio/fr/COUNTER_5.wav"
+      },
+      "es": {
+        "phrase": "[excited] ¡Contraataque relámpago! ¡La defensa ha sido superada!",
+        "audio_url": "audio/es/COUNTER_5.mp3",
+        "wav_url": "audio/es/COUNTER_5.wav"
+      }
+    }
   },
   {
+    "id": "ATTACK_1",
     "event": "ATTACK",
-    "phrase": "[excited] A dangerous attack! The pressure is building!",
-    "audio_url": "en/male/ATTACK_1.mp3",
-    "audio_url_male": "en/male/ATTACK_1.mp3",
-    "audio_url_female": "en/female/ATTACK_1.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Kore"
+    "phrase_en": "[excited] A dangerous attack! The pressure is building!",
+    "phrase_ar": "[excited] هجمة خطيرة! والضغط يزداد في هذه اللحظات!",
+    "phrase_fr": "[excited] Une attaque dangereuse ! La pression monte d'un cran !",
+    "phrase_es": "[excited] ¡Ataque peligrosísimo! ¡Se siente la presión!",
+    "audio_en_male": "audio/en/male/ATTACK_1.mp3",
+    "audio_en_female": "audio/en/female/ATTACK_1.mp3",
+    "audio_ar": "audio/ar/ATTACK_1.mp3",
+    "audio_fr": "audio/fr/ATTACK_1.mp3",
+    "audio_es": "audio/es/ATTACK_1.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[excited] A dangerous attack! The pressure is building!",
+        "audio_url_male": "audio/en/male/ATTACK_1.mp3",
+        "audio_url_female": "audio/en/female/ATTACK_1.mp3",
+        "wav_url_male": "audio/en/male/ATTACK_1.wav",
+        "wav_url_female": "audio/en/female/ATTACK_1.wav",
+        "audio_url": "audio/en/male/ATTACK_1.mp3"
+      },
+      "ar": {
+        "phrase": "[excited] هجمة خطيرة! والضغط يزداد في هذه اللحظات!",
+        "audio_url": "audio/ar/ATTACK_1.mp3",
+        "wav_url": "audio/ar/ATTACK_1.wav"
+      },
+      "fr": {
+        "phrase": "[excited] Une attaque dangereuse ! La pression monte d'un cran !",
+        "audio_url": "audio/fr/ATTACK_1.mp3",
+        "wav_url": "audio/fr/ATTACK_1.wav"
+      },
+      "es": {
+        "phrase": "[excited] ¡Ataque peligrosísimo! ¡Se siente la presión!",
+        "audio_url": "audio/es/ATTACK_1.mp3",
+        "wav_url": "audio/es/ATTACK_1.wav"
+      }
+    }
   },
   {
+    "id": "ATTACK_2",
     "event": "ATTACK",
-    "phrase": "[energetic] They are pushing forward! A chance is coming!",
-    "audio_url": "en/male/ATTACK_2.mp3",
-    "audio_url_male": "en/male/ATTACK_2.mp3",
-    "audio_url_female": "en/female/ATTACK_2.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Aoede"
+    "phrase_en": "[energetic] They are pushing forward! A chance is coming!",
+    "phrase_ar": "[energetic] يتقدمون إلى الأمام! فرصة قادمة لا محالة!",
+    "phrase_fr": "[energetic] Ils poussent vers l'avant ! Une occasion se prépare !",
+    "phrase_es": "[energetic] ¡Se van con todo hacia adelante! ¡Se viene una clarísima!",
+    "audio_en_male": "audio/en/male/ATTACK_2.mp3",
+    "audio_en_female": "audio/en/female/ATTACK_2.mp3",
+    "audio_ar": "audio/ar/ATTACK_2.mp3",
+    "audio_fr": "audio/fr/ATTACK_2.mp3",
+    "audio_es": "audio/es/ATTACK_2.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[energetic] They are pushing forward! A chance is coming!",
+        "audio_url_male": "audio/en/male/ATTACK_2.mp3",
+        "audio_url_female": "audio/en/female/ATTACK_2.mp3",
+        "wav_url_male": "audio/en/male/ATTACK_2.wav",
+        "wav_url_female": "audio/en/female/ATTACK_2.wav",
+        "audio_url": "audio/en/male/ATTACK_2.mp3"
+      },
+      "ar": {
+        "phrase": "[energetic] يتقدمون إلى الأمام! فرصة قادمة لا محالة!",
+        "audio_url": "audio/ar/ATTACK_2.mp3",
+        "wav_url": "audio/ar/ATTACK_2.wav"
+      },
+      "fr": {
+        "phrase": "[energetic] Ils poussent vers l'avant ! Une occasion se prépare !",
+        "audio_url": "audio/fr/ATTACK_2.mp3",
+        "wav_url": "audio/fr/ATTACK_2.wav"
+      },
+      "es": {
+        "phrase": "[energetic] ¡Se van con todo hacia adelante! ¡Se viene una clarísima!",
+        "audio_url": "audio/es/ATTACK_2.mp3",
+        "wav_url": "audio/es/ATTACK_2.wav"
+      }
+    }
   },
   {
+    "id": "ATTACK_3",
     "event": "ATTACK",
-    "phrase": "[intense] Great movement in the final third! Something is going to happen here!",
-    "audio_url": "en/male/ATTACK_3.mp3",
-    "audio_url_male": "en/male/ATTACK_3.mp3",
-    "audio_url_female": "en/female/ATTACK_3.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Zephyr"
+    "phrase_en": "[intense] Great movement in the final third! Something is going to happen here!",
+    "phrase_ar": "[intense] تحركات رائعة في الثلث الأخير! شيء ما سيحدث هنا!",
+    "phrase_fr": "[intense] Superbe mouvement dans les trente derniers mètres ! Il va se passer quelque chose !",
+    "phrase_es": "[intense] ¡Qué gran movimiento en el último tercio! ¡Aquí va a pasar algo grande!",
+    "audio_en_male": "audio/en/male/ATTACK_3.mp3",
+    "audio_en_female": "audio/en/female/ATTACK_3.mp3",
+    "audio_ar": "audio/ar/ATTACK_3.mp3",
+    "audio_fr": "audio/fr/ATTACK_3.mp3",
+    "audio_es": "audio/es/ATTACK_3.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[intense] Great movement in the final third! Something is going to happen here!",
+        "audio_url_male": "audio/en/male/ATTACK_3.mp3",
+        "audio_url_female": "audio/en/female/ATTACK_3.mp3",
+        "wav_url_male": "audio/en/male/ATTACK_3.wav",
+        "wav_url_female": "audio/en/female/ATTACK_3.wav",
+        "audio_url": "audio/en/male/ATTACK_3.mp3"
+      },
+      "ar": {
+        "phrase": "[intense] تحركات رائعة في الثلث الأخير! شيء ما سيحدث هنا!",
+        "audio_url": "audio/ar/ATTACK_3.mp3",
+        "wav_url": "audio/ar/ATTACK_3.wav"
+      },
+      "fr": {
+        "phrase": "[intense] Superbe mouvement dans les trente derniers mètres ! Il va se passer quelque chose !",
+        "audio_url": "audio/fr/ATTACK_3.mp3",
+        "wav_url": "audio/fr/ATTACK_3.wav"
+      },
+      "es": {
+        "phrase": "[intense] ¡Qué gran movimiento en el último tercio! ¡Aquí va a pasar algo grande!",
+        "audio_url": "audio/es/ATTACK_3.mp3",
+        "wav_url": "audio/es/ATTACK_3.wav"
+      }
+    }
   },
   {
+    "id": "ATTACK_4",
     "event": "ATTACK",
-    "phrase": "[focused] The attack continues, looking for the opening!",
-    "audio_url": "en/male/ATTACK_4.mp3",
-    "audio_url_male": "en/male/ATTACK_4.mp3",
-    "audio_url_female": "en/female/ATTACK_4.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Kore"
+    "phrase_en": "[focused] The attack continues, looking for the opening!",
+    "phrase_ar": "[focused] الهجمة متواصلة، والبحث جارٍ عن الثغرة!",
+    "phrase_fr": "[focused] L'attaque se poursuit, on cherche la faille !",
+    "phrase_es": "[focused] ¡Prosigue el ataque, buscando el espacio por dónde entrar!",
+    "audio_en_male": "audio/en/male/ATTACK_4.mp3",
+    "audio_en_female": "audio/en/female/ATTACK_4.mp3",
+    "audio_ar": "audio/ar/ATTACK_4.mp3",
+    "audio_fr": "audio/fr/ATTACK_4.mp3",
+    "audio_es": "audio/es/ATTACK_4.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[focused] The attack continues, looking for the opening!",
+        "audio_url_male": "audio/en/male/ATTACK_4.mp3",
+        "audio_url_female": "audio/en/female/ATTACK_4.mp3",
+        "wav_url_male": "audio/en/male/ATTACK_4.wav",
+        "wav_url_female": "audio/en/female/ATTACK_4.wav",
+        "audio_url": "audio/en/male/ATTACK_4.mp3"
+      },
+      "ar": {
+        "phrase": "[focused] الهجمة متواصلة، والبحث جارٍ عن الثغرة!",
+        "audio_url": "audio/ar/ATTACK_4.mp3",
+        "wav_url": "audio/ar/ATTACK_4.wav"
+      },
+      "fr": {
+        "phrase": "[focused] L'attaque se poursuit, on cherche la faille !",
+        "audio_url": "audio/fr/ATTACK_4.mp3",
+        "wav_url": "audio/fr/ATTACK_4.wav"
+      },
+      "es": {
+        "phrase": "[focused] ¡Prosigue el ataque, buscando el espacio por dónde entrar!",
+        "audio_url": "audio/es/ATTACK_4.mp3",
+        "wav_url": "audio/es/ATTACK_4.wav"
+      }
+    }
   },
   {
+    "id": "ATTACK_5",
     "event": "ATTACK",
-    "phrase": "[shouting] Here they come! A real threat on goal!",
-    "audio_url": "en/male/ATTACK_5.mp3",
-    "audio_url_male": "en/male/ATTACK_5.mp3",
-    "audio_url_female": "en/female/ATTACK_5.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Aoede"
+    "phrase_en": "[shouting] Here they come! A real threat on goal!",
+    "phrase_ar": "[shouting] ها هم قادمون! خطر حقيقي يهدد المرمى!",
+    "phrase_fr": "[shouting] Les voilà qui arrivent ! Une vraie menace sur le but !",
+    "phrase_es": "[shouting] ¡Se vienen con todo! ¡Peligro inminente en el área!",
+    "audio_en_male": "audio/en/male/ATTACK_5.mp3",
+    "audio_en_female": "audio/en/female/ATTACK_5.mp3",
+    "audio_ar": "audio/ar/ATTACK_5.mp3",
+    "audio_fr": "audio/fr/ATTACK_5.mp3",
+    "audio_es": "audio/es/ATTACK_5.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[shouting] Here they come! A real threat on goal!",
+        "audio_url_male": "audio/en/male/ATTACK_5.mp3",
+        "audio_url_female": "audio/en/female/ATTACK_5.mp3",
+        "wav_url_male": "audio/en/male/ATTACK_5.wav",
+        "wav_url_female": "audio/en/female/ATTACK_5.wav",
+        "audio_url": "audio/en/male/ATTACK_5.mp3"
+      },
+      "ar": {
+        "phrase": "[shouting] ها هم قادمون! خطر حقيقي يهدد المرمى!",
+        "audio_url": "audio/ar/ATTACK_5.mp3",
+        "wav_url": "audio/ar/ATTACK_5.wav"
+      },
+      "fr": {
+        "phrase": "[shouting] Les voilà qui arrivent ! Une vraie menace sur le but !",
+        "audio_url": "audio/fr/ATTACK_5.mp3",
+        "wav_url": "audio/fr/ATTACK_5.wav"
+      },
+      "es": {
+        "phrase": "[shouting] ¡Se vienen con todo! ¡Peligro inminente en el área!",
+        "audio_url": "audio/es/ATTACK_5.mp3",
+        "wav_url": "audio/es/ATTACK_5.wav"
+      }
+    }
   },
   {
+    "id": "OFFSIDE_1",
     "event": "OFFSIDE",
-    "phrase": "[serious] The flag is up. That's offside.",
-    "audio_url": "en/male/OFFSIDE_1.mp3",
-    "audio_url_male": "en/male/OFFSIDE_1.mp3",
-    "audio_url_female": "en/female/OFFSIDE_1.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Kore"
+    "phrase_en": "[serious] The flag is up. That's offside.",
+    "phrase_ar": "[serious] الراية مرفوعة. هناك تسلل.",
+    "phrase_fr": "[serious] Le drapeau se lève. C'est un hors-jeu.",
+    "phrase_es": "[serious] Arriba la bandera. Hay posición adelantada.",
+    "audio_en_male": "audio/en/male/OFFSIDE_1.mp3",
+    "audio_en_female": "audio/en/female/OFFSIDE_1.mp3",
+    "audio_ar": "audio/ar/OFFSIDE_1.mp3",
+    "audio_fr": "audio/fr/OFFSIDE_1.mp3",
+    "audio_es": "audio/es/OFFSIDE_1.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[serious] The flag is up. That's offside.",
+        "audio_url_male": "audio/en/male/OFFSIDE_1.mp3",
+        "audio_url_female": "audio/en/female/OFFSIDE_1.mp3",
+        "wav_url_male": "audio/en/male/OFFSIDE_1.wav",
+        "wav_url_female": "audio/en/female/OFFSIDE_1.wav",
+        "audio_url": "audio/en/male/OFFSIDE_1.mp3"
+      },
+      "ar": {
+        "phrase": "[serious] الراية مرفوعة. هناك تسلل.",
+        "audio_url": "audio/ar/OFFSIDE_1.mp3",
+        "wav_url": "audio/ar/OFFSIDE_1.wav"
+      },
+      "fr": {
+        "phrase": "[serious] Le drapeau se lève. C'est un hors-jeu.",
+        "audio_url": "audio/fr/OFFSIDE_1.mp3",
+        "wav_url": "audio/fr/OFFSIDE_1.wav"
+      },
+      "es": {
+        "phrase": "[serious] Arriba la bandera. Hay posición adelantada.",
+        "audio_url": "audio/es/OFFSIDE_1.mp3",
+        "wav_url": "audio/es/OFFSIDE_1.wav"
+      }
+    }
   },
   {
+    "id": "OFFSIDE_2",
     "event": "OFFSIDE",
-    "phrase": "[disappointed] Oh no, the linesman raises the flag. Offside!",
-    "audio_url": "en/male/OFFSIDE_2.mp3",
-    "audio_url_male": "en/male/OFFSIDE_2.mp3",
-    "audio_url_female": "en/female/OFFSIDE_2.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Aoede"
+    "phrase_en": "[disappointed] Oh no, the linesman raises the flag. Offside!",
+    "phrase_ar": "[disappointed] يا للأسف، حكم الراية يرفع الراية. تسلل!",
+    "phrase_fr": "[disappointed] Oh non, l'arbitre de touche lève son drapeau. Hors-jeu !",
+    "phrase_es": "[disappointed] ¡No te lo puedo creer! El juez de línea levanta el banderín. ¡Fuera de juego!",
+    "audio_en_male": "audio/en/male/OFFSIDE_2.mp3",
+    "audio_en_female": "audio/en/female/OFFSIDE_2.mp3",
+    "audio_ar": "audio/ar/OFFSIDE_2.mp3",
+    "audio_fr": "audio/fr/OFFSIDE_2.mp3",
+    "audio_es": "audio/es/OFFSIDE_2.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[disappointed] Oh no, the linesman raises the flag. Offside!",
+        "audio_url_male": "audio/en/male/OFFSIDE_2.mp3",
+        "audio_url_female": "audio/en/female/OFFSIDE_2.mp3",
+        "wav_url_male": "audio/en/male/OFFSIDE_2.wav",
+        "wav_url_female": "audio/en/female/OFFSIDE_2.wav",
+        "audio_url": "audio/en/male/OFFSIDE_2.mp3"
+      },
+      "ar": {
+        "phrase": "[disappointed] يا للأسف، حكم الراية يرفع الراية. تسلل!",
+        "audio_url": "audio/ar/OFFSIDE_2.mp3",
+        "wav_url": "audio/ar/OFFSIDE_2.wav"
+      },
+      "fr": {
+        "phrase": "[disappointed] Oh non, l'arbitre de touche lève son drapeau. Hors-jeu !",
+        "audio_url": "audio/fr/OFFSIDE_2.mp3",
+        "wav_url": "audio/fr/OFFSIDE_2.wav"
+      },
+      "es": {
+        "phrase": "[disappointed] ¡No te lo puedo creer! El juez de línea levanta el banderín. ¡Fuera de juego!",
+        "audio_url": "audio/es/OFFSIDE_2.mp3",
+        "wav_url": "audio/es/OFFSIDE_2.wav"
+      }
+    }
   },
   {
+    "id": "OFFSIDE_3",
     "event": "OFFSIDE",
-    "phrase": "[calm] Caught offside. The attack is stopped.",
-    "audio_url": "en/male/OFFSIDE_3.mp3",
-    "audio_url_male": "en/male/OFFSIDE_3.mp3",
-    "audio_url_female": "en/female/OFFSIDE_3.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Zephyr"
+    "phrase_en": "[calm] Caught offside. The attack is stopped.",
+    "phrase_ar": "[calm] وقع في مصيدة التسلل. تتوقف الهجمة.",
+    "phrase_fr": "[calm] Pris au piège du hors-jeu. L'attaque s'arrête net.",
+    "phrase_es": "[calm] Atrapado en offside. Se termina el peligro.",
+    "audio_en_male": "audio/en/male/OFFSIDE_3.mp3",
+    "audio_en_female": "audio/en/female/OFFSIDE_3.mp3",
+    "audio_ar": "audio/ar/OFFSIDE_3.mp3",
+    "audio_fr": "audio/fr/OFFSIDE_3.mp3",
+    "audio_es": "audio/es/OFFSIDE_3.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[calm] Caught offside. The attack is stopped.",
+        "audio_url_male": "audio/en/male/OFFSIDE_3.mp3",
+        "audio_url_female": "audio/en/female/OFFSIDE_3.mp3",
+        "wav_url_male": "audio/en/male/OFFSIDE_3.wav",
+        "wav_url_female": "audio/en/female/OFFSIDE_3.wav",
+        "audio_url": "audio/en/male/OFFSIDE_3.mp3"
+      },
+      "ar": {
+        "phrase": "[calm] وقع في مصيدة التسلل. تتوقف الهجمة.",
+        "audio_url": "audio/ar/OFFSIDE_3.mp3",
+        "wav_url": "audio/ar/OFFSIDE_3.wav"
+      },
+      "fr": {
+        "phrase": "[calm] Pris au piège du hors-jeu. L'attaque s'arrête net.",
+        "audio_url": "audio/fr/OFFSIDE_3.mp3",
+        "wav_url": "audio/fr/OFFSIDE_3.wav"
+      },
+      "es": {
+        "phrase": "[calm] Atrapado en offside. Se termina el peligro.",
+        "audio_url": "audio/es/OFFSIDE_3.mp3",
+        "wav_url": "audio/es/OFFSIDE_3.wav"
+      }
+    }
   },
   {
+    "id": "OFFSIDE_4",
     "event": "OFFSIDE",
-    "phrase": "[groans] Ah, he was just a step too far ahead. Offside.",
-    "audio_url": "en/male/OFFSIDE_4.mp3",
-    "audio_url_male": "en/male/OFFSIDE_4.mp3",
-    "audio_url_female": "en/female/OFFSIDE_4.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Kore"
+    "phrase_en": "[groans] Ah, he was just a step too far ahead. Offside.",
+    "phrase_ar": "[groans] آخ، كان متقدماً بخطوة واحدة فقط. تسلل.",
+    "phrase_fr": "[groans] Ah, il avait un pas d'avance, pas plus. Hors-jeu.",
+    "phrase_es": "[groans] ¡Ay, estaba apenas un pasito adelantado! Fuera de juego.",
+    "audio_en_male": "audio/en/male/OFFSIDE_4.mp3",
+    "audio_en_female": "audio/en/female/OFFSIDE_4.mp3",
+    "audio_ar": "audio/ar/OFFSIDE_4.mp3",
+    "audio_fr": "audio/fr/OFFSIDE_4.mp3",
+    "audio_es": "audio/es/OFFSIDE_4.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[groans] Ah, he was just a step too far ahead. Offside.",
+        "audio_url_male": "audio/en/male/OFFSIDE_4.mp3",
+        "audio_url_female": "audio/en/female/OFFSIDE_4.mp3",
+        "wav_url_male": "audio/en/male/OFFSIDE_4.wav",
+        "wav_url_female": "audio/en/female/OFFSIDE_4.wav",
+        "audio_url": "audio/en/male/OFFSIDE_4.mp3"
+      },
+      "ar": {
+        "phrase": "[groans] آخ، كان متقدماً بخطوة واحدة فقط. تسلل.",
+        "audio_url": "audio/ar/OFFSIDE_4.mp3",
+        "wav_url": "audio/ar/OFFSIDE_4.wav"
+      },
+      "fr": {
+        "phrase": "[groans] Ah, il avait un pas d'avance, pas plus. Hors-jeu.",
+        "audio_url": "audio/fr/OFFSIDE_4.mp3",
+        "wav_url": "audio/fr/OFFSIDE_4.wav"
+      },
+      "es": {
+        "phrase": "[groans] ¡Ay, estaba apenas un pasito adelantado! Fuera de juego.",
+        "audio_url": "audio/es/OFFSIDE_4.mp3",
+        "wav_url": "audio/es/OFFSIDE_4.wav"
+      }
+    }
   },
   {
+    "id": "OFFSIDE_5",
     "event": "OFFSIDE",
-    "phrase": "[matter-of-fact] The flag goes up. Free kick for the defense.",
-    "audio_url": "en/male/OFFSIDE_5.mp3",
-    "audio_url_male": "en/male/OFFSIDE_5.mp3",
-    "audio_url_female": "en/female/OFFSIDE_5.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Aoede"
+    "phrase_en": "[matter-of-fact] The flag goes up. Free kick for the defense.",
+    "phrase_ar": "[matter-of-fact] الراية ترتفع. ركلة حرة للدفاع.",
+    "phrase_fr": "[matter-of-fact] Le drapeau est levé. Coup franc pour la défense.",
+    "phrase_es": "[matter-of-fact] Bandera levantada. Tiro libre defensivo.",
+    "audio_en_male": "audio/en/male/OFFSIDE_5.mp3",
+    "audio_en_female": "audio/en/female/OFFSIDE_5.mp3",
+    "audio_ar": "audio/ar/OFFSIDE_5.mp3",
+    "audio_fr": "audio/fr/OFFSIDE_5.mp3",
+    "audio_es": "audio/es/OFFSIDE_5.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[matter-of-fact] The flag goes up. Free kick for the defense.",
+        "audio_url_male": "audio/en/male/OFFSIDE_5.mp3",
+        "audio_url_female": "audio/en/female/OFFSIDE_5.mp3",
+        "wav_url_male": "audio/en/male/OFFSIDE_5.wav",
+        "wav_url_female": "audio/en/female/OFFSIDE_5.wav",
+        "audio_url": "audio/en/male/OFFSIDE_5.mp3"
+      },
+      "ar": {
+        "phrase": "[matter-of-fact] الراية ترتفع. ركلة حرة للدفاع.",
+        "audio_url": "audio/ar/OFFSIDE_5.mp3",
+        "wav_url": "audio/ar/OFFSIDE_5.wav"
+      },
+      "fr": {
+        "phrase": "[matter-of-fact] Le drapeau est levé. Coup franc pour la défense.",
+        "audio_url": "audio/fr/OFFSIDE_5.mp3",
+        "wav_url": "audio/fr/OFFSIDE_5.wav"
+      },
+      "es": {
+        "phrase": "[matter-of-fact] Bandera levantada. Tiro libre defensivo.",
+        "audio_url": "audio/es/OFFSIDE_5.mp3",
+        "wav_url": "audio/es/OFFSIDE_5.wav"
+      }
+    }
   },
   {
+    "id": "HALFTIME_1",
     "event": "HALFTIME",
-    "phrase": "[calm] The referee blows the whistle. That's the end of the first half.",
-    "audio_url": "en/male/HALFTIME_1.mp3",
-    "audio_url_male": "en/male/HALFTIME_1.mp3",
-    "audio_url_female": "en/female/HALFTIME_1.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Kore"
+    "phrase_en": "[calm] The referee blows the whistle. That's the end of the first half.",
+    "phrase_ar": "[calm] صافرة الحكم تُعلن نهاية الشوط الأول.",
+    "phrase_fr": "[calm] Coup de sifflet de l'arbitre. C'est la fin de cette première période.",
+    "phrase_es": "[calm] El árbitro pita el final. Terminan los primeros cuarenta y cinco minutos.",
+    "audio_en_male": "audio/en/male/HALFTIME_1.mp3",
+    "audio_en_female": "audio/en/female/HALFTIME_1.mp3",
+    "audio_ar": "audio/ar/HALFTIME_1.mp3",
+    "audio_fr": "audio/fr/HALFTIME_1.mp3",
+    "audio_es": "audio/es/HALFTIME_1.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[calm] The referee blows the whistle. That's the end of the first half.",
+        "audio_url_male": "audio/en/male/HALFTIME_1.mp3",
+        "audio_url_female": "audio/en/female/HALFTIME_1.mp3",
+        "wav_url_male": "audio/en/male/HALFTIME_1.wav",
+        "wav_url_female": "audio/en/female/HALFTIME_1.wav",
+        "audio_url": "audio/en/male/HALFTIME_1.mp3"
+      },
+      "ar": {
+        "phrase": "[calm] صافرة الحكم تُعلن نهاية الشوط الأول.",
+        "audio_url": "audio/ar/HALFTIME_1.mp3",
+        "wav_url": "audio/ar/HALFTIME_1.wav"
+      },
+      "fr": {
+        "phrase": "[calm] Coup de sifflet de l'arbitre. C'est la fin de cette première période.",
+        "audio_url": "audio/fr/HALFTIME_1.mp3",
+        "wav_url": "audio/fr/HALFTIME_1.wav"
+      },
+      "es": {
+        "phrase": "[calm] El árbitro pita el final. Terminan los primeros cuarenta y cinco minutos.",
+        "audio_url": "audio/es/HALFTIME_1.mp3",
+        "wav_url": "audio/es/HALFTIME_1.wav"
+      }
+    }
   },
   {
+    "id": "HALFTIME_2",
     "event": "HALFTIME",
-    "phrase": "[relaxed] And that's half time. A lot to think about for both coaches.",
-    "audio_url": "en/male/HALFTIME_2.mp3",
-    "audio_url_male": "en/male/HALFTIME_2.mp3",
-    "audio_url_female": "en/female/HALFTIME_2.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Aoede"
+    "phrase_en": "[relaxed] And that's half time. A lot to think about for both coaches.",
+    "phrase_ar": "[relaxed] وهذه نهاية الشوط الأول. الكثير من العمل ينتظر المدربين.",
+    "phrase_fr": "[relaxed] Et c'est la mi-temps. De quoi donner à réfléchir aux deux entraîneurs.",
+    "phrase_es": "[relaxed] Y nos vamos al descanso. Mucho que analizar para ambos entrenadores.",
+    "audio_en_male": "audio/en/male/HALFTIME_2.mp3",
+    "audio_en_female": "audio/en/female/HALFTIME_2.mp3",
+    "audio_ar": "audio/ar/HALFTIME_2.mp3",
+    "audio_fr": "audio/fr/HALFTIME_2.mp3",
+    "audio_es": "audio/es/HALFTIME_2.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[relaxed] And that's half time. A lot to think about for both coaches.",
+        "audio_url_male": "audio/en/male/HALFTIME_2.mp3",
+        "audio_url_female": "audio/en/female/HALFTIME_2.mp3",
+        "wav_url_male": "audio/en/male/HALFTIME_2.wav",
+        "wav_url_female": "audio/en/female/HALFTIME_2.wav",
+        "audio_url": "audio/en/male/HALFTIME_2.mp3"
+      },
+      "ar": {
+        "phrase": "[relaxed] وهذه نهاية الشوط الأول. الكثير من العمل ينتظر المدربين.",
+        "audio_url": "audio/ar/HALFTIME_2.mp3",
+        "wav_url": "audio/ar/HALFTIME_2.wav"
+      },
+      "fr": {
+        "phrase": "[relaxed] Et c'est la mi-temps. De quoi donner à réfléchir aux deux entraîneurs.",
+        "audio_url": "audio/fr/HALFTIME_2.mp3",
+        "wav_url": "audio/fr/HALFTIME_2.wav"
+      },
+      "es": {
+        "phrase": "[relaxed] Y nos vamos al descanso. Mucho que analizar para ambos entrenadores.",
+        "audio_url": "audio/es/HALFTIME_2.mp3",
+        "wav_url": "audio/es/HALFTIME_2.wav"
+      }
+    }
   },
   {
+    "id": "HALFTIME_3",
     "event": "HALFTIME",
-    "phrase": "[cheerful] The first half is over. Time for a short break!",
-    "audio_url": "en/male/HALFTIME_3.mp3",
-    "audio_url_male": "en/male/HALFTIME_3.mp3",
-    "audio_url_female": "en/female/HALFTIME_3.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Zephyr"
+    "phrase_en": "[cheerful] The first half is over. Time for a short break!",
+    "phrase_ar": "[cheerful] انتهى الشوط الأول. حان وقت استراحة قصيرة!",
+    "phrase_fr": "[cheerful] C'est fini pour cette première mi-temps. Place à une courte pause !",
+    "phrase_es": "[cheerful] ¡Termina la primera parte! ¡Momento de tomar un respiro!",
+    "audio_en_male": "audio/en/male/HALFTIME_3.mp3",
+    "audio_en_female": "audio/en/female/HALFTIME_3.mp3",
+    "audio_ar": "audio/ar/HALFTIME_3.mp3",
+    "audio_fr": "audio/fr/HALFTIME_3.mp3",
+    "audio_es": "audio/es/HALFTIME_3.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[cheerful] The first half is over. Time for a short break!",
+        "audio_url_male": "audio/en/male/HALFTIME_3.mp3",
+        "audio_url_female": "audio/en/female/HALFTIME_3.mp3",
+        "wav_url_male": "audio/en/male/HALFTIME_3.wav",
+        "wav_url_female": "audio/en/female/HALFTIME_3.wav",
+        "audio_url": "audio/en/male/HALFTIME_3.mp3"
+      },
+      "ar": {
+        "phrase": "[cheerful] انتهى الشوط الأول. حان وقت استراحة قصيرة!",
+        "audio_url": "audio/ar/HALFTIME_3.mp3",
+        "wav_url": "audio/ar/HALFTIME_3.wav"
+      },
+      "fr": {
+        "phrase": "[cheerful] C'est fini pour cette première mi-temps. Place à une courte pause !",
+        "audio_url": "audio/fr/HALFTIME_3.mp3",
+        "wav_url": "audio/fr/HALFTIME_3.wav"
+      },
+      "es": {
+        "phrase": "[cheerful] ¡Termina la primera parte! ¡Momento de tomar un respiro!",
+        "audio_url": "audio/es/HALFTIME_3.mp3",
+        "wav_url": "audio/es/HALFTIME_3.wav"
+      }
+    }
   },
   {
+    "id": "HALFTIME_4",
     "event": "HALFTIME",
-    "phrase": "[thoughtful] The teams head to the dressing room. What will the second half bring?",
-    "audio_url": "en/male/HALFTIME_4.mp3",
-    "audio_url_male": "en/male/HALFTIME_4.mp3",
-    "audio_url_female": "en/female/HALFTIME_4.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Kore"
+    "phrase_en": "[thoughtful] The teams head to the dressing room. What will the second half bring?",
+    "phrase_ar": "[thoughtful] يتوجه الفريقان إلى غرف الملابس. ترى ماذا يخبئ لنا الشوط الثاني؟",
+    "phrase_fr": "[thoughtful] Les équipes retournent aux vestiaires. Que nous réserve cette deuxième période ?",
+    "phrase_es": "[thoughtful] Los equipos se marchan al vestuario. ¿Qué nos deparará la segunda mitad?",
+    "audio_en_male": "audio/en/male/HALFTIME_4.mp3",
+    "audio_en_female": "audio/en/female/HALFTIME_4.mp3",
+    "audio_ar": "audio/ar/HALFTIME_4.mp3",
+    "audio_fr": "audio/fr/HALFTIME_4.mp3",
+    "audio_es": "audio/es/HALFTIME_4.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[thoughtful] The teams head to the dressing room. What will the second half bring?",
+        "audio_url_male": "audio/en/male/HALFTIME_4.mp3",
+        "audio_url_female": "audio/en/female/HALFTIME_4.mp3",
+        "wav_url_male": "audio/en/male/HALFTIME_4.wav",
+        "wav_url_female": "audio/en/female/HALFTIME_4.wav",
+        "audio_url": "audio/en/male/HALFTIME_4.mp3"
+      },
+      "ar": {
+        "phrase": "[thoughtful] يتوجه الفريقان إلى غرف الملابس. ترى ماذا يخبئ لنا الشوط الثاني؟",
+        "audio_url": "audio/ar/HALFTIME_4.mp3",
+        "wav_url": "audio/ar/HALFTIME_4.wav"
+      },
+      "fr": {
+        "phrase": "[thoughtful] Les équipes retournent aux vestiaires. Que nous réserve cette deuxième période ?",
+        "audio_url": "audio/fr/HALFTIME_4.mp3",
+        "wav_url": "audio/fr/HALFTIME_4.wav"
+      },
+      "es": {
+        "phrase": "[thoughtful] Los equipos se marchan al vestuario. ¿Qué nos deparará la segunda mitad?",
+        "audio_url": "audio/es/HALFTIME_4.mp3",
+        "wav_url": "audio/es/HALFTIME_4.wav"
+      }
+    }
   },
   {
+    "id": "HALFTIME_5",
     "event": "HALFTIME",
-    "phrase": "[energetic] Half time! What an exciting forty-five minutes!",
-    "audio_url": "en/male/HALFTIME_5.mp3",
-    "audio_url_male": "en/male/HALFTIME_5.mp3",
-    "audio_url_female": "en/female/HALFTIME_5.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Aoede"
+    "phrase_en": "[energetic] Half time! What an exciting forty-five minutes!",
+    "phrase_ar": "[energetic] نهاية الشوط الأول! يا لها من خمس وأربعين دقيقة مثيرة!",
+    "phrase_fr": "[energetic] C'est la mi-temps ! Quels quarante-cinq premières minutes palpitantes !",
+    "phrase_es": "[energetic] ¡Final del primer tiempo! ¡Qué primeros cuarenta y cinco minutos tan vibrantes!",
+    "audio_en_male": "audio/en/male/HALFTIME_5.mp3",
+    "audio_en_female": "audio/en/female/HALFTIME_5.mp3",
+    "audio_ar": "audio/ar/HALFTIME_5.mp3",
+    "audio_fr": "audio/fr/HALFTIME_5.mp3",
+    "audio_es": "audio/es/HALFTIME_5.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[energetic] Half time! What an exciting forty-five minutes!",
+        "audio_url_male": "audio/en/male/HALFTIME_5.mp3",
+        "audio_url_female": "audio/en/female/HALFTIME_5.mp3",
+        "wav_url_male": "audio/en/male/HALFTIME_5.wav",
+        "wav_url_female": "audio/en/female/HALFTIME_5.wav",
+        "audio_url": "audio/en/male/HALFTIME_5.mp3"
+      },
+      "ar": {
+        "phrase": "[energetic] نهاية الشوط الأول! يا لها من خمس وأربعين دقيقة مثيرة!",
+        "audio_url": "audio/ar/HALFTIME_5.mp3",
+        "wav_url": "audio/ar/HALFTIME_5.wav"
+      },
+      "fr": {
+        "phrase": "[energetic] C'est la mi-temps ! Quels quarante-cinq premières minutes palpitantes !",
+        "audio_url": "audio/fr/HALFTIME_5.mp3",
+        "wav_url": "audio/fr/HALFTIME_5.wav"
+      },
+      "es": {
+        "phrase": "[energetic] ¡Final del primer tiempo! ¡Qué primeros cuarenta y cinco minutos tan vibrantes!",
+        "audio_url": "audio/es/HALFTIME_5.mp3",
+        "wav_url": "audio/es/HALFTIME_5.wav"
+      }
+    }
   },
   {
+    "id": "FULLTIME_1",
     "event": "FULLTIME",
-    "phrase": "[excited] That's the final whistle! The match is over!",
-    "audio_url": "en/male/FULLTIME_1.mp3",
-    "audio_url_male": "en/male/FULLTIME_1.mp3",
-    "audio_url_female": "en/female/FULLTIME_1.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Kore"
+    "phrase_en": "[excited] That's the final whistle! The match is over!",
+    "phrase_ar": "[excited] صافرة النهاية! انتهت المباراة!",
+    "phrase_fr": "[excited] C'est le coup de sifflet final ! Le match est terminé !",
+    "phrase_es": "[excited] ¡Pitazo final! ¡Se termina el partido!",
+    "audio_en_male": "audio/en/male/FULLTIME_1.mp3",
+    "audio_en_female": "audio/en/female/FULLTIME_1.mp3",
+    "audio_ar": "audio/ar/FULLTIME_1.mp3",
+    "audio_fr": "audio/fr/FULLTIME_1.mp3",
+    "audio_es": "audio/es/FULLTIME_1.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[excited] That's the final whistle! The match is over!",
+        "audio_url_male": "audio/en/male/FULLTIME_1.mp3",
+        "audio_url_female": "audio/en/female/FULLTIME_1.mp3",
+        "wav_url_male": "audio/en/male/FULLTIME_1.wav",
+        "wav_url_female": "audio/en/female/FULLTIME_1.wav",
+        "audio_url": "audio/en/male/FULLTIME_1.mp3"
+      },
+      "ar": {
+        "phrase": "[excited] صافرة النهاية! انتهت المباراة!",
+        "audio_url": "audio/ar/FULLTIME_1.mp3",
+        "wav_url": "audio/ar/FULLTIME_1.wav"
+      },
+      "fr": {
+        "phrase": "[excited] C'est le coup de sifflet final ! Le match est terminé !",
+        "audio_url": "audio/fr/FULLTIME_1.mp3",
+        "wav_url": "audio/fr/FULLTIME_1.wav"
+      },
+      "es": {
+        "phrase": "[excited] ¡Pitazo final! ¡Se termina el partido!",
+        "audio_url": "audio/es/FULLTIME_1.mp3",
+        "wav_url": "audio/es/FULLTIME_1.wav"
+      }
+    }
   },
   {
+    "id": "FULLTIME_2",
     "event": "FULLTIME",
-    "phrase": "[calm] Full time. Thank you for watching this match.",
-    "audio_url": "en/male/FULLTIME_2.mp3",
-    "audio_url_male": "en/male/FULLTIME_2.mp3",
-    "audio_url_female": "en/female/FULLTIME_2.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Aoede"
+    "phrase_en": "[calm] Full time. Thank you for watching this match.",
+    "phrase_ar": "[calm] نهاية المباراة. شكراً لكم على حسن المتابعة.",
+    "phrase_fr": "[calm] Fin du match. Merci d'avoir suivi cette rencontre avec nous.",
+    "phrase_es": "[calm] Final del partido. Muchas gracias por acompañarnos.",
+    "audio_en_male": "audio/en/male/FULLTIME_2.mp3",
+    "audio_en_female": "audio/en/female/FULLTIME_2.mp3",
+    "audio_ar": "audio/ar/FULLTIME_2.mp3",
+    "audio_fr": "audio/fr/FULLTIME_2.mp3",
+    "audio_es": "audio/es/FULLTIME_2.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[calm] Full time. Thank you for watching this match.",
+        "audio_url_male": "audio/en/male/FULLTIME_2.mp3",
+        "audio_url_female": "audio/en/female/FULLTIME_2.mp3",
+        "wav_url_male": "audio/en/male/FULLTIME_2.wav",
+        "wav_url_female": "audio/en/female/FULLTIME_2.wav",
+        "audio_url": "audio/en/male/FULLTIME_2.mp3"
+      },
+      "ar": {
+        "phrase": "[calm] نهاية المباراة. شكراً لكم على حسن المتابعة.",
+        "audio_url": "audio/ar/FULLTIME_2.mp3",
+        "wav_url": "audio/ar/FULLTIME_2.wav"
+      },
+      "fr": {
+        "phrase": "[calm] Fin du match. Merci d'avoir suivi cette rencontre avec nous.",
+        "audio_url": "audio/fr/FULLTIME_2.mp3",
+        "wav_url": "audio/fr/FULLTIME_2.wav"
+      },
+      "es": {
+        "phrase": "[calm] Final del partido. Muchas gracias por acompañarnos.",
+        "audio_url": "audio/es/FULLTIME_2.mp3",
+        "wav_url": "audio/es/FULLTIME_2.wav"
+      }
+    }
   },
   {
+    "id": "FULLTIME_3",
     "event": "FULLTIME",
-    "phrase": "[energetic] It's all over! What a game we had tonight!",
-    "audio_url": "en/male/FULLTIME_3.mp3",
-    "audio_url_male": "en/male/FULLTIME_3.mp3",
-    "audio_url_female": "en/female/FULLTIME_3.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Zephyr"
+    "phrase_en": "[energetic] It's all over! What a game we had tonight!",
+    "phrase_ar": "[energetic] انتهى كل شيء! يا لها من قمة كروية عشناها الليلة!",
+    "phrase_fr": "[energetic] C'est terminé ! Quel match extraordinaire ce soir !",
+    "phrase_es": "[energetic] ¡Se acabó todo! ¡Qué partidazo hemos vivido esta noche!",
+    "audio_en_male": "audio/en/male/FULLTIME_3.mp3",
+    "audio_en_female": "audio/en/female/FULLTIME_3.mp3",
+    "audio_ar": "audio/ar/FULLTIME_3.mp3",
+    "audio_fr": "audio/fr/FULLTIME_3.mp3",
+    "audio_es": "audio/es/FULLTIME_3.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[energetic] It's all over! What a game we had tonight!",
+        "audio_url_male": "audio/en/male/FULLTIME_3.mp3",
+        "audio_url_female": "audio/en/female/FULLTIME_3.mp3",
+        "wav_url_male": "audio/en/male/FULLTIME_3.wav",
+        "wav_url_female": "audio/en/female/FULLTIME_3.wav",
+        "audio_url": "audio/en/male/FULLTIME_3.mp3"
+      },
+      "ar": {
+        "phrase": "[energetic] انتهى كل شيء! يا لها من قمة كروية عشناها الليلة!",
+        "audio_url": "audio/ar/FULLTIME_3.mp3",
+        "wav_url": "audio/ar/FULLTIME_3.wav"
+      },
+      "fr": {
+        "phrase": "[energetic] C'est terminé ! Quel match extraordinaire ce soir !",
+        "audio_url": "audio/fr/FULLTIME_3.mp3",
+        "wav_url": "audio/fr/FULLTIME_3.wav"
+      },
+      "es": {
+        "phrase": "[energetic] ¡Se acabó todo! ¡Qué partidazo hemos vivido esta noche!",
+        "audio_url": "audio/es/FULLTIME_3.mp3",
+        "wav_url": "audio/es/FULLTIME_3.wav"
+      }
+    }
   },
   {
+    "id": "FULLTIME_4",
     "event": "FULLTIME",
-    "phrase": "[emotional] The referee ends the match. What a performance from both teams!",
-    "audio_url": "en/male/FULLTIME_4.mp3",
-    "audio_url_male": "en/male/FULLTIME_4.mp3",
-    "audio_url_female": "en/female/FULLTIME_4.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Kore"
+    "phrase_en": "[emotional] The referee ends the match. What a performance from both teams!",
+    "phrase_ar": "[emotional] الحكم يطلق صافرة النهاية. يا له من أداء بطولي وتاريخي من الفريقين!",
+    "phrase_fr": "[emotional] L'arbitre siffle la fin du match. Quelle prestation magnifique des deux équipes !",
+    "phrase_es": "[emotional] El árbitro marca el final. ¡Qué entrega y qué partidazo de ambos equipos!",
+    "audio_en_male": "audio/en/male/FULLTIME_4.mp3",
+    "audio_en_female": "audio/en/female/FULLTIME_4.mp3",
+    "audio_ar": "audio/ar/FULLTIME_4.mp3",
+    "audio_fr": "audio/fr/FULLTIME_4.mp3",
+    "audio_es": "audio/es/FULLTIME_4.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[emotional] The referee ends the match. What a performance from both teams!",
+        "audio_url_male": "audio/en/male/FULLTIME_4.mp3",
+        "audio_url_female": "audio/en/female/FULLTIME_4.mp3",
+        "wav_url_male": "audio/en/male/FULLTIME_4.wav",
+        "wav_url_female": "audio/en/female/FULLTIME_4.wav",
+        "audio_url": "audio/en/male/FULLTIME_4.mp3"
+      },
+      "ar": {
+        "phrase": "[emotional] الحكم يطلق صافرة النهاية. يا له من أداء بطولي وتاريخي من الفريقين!",
+        "audio_url": "audio/ar/FULLTIME_4.mp3",
+        "wav_url": "audio/ar/FULLTIME_4.wav"
+      },
+      "fr": {
+        "phrase": "[emotional] L'arbitre siffle la fin du match. Quelle prestation magnifique des deux équipes !",
+        "audio_url": "audio/fr/FULLTIME_4.mp3",
+        "wav_url": "audio/fr/FULLTIME_4.wav"
+      },
+      "es": {
+        "phrase": "[emotional] El árbitro marca el final. ¡Qué entrega y qué partidazo de ambos equipos!",
+        "audio_url": "audio/es/FULLTIME_4.mp3",
+        "wav_url": "audio/es/FULLTIME_4.wav"
+      }
+    }
   },
   {
+    "id": "FULLTIME_5",
     "event": "FULLTIME",
-    "phrase": "[cheerful] And that's it! Full time at the stadium!",
-    "audio_url": "en/male/FULLTIME_5.mp3",
-    "audio_url_male": "en/male/FULLTIME_5.mp3",
-    "audio_url_female": "en/female/FULLTIME_5.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Aoede"
+    "phrase_en": "[cheerful] And that's it! Full time at the stadium!",
+    "phrase_ar": "[cheerful] وهذا كل شيء! صافرة النهاية تعلن ختام اللقاء في هذا الملعب!",
+    "phrase_fr": "[cheerful] Et voilà, c'est fini ! Fin du match ici au stade !",
+    "phrase_es": "[cheerful] ¡Y esto es todo! ¡Final del partido en el estadio!",
+    "audio_en_male": "audio/en/male/FULLTIME_5.mp3",
+    "audio_en_female": "audio/en/female/FULLTIME_5.mp3",
+    "audio_ar": "audio/ar/FULLTIME_5.mp3",
+    "audio_fr": "audio/fr/FULLTIME_5.mp3",
+    "audio_es": "audio/es/FULLTIME_5.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[cheerful] And that's it! Full time at the stadium!",
+        "audio_url_male": "audio/en/male/FULLTIME_5.mp3",
+        "audio_url_female": "audio/en/female/FULLTIME_5.mp3",
+        "wav_url_male": "audio/en/male/FULLTIME_5.wav",
+        "wav_url_female": "audio/en/female/FULLTIME_5.wav",
+        "audio_url": "audio/en/male/FULLTIME_5.mp3"
+      },
+      "ar": {
+        "phrase": "[cheerful] وهذا كل شيء! صافرة النهاية تعلن ختام اللقاء في هذا الملعب!",
+        "audio_url": "audio/ar/FULLTIME_5.mp3",
+        "wav_url": "audio/ar/FULLTIME_5.wav"
+      },
+      "fr": {
+        "phrase": "[cheerful] Et voilà, c'est fini ! Fin du match ici au stade !",
+        "audio_url": "audio/fr/FULLTIME_5.mp3",
+        "wav_url": "audio/fr/FULLTIME_5.wav"
+      },
+      "es": {
+        "phrase": "[cheerful] ¡Y esto es todo! ¡Final del partido en el estadio!",
+        "audio_url": "audio/es/FULLTIME_5.mp3",
+        "wav_url": "audio/es/FULLTIME_5.wav"
+      }
+    }
   },
   {
+    "id": "HOMEWIN_1",
     "event": "HOMEWIN",
-    "phrase": "[shouting] Victory for the home side! [excited] The fans are celebrating!",
-    "audio_url": "en/male/HOMEWIN_1.mp3",
-    "audio_url_male": "en/male/HOMEWIN_1.mp3",
-    "audio_url_female": "en/female/HOMEWIN_1.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Kore"
+    "phrase_en": "[shouting] Victory for the home side! [excited] The fans are celebrating!",
+    "phrase_ar": "[shouting] الفوز لأصحاب الأرض! [excited] الجماهير تحتفل بكل جنون!",
+    "phrase_fr": "[shouting] Victoire à domicile ! [excited] Les supporters exultent dans les tribunes !",
+    "phrase_es": "[shouting] ¡Victoria para los locales! [excited] ¡La afición lo celebra por todo lo alto!",
+    "audio_en_male": "audio/en/male/HOMEWIN_1.mp3",
+    "audio_en_female": "audio/en/female/HOMEWIN_1.mp3",
+    "audio_ar": "audio/ar/HOMEWIN_1.mp3",
+    "audio_fr": "audio/fr/HOMEWIN_1.mp3",
+    "audio_es": "audio/es/HOMEWIN_1.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[shouting] Victory for the home side! [excited] The fans are celebrating!",
+        "audio_url_male": "audio/en/male/HOMEWIN_1.mp3",
+        "audio_url_female": "audio/en/female/HOMEWIN_1.mp3",
+        "wav_url_male": "audio/en/male/HOMEWIN_1.wav",
+        "wav_url_female": "audio/en/female/HOMEWIN_1.wav",
+        "audio_url": "audio/en/male/HOMEWIN_1.mp3"
+      },
+      "ar": {
+        "phrase": "[shouting] الفوز لأصحاب الأرض! [excited] الجماهير تحتفل بكل جنون!",
+        "audio_url": "audio/ar/HOMEWIN_1.mp3",
+        "wav_url": "audio/ar/HOMEWIN_1.wav"
+      },
+      "fr": {
+        "phrase": "[shouting] Victoire à domicile ! [excited] Les supporters exultent dans les tribunes !",
+        "audio_url": "audio/fr/HOMEWIN_1.mp3",
+        "wav_url": "audio/fr/HOMEWIN_1.wav"
+      },
+      "es": {
+        "phrase": "[shouting] ¡Victoria para los locales! [excited] ¡La afición lo celebra por todo lo alto!",
+        "audio_url": "audio/es/HOMEWIN_1.mp3",
+        "wav_url": "audio/es/HOMEWIN_1.wav"
+      }
+    }
   },
   {
+    "id": "HOMEWIN_2",
     "event": "HOMEWIN",
-    "phrase": "[cheerful] A fantastic win at home! The crowd is going wild!",
-    "audio_url": "en/male/HOMEWIN_2.mp3",
-    "audio_url_male": "en/male/HOMEWIN_2.mp3",
-    "audio_url_female": "en/female/HOMEWIN_2.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Aoede"
+    "phrase_en": "[cheerful] A fantastic win at home! The crowd is going wild!",
+    "phrase_ar": "[cheerful] انتصار رائع ومستحق في الديار! المدرجات تهتز فرحاً!",
+    "phrase_fr": "[cheerful] Une victoire fantastique à domicile ! Le stade est en ébullition !",
+    "phrase_es": "[cheerful] ¡Un triunfo fantástico en casa! ¡La grada se vuelve loca!",
+    "audio_en_male": "audio/en/male/HOMEWIN_2.mp3",
+    "audio_en_female": "audio/en/female/HOMEWIN_2.mp3",
+    "audio_ar": "audio/ar/HOMEWIN_2.mp3",
+    "audio_fr": "audio/fr/HOMEWIN_2.mp3",
+    "audio_es": "audio/es/HOMEWIN_2.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[cheerful] A fantastic win at home! The crowd is going wild!",
+        "audio_url_male": "audio/en/male/HOMEWIN_2.mp3",
+        "audio_url_female": "audio/en/female/HOMEWIN_2.mp3",
+        "wav_url_male": "audio/en/male/HOMEWIN_2.wav",
+        "wav_url_female": "audio/en/female/HOMEWIN_2.wav",
+        "audio_url": "audio/en/male/HOMEWIN_2.mp3"
+      },
+      "ar": {
+        "phrase": "[cheerful] انتصار رائع ومستحق في الديار! المدرجات تهتز فرحاً!",
+        "audio_url": "audio/ar/HOMEWIN_2.mp3",
+        "wav_url": "audio/ar/HOMEWIN_2.wav"
+      },
+      "fr": {
+        "phrase": "[cheerful] Une victoire fantastique à domicile ! Le stade est en ébullition !",
+        "audio_url": "audio/fr/HOMEWIN_2.mp3",
+        "wav_url": "audio/fr/HOMEWIN_2.wav"
+      },
+      "es": {
+        "phrase": "[cheerful] ¡Un triunfo fantástico en casa! ¡La grada se vuelve loca!",
+        "audio_url": "audio/es/HOMEWIN_2.mp3",
+        "wav_url": "audio/es/HOMEWIN_2.wav"
+      }
+    }
   },
   {
+    "id": "HOMEWIN_3",
     "event": "HOMEWIN",
-    "phrase": "[excited] The home team wins it! What a night for the supporters!",
-    "audio_url": "en/male/HOMEWIN_3.mp3",
-    "audio_url_male": "en/male/HOMEWIN_3.mp3",
-    "audio_url_female": "en/female/HOMEWIN_3.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Zephyr"
+    "phrase_en": "[excited] The home team wins it! What a night for the supporters!",
+    "phrase_ar": "[excited] أصحاب الأرض يحسمونها! يا لها من ليلة لا تُنسى للعشاق والأنصار!",
+    "phrase_fr": "[excited] L'équipe à domicile s'impose ! Quelle soirée magique pour les supporters !",
+    "phrase_es": "[excited] ¡Se lo lleva el equipo de casa! ¡Qué noche inolvidable para los hinchas!",
+    "audio_en_male": "audio/en/male/HOMEWIN_3.mp3",
+    "audio_en_female": "audio/en/female/HOMEWIN_3.mp3",
+    "audio_ar": "audio/ar/HOMEWIN_3.mp3",
+    "audio_fr": "audio/fr/HOMEWIN_3.mp3",
+    "audio_es": "audio/es/HOMEWIN_3.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[excited] The home team wins it! What a night for the supporters!",
+        "audio_url_male": "audio/en/male/HOMEWIN_3.mp3",
+        "audio_url_female": "audio/en/female/HOMEWIN_3.mp3",
+        "wav_url_male": "audio/en/male/HOMEWIN_3.wav",
+        "wav_url_female": "audio/en/female/HOMEWIN_3.wav",
+        "audio_url": "audio/en/male/HOMEWIN_3.mp3"
+      },
+      "ar": {
+        "phrase": "[excited] أصحاب الأرض يحسمونها! يا لها من ليلة لا تُنسى للعشاق والأنصار!",
+        "audio_url": "audio/ar/HOMEWIN_3.mp3",
+        "wav_url": "audio/ar/HOMEWIN_3.wav"
+      },
+      "fr": {
+        "phrase": "[excited] L'équipe à domicile s'impose ! Quelle soirée magique pour les supporters !",
+        "audio_url": "audio/fr/HOMEWIN_3.mp3",
+        "wav_url": "audio/fr/HOMEWIN_3.wav"
+      },
+      "es": {
+        "phrase": "[excited] ¡Se lo lleva el equipo de casa! ¡Qué noche inolvidable para los hinchas!",
+        "audio_url": "audio/es/HOMEWIN_3.mp3",
+        "wav_url": "audio/es/HOMEWIN_3.wav"
+      }
+    }
   },
   {
+    "id": "HOMEWIN_4",
     "event": "HOMEWIN",
-    "phrase": "[emotional] Home win! They gave everything for their fans!",
-    "audio_url": "en/male/HOMEWIN_4.mp3",
-    "audio_url_male": "en/male/HOMEWIN_4.mp3",
-    "audio_url_female": "en/female/HOMEWIN_4.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Kore"
+    "phrase_en": "[emotional] Home win! They gave everything for their fans!",
+    "phrase_ar": "[emotional] انتصار أصحاب الدار! لقد قدموا أرواحهم وكل ما يملكون من أجل الجماهير!",
+    "phrase_fr": "[emotional] Victoire à domicile ! Ils ont tout donné pour leur public !",
+    "phrase_es": "[emotional] ¡Victoria en casa! ¡Se dejaron el alma por su gente!",
+    "audio_en_male": "audio/en/male/HOMEWIN_4.mp3",
+    "audio_en_female": "audio/en/female/HOMEWIN_4.mp3",
+    "audio_ar": "audio/ar/HOMEWIN_4.mp3",
+    "audio_fr": "audio/fr/HOMEWIN_4.mp3",
+    "audio_es": "audio/es/HOMEWIN_4.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[emotional] Home win! They gave everything for their fans!",
+        "audio_url_male": "audio/en/male/HOMEWIN_4.mp3",
+        "audio_url_female": "audio/en/female/HOMEWIN_4.mp3",
+        "wav_url_male": "audio/en/male/HOMEWIN_4.wav",
+        "wav_url_female": "audio/en/female/HOMEWIN_4.wav",
+        "audio_url": "audio/en/male/HOMEWIN_4.mp3"
+      },
+      "ar": {
+        "phrase": "[emotional] انتصار أصحاب الدار! لقد قدموا أرواحهم وكل ما يملكون من أجل الجماهير!",
+        "audio_url": "audio/ar/HOMEWIN_4.mp3",
+        "wav_url": "audio/ar/HOMEWIN_4.wav"
+      },
+      "fr": {
+        "phrase": "[emotional] Victoire à domicile ! Ils ont tout donné pour leur public !",
+        "audio_url": "audio/fr/HOMEWIN_4.mp3",
+        "wav_url": "audio/fr/HOMEWIN_4.wav"
+      },
+      "es": {
+        "phrase": "[emotional] ¡Victoria en casa! ¡Se dejaron el alma por su gente!",
+        "audio_url": "audio/es/HOMEWIN_4.mp3",
+        "wav_url": "audio/es/HOMEWIN_4.wav"
+      }
+    }
   },
   {
+    "id": "HOMEWIN_5",
     "event": "HOMEWIN",
-    "phrase": "[energetic] Three points for the home team! A brilliant performance!",
-    "audio_url": "en/male/HOMEWIN_5.mp3",
-    "audio_url_male": "en/male/HOMEWIN_5.mp3",
-    "audio_url_female": "en/female/HOMEWIN_5.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Aoede"
+    "phrase_en": "[energetic] Three points for the home team! A brilliant performance!",
+    "phrase_ar": "[energetic] ثلاث نقاط ثمينة لأصحاب الأرض! أداء كروي مبهر واستعراضي!",
+    "phrase_fr": "[energetic] Trois points pour les locaux ! Une prestation tout simplement magistrale !",
+    "phrase_es": "[energetic] ¡Tres puntos para los de casa! ¡Una actuación brillante!",
+    "audio_en_male": "audio/en/male/HOMEWIN_5.mp3",
+    "audio_en_female": "audio/en/female/HOMEWIN_5.mp3",
+    "audio_ar": "audio/ar/HOMEWIN_5.mp3",
+    "audio_fr": "audio/fr/HOMEWIN_5.mp3",
+    "audio_es": "audio/es/HOMEWIN_5.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[energetic] Three points for the home team! A brilliant performance!",
+        "audio_url_male": "audio/en/male/HOMEWIN_5.mp3",
+        "audio_url_female": "audio/en/female/HOMEWIN_5.mp3",
+        "wav_url_male": "audio/en/male/HOMEWIN_5.wav",
+        "wav_url_female": "audio/en/female/HOMEWIN_5.wav",
+        "audio_url": "audio/en/male/HOMEWIN_5.mp3"
+      },
+      "ar": {
+        "phrase": "[energetic] ثلاث نقاط ثمينة لأصحاب الأرض! أداء كروي مبهر واستعراضي!",
+        "audio_url": "audio/ar/HOMEWIN_5.mp3",
+        "wav_url": "audio/ar/HOMEWIN_5.wav"
+      },
+      "fr": {
+        "phrase": "[energetic] Trois points pour les locaux ! Une prestation tout simplement magistrale !",
+        "audio_url": "audio/fr/HOMEWIN_5.mp3",
+        "wav_url": "audio/fr/HOMEWIN_5.wav"
+      },
+      "es": {
+        "phrase": "[energetic] ¡Tres puntos para los de casa! ¡Una actuación brillante!",
+        "audio_url": "audio/es/HOMEWIN_5.mp3",
+        "wav_url": "audio/es/HOMEWIN_5.wav"
+      }
+    }
   },
   {
+    "id": "AWAYWIN_1",
     "event": "AWAYWIN",
-    "phrase": "[excited] The visitors take the win! An amazing result away from home!",
-    "audio_url": "en/male/AWAYWIN_1.mp3",
-    "audio_url_male": "en/male/AWAYWIN_1.mp3",
-    "audio_url_female": "en/female/AWAYWIN_1.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Kore"
+    "phrase_en": "[excited] The visitors take the win! An amazing result away from home!",
+    "phrase_ar": "[excited] الضيوف يخطفون الفوز! نتيجة مذهلة خارج القواعد!",
+    "phrase_fr": "[excited] Les visiteurs s'imposent ! Quel résultat incroyable à l'extérieur !",
+    "phrase_es": "[excited] ¡Victoria para la visita! ¡Un resultado tremendo fuera de casa!",
+    "audio_en_male": "audio/en/male/AWAYWIN_1.mp3",
+    "audio_en_female": "audio/en/female/AWAYWIN_1.mp3",
+    "audio_ar": "audio/ar/AWAYWIN_1.mp3",
+    "audio_fr": "audio/fr/AWAYWIN_1.mp3",
+    "audio_es": "audio/es/AWAYWIN_1.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[excited] The visitors take the win! An amazing result away from home!",
+        "audio_url_male": "audio/en/male/AWAYWIN_1.mp3",
+        "audio_url_female": "audio/en/female/AWAYWIN_1.mp3",
+        "wav_url_male": "audio/en/male/AWAYWIN_1.wav",
+        "wav_url_female": "audio/en/female/AWAYWIN_1.wav",
+        "audio_url": "audio/en/male/AWAYWIN_1.mp3"
+      },
+      "ar": {
+        "phrase": "[excited] الضيوف يخطفون الفوز! نتيجة مذهلة خارج القواعد!",
+        "audio_url": "audio/ar/AWAYWIN_1.mp3",
+        "wav_url": "audio/ar/AWAYWIN_1.wav"
+      },
+      "fr": {
+        "phrase": "[excited] Les visiteurs s'imposent ! Quel résultat incroyable à l'extérieur !",
+        "audio_url": "audio/fr/AWAYWIN_1.mp3",
+        "wav_url": "audio/fr/AWAYWIN_1.wav"
+      },
+      "es": {
+        "phrase": "[excited] ¡Victoria para la visita! ¡Un resultado tremendo fuera de casa!",
+        "audio_url": "audio/es/AWAYWIN_1.mp3",
+        "wav_url": "audio/es/AWAYWIN_1.wav"
+      }
+    }
   },
   {
+    "id": "AWAYWIN_2",
     "event": "AWAYWIN",
-    "phrase": "[impressed] Away win! They silenced the stadium tonight!",
-    "audio_url": "en/male/AWAYWIN_2.mp3",
-    "audio_url_male": "en/male/AWAYWIN_2.mp3",
-    "audio_url_female": "en/female/AWAYWIN_2.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Aoede"
+    "phrase_en": "[impressed] Away win! They silenced the stadium tonight!",
+    "phrase_ar": "[impressed] انتصار خارج الديار! لقد أسكتوا الملعب بأكمله الليلة!",
+    "phrase_fr": "[impressed] Victoire à l'extérieur ! Ils ont fait taire tout le stade ce soir !",
+    "phrase_es": "[impressed] ¡Triunfo visitante! ¡Hicieron enmudecer a todo el estadio!",
+    "audio_en_male": "audio/en/male/AWAYWIN_2.mp3",
+    "audio_en_female": "audio/en/female/AWAYWIN_2.mp3",
+    "audio_ar": "audio/ar/AWAYWIN_2.mp3",
+    "audio_fr": "audio/fr/AWAYWIN_2.mp3",
+    "audio_es": "audio/es/AWAYWIN_2.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[impressed] Away win! They silenced the stadium tonight!",
+        "audio_url_male": "audio/en/male/AWAYWIN_2.mp3",
+        "audio_url_female": "audio/en/female/AWAYWIN_2.mp3",
+        "wav_url_male": "audio/en/male/AWAYWIN_2.wav",
+        "wav_url_female": "audio/en/female/AWAYWIN_2.wav",
+        "audio_url": "audio/en/male/AWAYWIN_2.mp3"
+      },
+      "ar": {
+        "phrase": "[impressed] انتصار خارج الديار! لقد أسكتوا الملعب بأكمله الليلة!",
+        "audio_url": "audio/ar/AWAYWIN_2.mp3",
+        "wav_url": "audio/ar/AWAYWIN_2.wav"
+      },
+      "fr": {
+        "phrase": "[impressed] Victoire à l'extérieur ! Ils ont fait taire tout le stade ce soir !",
+        "audio_url": "audio/fr/AWAYWIN_2.mp3",
+        "wav_url": "audio/fr/AWAYWIN_2.wav"
+      },
+      "es": {
+        "phrase": "[impressed] ¡Triunfo visitante! ¡Hicieron enmudecer a todo el estadio!",
+        "audio_url": "audio/es/AWAYWIN_2.mp3",
+        "wav_url": "audio/es/AWAYWIN_2.wav"
+      }
+    }
   },
   {
+    "id": "AWAYWIN_3",
     "event": "AWAYWIN",
-    "phrase": "[shouting] A huge victory for the away team! What a performance!",
-    "audio_url": "en/male/AWAYWIN_3.mp3",
-    "audio_url_male": "en/male/AWAYWIN_3.mp3",
-    "audio_url_female": "en/female/AWAYWIN_3.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Zephyr"
+    "phrase_en": "[shouting] A huge victory for the away team! What a performance!",
+    "phrase_ar": "[shouting] انتصار مدوٍ للضيوف! يا له من أداء بطولي وشجاع!",
+    "phrase_fr": "[shouting] Une victoire monumentale pour les visiteurs ! Quel match gigantesque !",
+    "phrase_es": "[shouting] ¡Triunfazo para el equipo visitante! ¡Vaya exhibición!",
+    "audio_en_male": "audio/en/male/AWAYWIN_3.mp3",
+    "audio_en_female": "audio/en/female/AWAYWIN_3.mp3",
+    "audio_ar": "audio/ar/AWAYWIN_3.mp3",
+    "audio_fr": "audio/fr/AWAYWIN_3.mp3",
+    "audio_es": "audio/es/AWAYWIN_3.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[shouting] A huge victory for the away team! What a performance!",
+        "audio_url_male": "audio/en/male/AWAYWIN_3.mp3",
+        "audio_url_female": "audio/en/female/AWAYWIN_3.mp3",
+        "wav_url_male": "audio/en/male/AWAYWIN_3.wav",
+        "wav_url_female": "audio/en/female/AWAYWIN_3.wav",
+        "audio_url": "audio/en/male/AWAYWIN_3.mp3"
+      },
+      "ar": {
+        "phrase": "[shouting] انتصار مدوٍ للضيوف! يا له من أداء بطولي وشجاع!",
+        "audio_url": "audio/ar/AWAYWIN_3.mp3",
+        "wav_url": "audio/ar/AWAYWIN_3.wav"
+      },
+      "fr": {
+        "phrase": "[shouting] Une victoire monumentale pour les visiteurs ! Quel match gigantesque !",
+        "audio_url": "audio/fr/AWAYWIN_3.mp3",
+        "wav_url": "audio/fr/AWAYWIN_3.wav"
+      },
+      "es": {
+        "phrase": "[shouting] ¡Triunfazo para el equipo visitante! ¡Vaya exhibición!",
+        "audio_url": "audio/es/AWAYWIN_3.mp3",
+        "wav_url": "audio/es/AWAYWIN_3.wav"
+      }
+    }
   },
   {
+    "id": "AWAYWIN_4",
     "event": "AWAYWIN",
-    "phrase": "[cheerful] The travelling fans are celebrating! A great win on the road!",
-    "audio_url": "en/male/AWAYWIN_4.mp3",
-    "audio_url_male": "en/male/AWAYWIN_4.mp3",
-    "audio_url_female": "en/female/AWAYWIN_4.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Kore"
+    "phrase_en": "[cheerful] The travelling fans are celebrating! A great win on the road!",
+    "phrase_ar": "[cheerful] الجماهير المسافرة تحتفل بجنون! فوز عظيم خارج الديار!",
+    "phrase_fr": "[cheerful] Les supporters en déplacement exultent ! Une superbe victoire loin de leurs bases !",
+    "phrase_es": "[cheerful] ¡La hinchada visitante festeja por todo lo alto! ¡Gran victoria a domicilio!",
+    "audio_en_male": "audio/en/male/AWAYWIN_4.mp3",
+    "audio_en_female": "audio/en/female/AWAYWIN_4.mp3",
+    "audio_ar": "audio/ar/AWAYWIN_4.mp3",
+    "audio_fr": "audio/fr/AWAYWIN_4.mp3",
+    "audio_es": "audio/es/AWAYWIN_4.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[cheerful] The travelling fans are celebrating! A great win on the road!",
+        "audio_url_male": "audio/en/male/AWAYWIN_4.mp3",
+        "audio_url_female": "audio/en/female/AWAYWIN_4.mp3",
+        "wav_url_male": "audio/en/male/AWAYWIN_4.wav",
+        "wav_url_female": "audio/en/female/AWAYWIN_4.wav",
+        "audio_url": "audio/en/male/AWAYWIN_4.mp3"
+      },
+      "ar": {
+        "phrase": "[cheerful] الجماهير المسافرة تحتفل بجنون! فوز عظيم خارج الديار!",
+        "audio_url": "audio/ar/AWAYWIN_4.mp3",
+        "wav_url": "audio/ar/AWAYWIN_4.wav"
+      },
+      "fr": {
+        "phrase": "[cheerful] Les supporters en déplacement exultent ! Une superbe victoire loin de leurs bases !",
+        "audio_url": "audio/fr/AWAYWIN_4.mp3",
+        "wav_url": "audio/fr/AWAYWIN_4.wav"
+      },
+      "es": {
+        "phrase": "[cheerful] ¡La hinchada visitante festeja por todo lo alto! ¡Gran victoria a domicilio!",
+        "audio_url": "audio/es/AWAYWIN_4.mp3",
+        "wav_url": "audio/es/AWAYWIN_4.wav"
+      }
+    }
   },
   {
+    "id": "AWAYWIN_5",
     "event": "AWAYWIN",
-    "phrase": "[energetic] Three points on the road! A superb away victory!",
-    "audio_url": "en/male/AWAYWIN_5.mp3",
-    "audio_url_male": "en/male/AWAYWIN_5.mp3",
-    "audio_url_female": "en/female/AWAYWIN_5.mp3",
-    "voice_male": "Fenrir",
-    "voice_female": "Aoede"
+    "phrase_en": "[energetic] Three points on the road! A superb away victory!",
+    "phrase_ar": "[energetic] ثلاث نقاط من خارج الميدان! انتصار رائع ومستحق للضيوف!",
+    "phrase_fr": "[energetic] Trois points glanés à l'extérieur ! Une victoire superbe et autoritaire !",
+    "phrase_es": "[energetic] ¡Tres puntos de oro como visitantes! ¡Una victoria fantástica fuera de casa!",
+    "audio_en_male": "audio/en/male/AWAYWIN_5.mp3",
+    "audio_en_female": "audio/en/female/AWAYWIN_5.mp3",
+    "audio_ar": "audio/ar/AWAYWIN_5.mp3",
+    "audio_fr": "audio/fr/AWAYWIN_5.mp3",
+    "audio_es": "audio/es/AWAYWIN_5.mp3",
+    "translations": {
+      "en": {
+        "phrase": "[energetic] Three points on the road! A superb away victory!",
+        "audio_url_male": "audio/en/male/AWAYWIN_5.mp3",
+        "audio_url_female": "audio/en/female/AWAYWIN_5.mp3",
+        "wav_url_male": "audio/en/male/AWAYWIN_5.wav",
+        "wav_url_female": "audio/en/female/AWAYWIN_5.wav",
+        "audio_url": "audio/en/male/AWAYWIN_5.mp3"
+      },
+      "ar": {
+        "phrase": "[energetic] ثلاث نقاط من خارج الميدان! انتصار رائع ومستحق للضيوف!",
+        "audio_url": "audio/ar/AWAYWIN_5.mp3",
+        "wav_url": "audio/ar/AWAYWIN_5.wav"
+      },
+      "fr": {
+        "phrase": "[energetic] Trois points glanés à l'extérieur ! Une victoire superbe et autoritaire !",
+        "audio_url": "audio/fr/AWAYWIN_5.mp3",
+        "wav_url": "audio/fr/AWAYWIN_5.wav"
+      },
+      "es": {
+        "phrase": "[energetic] ¡Tres puntos de oro como visitantes! ¡Una victoria fantástica fuera de casa!",
+        "audio_url": "audio/es/AWAYWIN_5.mp3",
+        "wav_url": "audio/es/AWAYWIN_5.wav"
+      }
+    }
   }
 ]

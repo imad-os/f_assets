@@ -1,0 +1,527 @@
+[
+  {
+    "id": "INTRO_1",
+    "event": "INTRO",
+    "phrase": "[excited] Hello everyone, and welcome! The teams are ready, and the match is about to begin!",
+    "audio_url": "audio/en/female/INTRO_1.mp3",
+    "wav_url": "audio/en/female/INTRO_1.wav"
+  },
+  {
+    "id": "INTRO_2",
+    "event": "INTRO",
+    "phrase": "[cheerful] And we are underway! The crowd is on its feet, and what an atmosphere tonight!",
+    "audio_url": "audio/en/female/INTRO_2.mp3",
+    "wav_url": "audio/en/female/INTRO_2.wav"
+  },
+  {
+    "id": "INTRO_3",
+    "event": "INTRO",
+    "phrase": "[energetic] Here we go! The referee blows the whistle, and the game is on!",
+    "audio_url": "audio/en/female/INTRO_3.mp3",
+    "wav_url": "audio/en/female/INTRO_3.wav"
+  },
+  {
+    "id": "INTRO_4",
+    "event": "INTRO",
+    "phrase": "[excited] Kick off! Let's see what these two teams have for us today!",
+    "audio_url": "audio/en/female/INTRO_4.mp3",
+    "wav_url": "audio/en/female/INTRO_4.wav"
+  },
+  {
+    "id": "INTRO_5",
+    "event": "INTRO",
+    "phrase": "[enthusiastic] Welcome to the stadium, football fans! It's going to be a big one!",
+    "audio_url": "audio/en/female/INTRO_5.mp3",
+    "wav_url": "audio/en/female/INTRO_5.wav"
+  },
+  {
+    "id": "GOAL_1",
+    "event": "GOAL",
+    "phrase": "[shouting] Gooooooal!!! [excited] What a finish! Absolutely fantastic!",
+    "audio_url": "audio/en/female/GOAL_1.mp3",
+    "wav_url": "audio/en/female/GOAL_1.wav"
+  },
+  {
+    "id": "GOAL_2",
+    "event": "GOAL",
+    "phrase": "[screaming] Goooooal! [laughs] Oh, that is unbelievable! Very nice goal!",
+    "audio_url": "audio/en/female/GOAL_2.mp3",
+    "wav_url": "audio/en/female/GOAL_2.wav"
+  },
+  {
+    "id": "GOAL_3",
+    "event": "GOAL",
+    "phrase": "[shouting] It's in! It's in! [excited] The net is shaking! What a strike!",
+    "audio_url": "audio/en/female/GOAL_3.mp3",
+    "wav_url": "audio/en/female/GOAL_3.wav"
+  },
+  {
+    "id": "GOAL_4",
+    "event": "GOAL",
+    "phrase": "[screaming] Gooooal, goooooal! [breathless] Pure class! The stadium is going wild!",
+    "audio_url": "audio/en/female/GOAL_4.mp3",
+    "wav_url": "audio/en/female/GOAL_4.wav"
+  },
+  {
+    "id": "GOAL_5",
+    "event": "GOAL",
+    "phrase": "[shouting] He scores!!! [gasp] What a moment! What a goal!",
+    "audio_url": "audio/en/female/GOAL_5.mp3",
+    "wav_url": "audio/en/female/GOAL_5.wav"
+  },
+  {
+    "id": "FOUL_1",
+    "event": "FOUL",
+    "phrase": "[serious] The referee blows the whistle. That's a foul.",
+    "audio_url": "audio/en/female/FOUL_1.mp3",
+    "wav_url": "audio/en/female/FOUL_1.wav"
+  },
+  {
+    "id": "FOUL_2",
+    "event": "FOUL",
+    "phrase": "[annoyed] Oh, that was a rough challenge! The referee stops the game.",
+    "audio_url": "audio/en/female/FOUL_2.mp3",
+    "wav_url": "audio/en/female/FOUL_2.wav"
+  },
+  {
+    "id": "FOUL_3",
+    "event": "FOUL",
+    "phrase": "[calm] A clear foul there. Free kick awarded.",
+    "audio_url": "audio/en/female/FOUL_3.mp3",
+    "wav_url": "audio/en/female/FOUL_3.wav"
+  },
+  {
+    "id": "FOUL_4",
+    "event": "FOUL",
+    "phrase": "[surprised] Ouch! That one looked painful. The referee has seen enough.",
+    "audio_url": "audio/en/female/FOUL_4.mp3",
+    "wav_url": "audio/en/female/FOUL_4.wav"
+  },
+  {
+    "id": "FOUL_5",
+    "event": "FOUL",
+    "phrase": "[disapproving] Late challenge! That's definitely a foul.",
+    "audio_url": "audio/en/female/FOUL_5.mp3",
+    "wav_url": "audio/en/female/FOUL_5.wav"
+  },
+  {
+    "id": "PENALTY_1",
+    "event": "PENALTY",
+    "phrase": "[shouting] Penalty!!! [gasp] The referee points to the spot!",
+    "audio_url": "audio/en/female/PENALTY_1.mp3",
+    "wav_url": "audio/en/female/PENALTY_1.wav"
+  },
+  {
+    "id": "PENALTY_2",
+    "event": "PENALTY",
+    "phrase": "[tense] A huge moment here. Penalty kick! The whole stadium is holding its breath.",
+    "audio_url": "audio/en/female/PENALTY_2.mp3",
+    "wav_url": "audio/en/female/PENALTY_2.wav"
+  },
+  {
+    "id": "PENALTY_3",
+    "event": "PENALTY",
+    "phrase": "[excited] He's been brought down in the box! It's a penalty!",
+    "audio_url": "audio/en/female/PENALTY_3.mp3",
+    "wav_url": "audio/en/female/PENALTY_3.wav"
+  },
+  {
+    "id": "PENALTY_4",
+    "event": "PENALTY",
+    "phrase": "[whispering] Silence in the stadium... the penalty taker steps up...",
+    "audio_url": "audio/en/female/PENALTY_4.mp3",
+    "wav_url": "audio/en/female/PENALTY_4.wav"
+  },
+  {
+    "id": "PENALTY_5",
+    "event": "PENALTY",
+    "phrase": "[dramatic] The referee doesn't hesitate! Penalty! This could change everything!",
+    "audio_url": "audio/en/female/PENALTY_5.mp3",
+    "wav_url": "audio/en/female/PENALTY_5.wav"
+  },
+  {
+    "id": "CORNER_1",
+    "event": "CORNER",
+    "phrase": "[excited] Corner kick! A great chance to put the ball in the box.",
+    "audio_url": "audio/en/female/CORNER_1.mp3",
+    "wav_url": "audio/en/female/CORNER_1.wav"
+  },
+  {
+    "id": "CORNER_2",
+    "event": "CORNER",
+    "phrase": "[energetic] The defender clears it behind, and it's a corner.",
+    "audio_url": "audio/en/female/CORNER_2.mp3",
+    "wav_url": "audio/en/female/CORNER_2.wav"
+  },
+  {
+    "id": "CORNER_3",
+    "event": "CORNER",
+    "phrase": "[focused] Corner kick coming in... everyone is packed into the box!",
+    "audio_url": "audio/en/female/CORNER_3.mp3",
+    "wav_url": "audio/en/female/CORNER_3.wav"
+  },
+  {
+    "id": "CORNER_4",
+    "event": "CORNER",
+    "phrase": "[intense] A dangerous corner! Watch out for the header!",
+    "audio_url": "audio/en/female/CORNER_4.mp3",
+    "wav_url": "audio/en/female/CORNER_4.wav"
+  },
+  {
+    "id": "CORNER_5",
+    "event": "CORNER",
+    "phrase": "[calm] Another corner for the attacking side. Let's see what they do with it.",
+    "audio_url": "audio/en/female/CORNER_5.mp3",
+    "wav_url": "audio/en/female/CORNER_5.wav"
+  },
+  {
+    "id": "SAVE_1",
+    "event": "SAVE",
+    "phrase": "[shouting] What a save!!! [gasp] Incredible from the goalkeeper!",
+    "audio_url": "audio/en/female/SAVE_1.mp3",
+    "wav_url": "audio/en/female/SAVE_1.wav"
+  },
+  {
+    "id": "SAVE_2",
+    "event": "SAVE",
+    "phrase": "[amazed] He gets a hand to it! Unbelievable reflexes!",
+    "audio_url": "audio/en/female/SAVE_2.mp3",
+    "wav_url": "audio/en/female/SAVE_2.wav"
+  },
+  {
+    "id": "SAVE_3",
+    "event": "SAVE",
+    "phrase": "[excited] The goalkeeper is a wall tonight! Superb save!",
+    "audio_url": "audio/en/female/SAVE_3.mp3",
+    "wav_url": "audio/en/female/SAVE_3.wav"
+  },
+  {
+    "id": "SAVE_4",
+    "event": "SAVE",
+    "phrase": "[screaming] No way! He keeps it out! [laughs] How did he do that?",
+    "audio_url": "audio/en/female/SAVE_4.mp3",
+    "wav_url": "audio/en/female/SAVE_4.wav"
+  },
+  {
+    "id": "SAVE_5",
+    "event": "SAVE",
+    "phrase": "[breathless] Oh, what a stop! The keeper saves his team!",
+    "audio_url": "audio/en/female/SAVE_5.mp3",
+    "wav_url": "audio/en/female/SAVE_5.wav"
+  },
+  {
+    "id": "LONGPASS_1",
+    "event": "LONGPASS",
+    "phrase": "[excited] Oh, what a pass! That splits the defense wide open!",
+    "audio_url": "audio/en/female/LONGPASS_1.mp3",
+    "wav_url": "audio/en/female/LONGPASS_1.wav"
+  },
+  {
+    "id": "LONGPASS_2",
+    "event": "LONGPASS",
+    "phrase": "[amazed] A beautiful long ball! Look at the vision!",
+    "audio_url": "audio/en/female/LONGPASS_2.mp3",
+    "wav_url": "audio/en/female/LONGPASS_2.wav"
+  },
+  {
+    "id": "LONGPASS_3",
+    "event": "LONGPASS",
+    "phrase": "[energetic] Through ball! He's in behind the defense!",
+    "audio_url": "audio/en/female/LONGPASS_3.mp3",
+    "wav_url": "audio/en/female/LONGPASS_3.wav"
+  },
+  {
+    "id": "LONGPASS_4",
+    "event": "LONGPASS",
+    "phrase": "[impressed] Superb delivery! That is pure quality!",
+    "audio_url": "audio/en/female/LONGPASS_4.mp3",
+    "wav_url": "audio/en/female/LONGPASS_4.wav"
+  },
+  {
+    "id": "LONGPASS_5",
+    "event": "LONGPASS",
+    "phrase": "[excited] A perfect pass over the top! What an opportunity!",
+    "audio_url": "audio/en/female/LONGPASS_5.mp3",
+    "wav_url": "audio/en/female/LONGPASS_5.wav"
+  },
+  {
+    "id": "TACKLE_1",
+    "event": "TACKLE",
+    "phrase": "[excited] What a tackle! Perfectly timed!",
+    "audio_url": "audio/en/female/TACKLE_1.mp3",
+    "wav_url": "audio/en/female/TACKLE_1.wav"
+  },
+  {
+    "id": "TACKLE_2",
+    "event": "TACKLE",
+    "phrase": "[impressed] Brilliant defending! He wins the ball cleanly!",
+    "audio_url": "audio/en/female/TACKLE_2.mp3",
+    "wav_url": "audio/en/female/TACKLE_2.wav"
+  },
+  {
+    "id": "TACKLE_3",
+    "event": "TACKLE",
+    "phrase": "[energetic] A strong challenge, and the danger is gone!",
+    "audio_url": "audio/en/female/TACKLE_3.mp3",
+    "wav_url": "audio/en/female/TACKLE_3.wav"
+  },
+  {
+    "id": "TACKLE_4",
+    "event": "TACKLE",
+    "phrase": "[amazed] Oh, that was a crunching tackle! Great timing!",
+    "audio_url": "audio/en/female/TACKLE_4.mp3",
+    "wav_url": "audio/en/female/TACKLE_4.wav"
+  },
+  {
+    "id": "TACKLE_5",
+    "event": "TACKLE",
+    "phrase": "[cheerful] Clean, sharp, and effective. Excellent tackle!",
+    "audio_url": "audio/en/female/TACKLE_5.mp3",
+    "wav_url": "audio/en/female/TACKLE_5.wav"
+  },
+  {
+    "id": "COUNTER_1",
+    "event": "COUNTER",
+    "phrase": "[shouting] Counter attack! [excited] They're flying up the pitch!",
+    "audio_url": "audio/en/female/COUNTER_1.mp3",
+    "wav_url": "audio/en/female/COUNTER_1.wav"
+  },
+  {
+    "id": "COUNTER_2",
+    "event": "COUNTER",
+    "phrase": "[breathless] Fast break! Look at the speed! This is dangerous!",
+    "audio_url": "audio/en/female/COUNTER_2.mp3",
+    "wav_url": "audio/en/female/COUNTER_2.wav"
+  },
+  {
+    "id": "COUNTER_3",
+    "event": "COUNTER",
+    "phrase": "[intense] They are breaking at lightning speed! Can they finish it?",
+    "audio_url": "audio/en/female/COUNTER_3.mp3",
+    "wav_url": "audio/en/female/COUNTER_3.wav"
+  },
+  {
+    "id": "COUNTER_4",
+    "event": "COUNTER",
+    "phrase": "[urgent] A quick counter! Numbers forward! Here comes the danger!",
+    "audio_url": "audio/en/female/COUNTER_4.mp3",
+    "wav_url": "audio/en/female/COUNTER_4.wav"
+  },
+  {
+    "id": "COUNTER_5",
+    "event": "COUNTER",
+    "phrase": "[excited] Lightning counter! The defense is caught out!",
+    "audio_url": "audio/en/female/COUNTER_5.mp3",
+    "wav_url": "audio/en/female/COUNTER_5.wav"
+  },
+  {
+    "id": "ATTACK_1",
+    "event": "ATTACK",
+    "phrase": "[excited] A dangerous attack! The pressure is building!",
+    "audio_url": "audio/en/female/ATTACK_1.mp3",
+    "wav_url": "audio/en/female/ATTACK_1.wav"
+  },
+  {
+    "id": "ATTACK_2",
+    "event": "ATTACK",
+    "phrase": "[energetic] They are pushing forward! A chance is coming!",
+    "audio_url": "audio/en/female/ATTACK_2.mp3",
+    "wav_url": "audio/en/female/ATTACK_2.wav"
+  },
+  {
+    "id": "ATTACK_3",
+    "event": "ATTACK",
+    "phrase": "[intense] Great movement in the final third! Something is going to happen here!",
+    "audio_url": "audio/en/female/ATTACK_3.mp3",
+    "wav_url": "audio/en/female/ATTACK_3.wav"
+  },
+  {
+    "id": "ATTACK_4",
+    "event": "ATTACK",
+    "phrase": "[focused] The attack continues, looking for the opening!",
+    "audio_url": "audio/en/female/ATTACK_4.mp3",
+    "wav_url": "audio/en/female/ATTACK_4.wav"
+  },
+  {
+    "id": "ATTACK_5",
+    "event": "ATTACK",
+    "phrase": "[shouting] Here they come! A real threat on goal!",
+    "audio_url": "audio/en/female/ATTACK_5.mp3",
+    "wav_url": "audio/en/female/ATTACK_5.wav"
+  },
+  {
+    "id": "OFFSIDE_1",
+    "event": "OFFSIDE",
+    "phrase": "[serious] The flag is up. That's offside.",
+    "audio_url": "audio/en/female/OFFSIDE_1.mp3",
+    "wav_url": "audio/en/female/OFFSIDE_1.wav"
+  },
+  {
+    "id": "OFFSIDE_2",
+    "event": "OFFSIDE",
+    "phrase": "[disappointed] Oh no, the linesman raises the flag. Offside!",
+    "audio_url": "audio/en/female/OFFSIDE_2.mp3",
+    "wav_url": "audio/en/female/OFFSIDE_2.wav"
+  },
+  {
+    "id": "OFFSIDE_3",
+    "event": "OFFSIDE",
+    "phrase": "[calm] Caught offside. The attack is stopped.",
+    "audio_url": "audio/en/female/OFFSIDE_3.mp3",
+    "wav_url": "audio/en/female/OFFSIDE_3.wav"
+  },
+  {
+    "id": "OFFSIDE_4",
+    "event": "OFFSIDE",
+    "phrase": "[groans] Ah, he was just a step too far ahead. Offside.",
+    "audio_url": "audio/en/female/OFFSIDE_4.mp3",
+    "wav_url": "audio/en/female/OFFSIDE_4.wav"
+  },
+  {
+    "id": "OFFSIDE_5",
+    "event": "OFFSIDE",
+    "phrase": "[matter-of-fact] The flag goes up. Free kick for the defense.",
+    "audio_url": "audio/en/female/OFFSIDE_5.mp3",
+    "wav_url": "audio/en/female/OFFSIDE_5.wav"
+  },
+  {
+    "id": "HALFTIME_1",
+    "event": "HALFTIME",
+    "phrase": "[calm] The referee blows the whistle. That's the end of the first half.",
+    "audio_url": "audio/en/female/HALFTIME_1.mp3",
+    "wav_url": "audio/en/female/HALFTIME_1.wav"
+  },
+  {
+    "id": "HALFTIME_2",
+    "event": "HALFTIME",
+    "phrase": "[relaxed] And that's half time. A lot to think about for both coaches.",
+    "audio_url": "audio/en/female/HALFTIME_2.mp3",
+    "wav_url": "audio/en/female/HALFTIME_2.wav"
+  },
+  {
+    "id": "HALFTIME_3",
+    "event": "HALFTIME",
+    "phrase": "[cheerful] The first half is over. Time for a short break!",
+    "audio_url": "audio/en/female/HALFTIME_3.mp3",
+    "wav_url": "audio/en/female/HALFTIME_3.wav"
+  },
+  {
+    "id": "HALFTIME_4",
+    "event": "HALFTIME",
+    "phrase": "[thoughtful] The teams head to the dressing room. What will the second half bring?",
+    "audio_url": "audio/en/female/HALFTIME_4.mp3",
+    "wav_url": "audio/en/female/HALFTIME_4.wav"
+  },
+  {
+    "id": "HALFTIME_5",
+    "event": "HALFTIME",
+    "phrase": "[energetic] Half time! What an exciting forty-five minutes!",
+    "audio_url": "audio/en/female/HALFTIME_5.mp3",
+    "wav_url": "audio/en/female/HALFTIME_5.wav"
+  },
+  {
+    "id": "FULLTIME_1",
+    "event": "FULLTIME",
+    "phrase": "[excited] That's the final whistle! The match is over!",
+    "audio_url": "audio/en/female/FULLTIME_1.mp3",
+    "wav_url": "audio/en/female/FULLTIME_1.wav"
+  },
+  {
+    "id": "FULLTIME_2",
+    "event": "FULLTIME",
+    "phrase": "[calm] Full time. Thank you for watching this match.",
+    "audio_url": "audio/en/female/FULLTIME_2.mp3",
+    "wav_url": "audio/en/female/FULLTIME_2.wav"
+  },
+  {
+    "id": "FULLTIME_3",
+    "event": "FULLTIME",
+    "phrase": "[energetic] It's all over! What a game we had tonight!",
+    "audio_url": "audio/en/female/FULLTIME_3.mp3",
+    "wav_url": "audio/en/female/FULLTIME_3.wav"
+  },
+  {
+    "id": "FULLTIME_4",
+    "event": "FULLTIME",
+    "phrase": "[emotional] The referee ends the match. What a performance from both teams!",
+    "audio_url": "audio/en/female/FULLTIME_4.mp3",
+    "wav_url": "audio/en/female/FULLTIME_4.wav"
+  },
+  {
+    "id": "FULLTIME_5",
+    "event": "FULLTIME",
+    "phrase": "[cheerful] And that's it! Full time at the stadium!",
+    "audio_url": "audio/en/female/FULLTIME_5.mp3",
+    "wav_url": "audio/en/female/FULLTIME_5.wav"
+  },
+  {
+    "id": "HOMEWIN_1",
+    "event": "HOMEWIN",
+    "phrase": "[shouting] Victory for the home side! [excited] The fans are celebrating!",
+    "audio_url": "audio/en/female/HOMEWIN_1.mp3",
+    "wav_url": "audio/en/female/HOMEWIN_1.wav"
+  },
+  {
+    "id": "HOMEWIN_2",
+    "event": "HOMEWIN",
+    "phrase": "[cheerful] A fantastic win at home! The crowd is going wild!",
+    "audio_url": "audio/en/female/HOMEWIN_2.mp3",
+    "wav_url": "audio/en/female/HOMEWIN_2.wav"
+  },
+  {
+    "id": "HOMEWIN_3",
+    "event": "HOMEWIN",
+    "phrase": "[excited] The home team wins it! What a night for the supporters!",
+    "audio_url": "audio/en/female/HOMEWIN_3.mp3",
+    "wav_url": "audio/en/female/HOMEWIN_3.wav"
+  },
+  {
+    "id": "HOMEWIN_4",
+    "event": "HOMEWIN",
+    "phrase": "[emotional] Home win! They gave everything for their fans!",
+    "audio_url": "audio/en/female/HOMEWIN_4.mp3",
+    "wav_url": "audio/en/female/HOMEWIN_4.wav"
+  },
+  {
+    "id": "HOMEWIN_5",
+    "event": "HOMEWIN",
+    "phrase": "[energetic] Three points for the home team! A brilliant performance!",
+    "audio_url": "audio/en/female/HOMEWIN_5.mp3",
+    "wav_url": "audio/en/female/HOMEWIN_5.wav"
+  },
+  {
+    "id": "AWAYWIN_1",
+    "event": "AWAYWIN",
+    "phrase": "[excited] The visitors take the win! An amazing result away from home!",
+    "audio_url": "audio/en/female/AWAYWIN_1.mp3",
+    "wav_url": "audio/en/female/AWAYWIN_1.wav"
+  },
+  {
+    "id": "AWAYWIN_2",
+    "event": "AWAYWIN",
+    "phrase": "[impressed] Away win! They silenced the stadium tonight!",
+    "audio_url": "audio/en/female/AWAYWIN_2.mp3",
+    "wav_url": "audio/en/female/AWAYWIN_2.wav"
+  },
+  {
+    "id": "AWAYWIN_3",
+    "event": "AWAYWIN",
+    "phrase": "[shouting] A huge victory for the away team! What a performance!",
+    "audio_url": "audio/en/female/AWAYWIN_3.mp3",
+    "wav_url": "audio/en/female/AWAYWIN_3.wav"
+  },
+  {
+    "id": "AWAYWIN_4",
+    "event": "AWAYWIN",
+    "phrase": "[cheerful] The travelling fans are celebrating! A great win on the road!",
+    "audio_url": "audio/en/female/AWAYWIN_4.mp3",
+    "wav_url": "audio/en/female/AWAYWIN_4.wav"
+  },
+  {
+    "id": "AWAYWIN_5",
+    "event": "AWAYWIN",
+    "phrase": "[energetic] Three points on the road! A superb away victory!",
+    "audio_url": "audio/en/female/AWAYWIN_5.mp3",
+    "wav_url": "audio/en/female/AWAYWIN_5.wav"
+  }
+]

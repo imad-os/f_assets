@@ -3,21 +3,683 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Football Commentator TTS Audio Assets</title>
-  <meta name="description" content="Human-like emotional football commentator voice TTS audio assets (male and female) generated from library.json." />
-  <meta property="og:title" content="Football Commentator TTS Audio Assets" />
-  <meta property="og:description" content="Human-like emotional football commentator voice TTS audio assets (male and female) generated from library.json." />
+  <title>Football Commentator Audio Library v2</title>
+  <meta name="description" content="Multilingual Football Commentator Voice Audio Assets Library v2 in English, Arabic, French, and Spanish." />
+  <style>
+    :root {
+      --bg: #0d1117;
+      --card-bg: #161b22;
+      --border: #30363d;
+      --accent: #238636;
+      --accent-hover: #2ea043;
+      --text: #c9d1d9;
+      --text-bright: #f0f6fc;
+      --text-muted: #8b949e;
+      --tag-bg: #1f2937;
+      --tag-border: #374151;
+      --ar-accent: #38bdf8;
+      --fr-accent: #a78bfa;
+      --es-accent: #f59e0b;
+      --en-accent: #34d399;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      padding-bottom: 120px;
+      line-height: 1.5;
+    }
+
+    header {
+      background: #161b22;
+      border-bottom: 1px solid var(--border);
+      padding: 18px 24px;
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+    }
+
+    .header-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+      max-width: 1400px;
+      margin: 0 auto 14px;
+    }
+
+    .title-group h1 {
+      font-size: 1.35rem;
+      color: var(--text-bright);
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .badge-v2 {
+      background: #238636;
+      color: #fff;
+      font-size: 0.75rem;
+      padding: 2px 8px;
+      border-radius: 999px;
+      font-weight: 600;
+    }
+
+    .stats-row {
+      display: flex;
+      gap: 16px;
+      font-size: 0.85rem;
+      color: var(--text-muted);
+    }
+    .stats-row span strong { color: var(--text-bright); }
+
+    .controls-bar {
+      max-width: 1400px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .search-row {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    .search-input {
+      flex: 1;
+      min-width: 260px;
+      background: #0d1117;
+      border: 1px solid var(--border);
+      color: var(--text-bright);
+      padding: 8px 14px;
+      border-radius: 6px;
+      font-size: 0.9rem;
+      outline: none;
+    }
+    .search-input:focus { border-color: #58a6ff; }
+
+    .filters-scroll {
+      display: flex;
+      gap: 8px;
+      overflow-x: auto;
+      padding-bottom: 4px;
+      scrollbar-width: thin;
+    }
+
+    .filter-btn {
+      background: #21262d;
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 5px 12px;
+      border-radius: 20px;
+      font-size: 0.8rem;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all 0.15s ease;
+    }
+    .filter-btn:hover { background: #30363d; color: var(--text-bright); }
+    .filter-btn.active { background: #238636; border-color: #2ea043; color: #fff; font-weight: 600; }
+
+    .lang-tabs {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+    .lang-tab-btn {
+      background: #1f242c;
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 6px 14px;
+      border-radius: 6px;
+      font-size: 0.85rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.15s ease;
+    }
+    .lang-tab-btn.active {
+      background: #388bfd26;
+      border-color: #58a6ff;
+      color: #58a6ff;
+      font-weight: 600;
+    }
+
+    main {
+      max-width: 1400px;
+      margin: 20px auto;
+      padding: 0 24px;
+    }
+
+    .items-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(420px, 1fr));
+      gap: 16px;
+    }
+
+    .item-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      transition: transform 0.1s, border-color 0.15s;
+    }
+    .item-card:hover {
+      border-color: #58a6ff66;
+    }
+
+    .card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .event-badge {
+      font-size: 0.72rem;
+      font-weight: 700;
+      padding: 2px 8px;
+      border-radius: 4px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    .event-GOAL { background: #eab30822; color: #facc15; border: 1px solid #eab30855; }
+    .event-INTRO { background: #3b82f622; color: #60a5fa; border: 1px solid #3b82f655; }
+    .event-FOUL { background: #ef444422; color: #f87171; border: 1px solid #ef444455; }
+    .event-PENALTY { background: #ec489922; color: #f472b6; border: 1px solid #ec489955; }
+    .event-SAVE { background: #10b98122; color: #34d399; border: 1px solid #10b98155; }
+    .event-COUNTER { background: #f9731622; color: #fb923c; border: 1px solid #f9731655; }
+    .event-HOMEWIN, .event-AWAYWIN { background: #8b5cf622; color: #a78bfa; border: 1px solid #8b5cf655; }
+    .event-DEFAULT { background: #6b728022; color: #9ca3af; border: 1px solid #6b728055; }
+
+    .card-id {
+      font-family: monospace;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+    }
+
+    .lang-row {
+      background: #0d1117;
+      border: 1px solid #21262d;
+      border-radius: 6px;
+      padding: 10px 12px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .lang-row-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }
+
+    .lang-tag {
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+    .lang-tag.en { color: var(--en-accent); }
+    .lang-tag.ar { color: var(--ar-accent); }
+    .lang-tag.fr { color: var(--fr-accent); }
+    .lang-tag.es { color: var(--es-accent); }
+
+    .phrase-text {
+      font-size: 0.92rem;
+      color: var(--text-bright);
+    }
+    .phrase-text.rtl {
+      direction: rtl;
+      font-family: "Geeza Pro", "Amiri", "Tahoma", sans-serif;
+      font-size: 1.05rem;
+      line-height: 1.6;
+    }
+
+    .emotion-badge {
+      display: inline-block;
+      font-size: 0.75rem;
+      font-family: monospace;
+      background: var(--tag-bg);
+      border: 1px solid var(--tag-border);
+      color: #93c5fd;
+      padding: 1px 6px;
+      border-radius: 4px;
+      margin-right: 4px;
+    }
+
+    .actions-row {
+      display: flex;
+      gap: 8px;
+      margin-top: 4px;
+      flex-wrap: wrap;
+    }
+
+    .btn-play {
+      background: #21262d;
+      border: 1px solid var(--border);
+      color: var(--text-bright);
+      padding: 4px 10px;
+      border-radius: 4px;
+      font-size: 0.75rem;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.15s;
+    }
+    .btn-play:hover { background: #30363d; border-color: #8b949e; }
+    .btn-play.playing { background: #238636; border-color: #2ea043; color: #fff; font-weight: 600; }
+
+    /* Sticky Bottom Player Dock */
+    .player-dock {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: #161b22;
+      border-top: 1px solid var(--border);
+      padding: 12px 24px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      z-index: 100;
+      box-shadow: 0 -4px 16px rgba(0,0,0,0.5);
+    }
+
+    .dock-info {
+      flex: 1;
+      min-width: 200px;
+    }
+    .dock-title {
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--text-bright);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 380px;
+    }
+    .dock-sub {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }
+
+    .dock-controls {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .dock-play-btn {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background: #238636;
+      border: none;
+      color: white;
+      font-size: 1.1rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.15s;
+    }
+    .dock-play-btn:hover { background: #2ea043; }
+
+    .progress-bar-container {
+      flex: 2;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .time-lbl {
+      font-size: 0.75rem;
+      font-family: monospace;
+      color: var(--text-muted);
+      width: 40px;
+    }
+    .progress-slider {
+      flex: 1;
+      height: 5px;
+      accent-color: #238636;
+      cursor: pointer;
+    }
+
+    .speed-select {
+      background: #21262d;
+      border: 1px solid var(--border);
+      color: var(--text-bright);
+      font-size: 0.75rem;
+      padding: 4px 8px;
+      border-radius: 4px;
+      outline: none;
+    }
+  </style>
 </head>
-<body style="font-family: monospace; background: #111; color: #eee; padding: 24px;">
-  <h1>f_assets — Football Commentator TTS Audio Assets</h1>
-  <p>Static audio repository serving <code>/library.json</code>, <code>/en/male/</code>, and <code>/en/female/</code>.</p>
-  <pre id="status">Loading library.json...</pre>
+<body>
+  <header>
+    <div class="header-top">
+      <div class="title-group">
+        <h1>⚽ Football Commentator Audio Library <span class="badge-v2">v2 Multilingual</span></h1>
+      </div>
+      <div class="stats-row">
+        <span>Items: <strong id="stat-count">75</strong></span>
+        <span>Languages: <strong>4 (EN, AR, FR, ES)</strong></span>
+        <span>Audio Variations: <strong>5 per moment</strong></span>
+        <span>Formats: <strong>MP3 & WAV</strong></span>
+      </div>
+    </div>
+
+    <div class="controls-bar">
+      <div class="search-row">
+        <input type="text" id="searchInput" class="search-input" placeholder="Search phrases, emotions [shouting], or IDs (e.g. GOAL_1)..." />
+        <div class="lang-tabs">
+          <button class="lang-tab-btn active" data-lang="all">🌐 All Languages</button>
+          <button class="lang-tab-btn" data-lang="en">🇬🇧 English</button>
+          <button class="lang-tab-btn" data-lang="ar">🇸🇦 العربية</button>
+          <button class="lang-tab-btn" data-lang="fr">🇫🇷 Français</button>
+          <button class="lang-tab-btn" data-lang="es">🇪🇸 Español</button>
+        </div>
+      </div>
+
+      <div class="filters-scroll" id="eventFilters">
+        <button class="filter-btn active" data-event="all">All Events</button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div class="items-grid" id="itemsGrid">
+      <div style="grid-column: 1/-1; text-align: center; padding: 40px; color: var(--text-muted);">
+        Loading audio library v2...
+      </div>
+    </div>
+  </main>
+
+  <div class="player-dock">
+    <div class="dock-info">
+      <div class="dock-title" id="dockTitle">Select an audio clip to play</div>
+      <div class="dock-sub" id="dockSub">No audio loaded</div>
+    </div>
+
+    <div class="dock-controls">
+      <button class="dock-play-btn" id="dockPlayBtn" title="Play/Pause">▶</button>
+    </div>
+
+    <div class="progress-bar-container">
+      <span class="time-lbl" id="currTime">0:00</span>
+      <input type="range" class="progress-slider" id="progressSlider" value="0" min="0" max="100" step="0.1" />
+      <span class="time-lbl" id="durTime">0:00</span>
+    </div>
+
+    <select class="speed-select" id="speedSelect" title="Playback Speed">
+      <option value="0.75">0.75x</option>
+      <option value="1" selected>1.0x</option>
+      <option value="1.25">1.25x</option>
+      <option value="1.5">1.5x</option>
+    </select>
+  </div>
+
+  <audio id="audioEl" preload="none"></audio>
+
   <script>
-    fetch('/library.json')
-      .then(r => r.json())
-      .then(data => {
-        document.getElementById('status').textContent = JSON.stringify(data, null, 2);
+    let libraryData = [];
+    let activeLang = 'all';
+    let activeEvent = 'all';
+    let searchQuery = '';
+    let currentPlayingBtn = null;
+
+    const audioEl = document.getElementById('audioEl');
+    const dockPlayBtn = document.getElementById('dockPlayBtn');
+    const dockTitle = document.getElementById('dockTitle');
+    const dockSub = document.getElementById('dockSub');
+    const currTime = document.getElementById('currTime');
+    const durTime = document.getElementById('durTime');
+    const progressSlider = document.getElementById('progressSlider');
+    const speedSelect = document.getElementById('speedSelect');
+    const itemsGrid = document.getElementById('itemsGrid');
+    const eventFilters = document.getElementById('eventFilters');
+    const searchInput = document.getElementById('searchInput');
+
+    function formatPhrase(str) {
+      if (!str) return '';
+      return str.replace(/\[([^\]]+)\]/g, '<span class="emotion-badge">[$1]</span>');
+    }
+
+    function formatTime(s) {
+      if (isNaN(s)) return '0:00';
+      const m = Math.floor(s / 60);
+      const sec = Math.floor(s % 60);
+      return `${m}:${sec < 10 ? '0' : ''}${sec}`;
+    }
+
+    async function loadData() {
+      try {
+        let res = await fetch('/library_v2.json');
+        if (!res.ok) res = await fetch('/library.json');
+        libraryData = await res.json();
+        document.getElementById('stat-count').textContent = libraryData.length;
+        buildEventFilters();
+        renderGrid();
+      } catch (err) {
+        itemsGrid.innerHTML = `<div style="grid-column: 1/-1; color: #f87171; text-align: center; padding: 40px;">Failed to load library: ${err.message}</div>`;
+      }
+    }
+
+    function buildEventFilters() {
+      const events = [...new Set(libraryData.map(i => i.event))];
+      eventFilters.innerHTML = `<button class="filter-btn active" data-event="all">All Events (${libraryData.length})</button>` +
+        events.map(ev => {
+          const count = libraryData.filter(i => i.event === ev).length;
+          return `<button class="filter-btn" data-event="${ev}">${ev} (${count})</button>`;
+        }).join('');
+
+      eventFilters.querySelectorAll('.filter-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          eventFilters.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          activeEvent = btn.dataset.event;
+          renderGrid();
+        });
       });
+    }
+
+    function playAudio(url, title, sub, btn) {
+      if (!url) return;
+      if (audioEl.src.endsWith(url) && !audioEl.paused) {
+        audioEl.pause();
+        dockPlayBtn.textContent = '▶';
+        if (btn) btn.classList.remove('playing');
+        return;
+      }
+
+      if (currentPlayingBtn) currentPlayingBtn.classList.remove('playing');
+      currentPlayingBtn = btn;
+      if (btn) btn.classList.add('playing');
+
+      audioEl.src = '/' + url.replace(/^\/+/, '');
+      audioEl.playbackRate = parseFloat(speedSelect.value);
+      audioEl.play().catch(e => console.error('Playback err:', e));
+
+      dockTitle.textContent = title;
+      dockSub.textContent = sub;
+      dockPlayBtn.textContent = '⏸';
+    }
+
+    dockPlayBtn.addEventListener('click', () => {
+      if (!audioEl.src) return;
+      if (audioEl.paused) {
+        audioEl.play();
+        dockPlayBtn.textContent = '⏸';
+        if (currentPlayingBtn) currentPlayingBtn.classList.add('playing');
+      } else {
+        audioEl.pause();
+        dockPlayBtn.textContent = '▶';
+        if (currentPlayingBtn) currentPlayingBtn.classList.remove('playing');
+      }
+    });
+
+    audioEl.addEventListener('timeupdate', () => {
+      currTime.textContent = formatTime(audioEl.currentTime);
+      durTime.textContent = formatTime(audioEl.duration);
+      if (audioEl.duration) {
+        progressSlider.value = (audioEl.currentTime / audioEl.duration) * 100;
+      }
+    });
+
+    audioEl.addEventListener('ended', () => {
+      dockPlayBtn.textContent = '▶';
+      if (currentPlayingBtn) currentPlayingBtn.classList.remove('playing');
+    });
+
+    progressSlider.addEventListener('input', () => {
+      if (audioEl.duration) {
+        audioEl.currentTime = (progressSlider.value / 100) * audioEl.duration;
+      }
+    });
+
+    speedSelect.addEventListener('change', () => {
+      audioEl.playbackRate = parseFloat(speedSelect.value);
+    });
+
+    document.querySelectorAll('.lang-tab-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.lang-tab-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        activeLang = btn.dataset.lang;
+        renderGrid();
+      });
+    });
+
+    searchInput.addEventListener('input', (e) => {
+      searchQuery = e.target.value.toLowerCase().trim();
+      renderGrid();
+    });
+
+    function renderGrid() {
+      const filtered = libraryData.filter(item => {
+        if (activeEvent !== 'all' && item.event !== activeEvent) return false;
+        if (searchQuery) {
+          const matchId = (item.id || '').toLowerCase().includes(searchQuery);
+          const matchEv = (item.event || '').toLowerCase().includes(searchQuery);
+          const matchEn = (item.phrase_en || item.phrase || '').toLowerCase().includes(searchQuery);
+          const matchAr = (item.phrase_ar || '').toLowerCase().includes(searchQuery);
+          const matchFr = (item.phrase_fr || '').toLowerCase().includes(searchQuery);
+          const matchEs = (item.phrase_es || '').toLowerCase().includes(searchQuery);
+          if (!matchId && !matchEv && !matchEn && !matchAr && !matchFr && !matchEs) return false;
+        }
+        return true;
+      });
+
+      if (filtered.length === 0) {
+        itemsGrid.innerHTML = '<div style="grid-column: 1/-1; text-align: center; padding: 40px; color: var(--text-muted);">No matching commentary clips found.</div>';
+        return;
+      }
+
+      itemsGrid.innerHTML = filtered.map(item => {
+        const id = item.id || `${item.event}`;
+        const ev = item.event;
+        const evClass = `event-${ev}` in { 'event-GOAL': 1, 'event-INTRO': 1, 'event-FOUL': 1, 'event-PENALTY': 1, 'event-SAVE': 1, 'event-COUNTER': 1, 'event-HOMEWIN': 1, 'event-AWAYWIN': 1 } ? `event-${ev}` : 'event-DEFAULT';
+
+        const enPhrase = item.phrase_en || item.phrase || '';
+        const arPhrase = item.phrase_ar || item.translations?.ar?.phrase || '';
+        const frPhrase = item.phrase_fr || item.translations?.fr?.phrase || '';
+        const esPhrase = item.phrase_es || item.translations?.es?.phrase || '';
+
+        const enAudioMale = item.audio_en || item.translations?.en?.audio_url_male || `audio/en/male/${id}.mp3`;
+        const enAudioFemale = item.audio_en_female || item.translations?.en?.audio_url_female || `audio/en/female/${id}.mp3`;
+        const arAudio = item.audio_ar || item.translations?.ar?.audio_url || `audio/ar/${id}.mp3`;
+        const frAudio = item.audio_fr || item.translations?.fr?.audio_url || `audio/fr/${id}.mp3`;
+        const esAudio = item.audio_es || item.translations?.es?.audio_url || `audio/es/${id}.mp3`;
+
+        const showEn = activeLang === 'all' || activeLang === 'en';
+        const showAr = activeLang === 'all' || activeLang === 'ar';
+        const showFr = activeLang === 'all' || activeLang === 'fr';
+        const showEs = activeLang === 'all' || activeLang === 'es';
+
+        return `
+          <div class="item-card">
+            <div class="card-header">
+              <span class="event-badge ${evClass}">${ev}</span>
+              <span class="card-id">${id}</span>
+            </div>
+
+            ${showEn ? `
+            <div class="lang-row">
+              <div class="lang-row-header">
+                <span class="lang-tag en">🇬🇧 English</span>
+                <span>Male & Female</span>
+              </div>
+              <div class="phrase-text">${formatPhrase(enPhrase)}</div>
+              <div class="actions-row">
+                <button class="btn-play" onclick="playAudio('${enAudioMale}', '${id} — English (Male)', '${ev}', this)">
+                  ▶ Play Male
+                </button>
+                <button class="btn-play" onclick="playAudio('${enAudioFemale}', '${id} — English (Female)', '${ev}', this)">
+                  ▶ Play Female
+                </button>
+              </div>
+            </div>` : ''}
+
+            ${showAr && arPhrase ? `
+            <div class="lang-row">
+              <div class="lang-row-header">
+                <span class="lang-tag ar">🇸🇦 العربية</span>
+                <span>Arabic Commentator</span>
+              </div>
+              <div class="phrase-text rtl">${formatPhrase(arPhrase)}</div>
+              <div class="actions-row">
+                <button class="btn-play" onclick="playAudio('${arAudio}', '${id} — Arabic', '${ev}', this)">
+                  ▶ Play Arabic
+                </button>
+              </div>
+            </div>` : ''}
+
+            ${showFr && frPhrase ? `
+            <div class="lang-row">
+              <div class="lang-row-header">
+                <span class="lang-tag fr">🇫🇷 Français</span>
+                <span>Commentateur Français</span>
+              </div>
+              <div class="phrase-text">${formatPhrase(frPhrase)}</div>
+              <div class="actions-row">
+                <button class="btn-play" onclick="playAudio('${frAudio}', '${id} — French', '${ev}', this)">
+                  ▶ Play French
+                </button>
+              </div>
+            </div>` : ''}
+
+            ${showEs && esPhrase ? `
+            <div class="lang-row">
+              <div class="lang-row-header">
+                <span class="lang-tag es">🇪🇸 Español</span>
+                <span>Comentarista Español</span>
+              </div>
+              <div class="phrase-text">${formatPhrase(esPhrase)}</div>
+              <div class="actions-row">
+                <button class="btn-play" onclick="playAudio('${esAudio}', '${id} — Spanish', '${ev}', this)">
+                  ▶ Play Spanish
+                </button>
+              </div>
+            </div>` : ''}
+          </div>
+        `;
+      }).join('');
+    }
+
+    loadData();
   </script>
 </body>
 </html>

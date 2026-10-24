@@ -1,0 +1,77 @@
+{
+  "INTRO_1": {
+    "ar": "[excited] أهلاً وسهلاً بكم جميعاً ومرحباً بكم! الفريقان على أرضية الميدان، والمباراة على وشك الانطلاق!",
+    "fr": "[excited] Bonjour à toutes et à tous, et bienvenue ! Les deux équipes sont prêtes, le coup d'envoi est imminent !",
+    "es": "[excited] ¡Hola a todos y muy bienvenidos! ¡Los equipos ya están listos y el partido está a punto de comenzar!"
+  },
+  "INTRO_2": {
+    "ar": "[cheerful] وانطلقت المباراة! الجماهير تهتف بحرارة في المدرجات، ويا لها من أجواء خيالية الليلة!",
+    "fr": "[cheerful] Et c'est parti ! Le public est debout, quelle ambiance exceptionnelle ce soir !",
+    "es": "[cheerful] ¡Y ya rueda el balón! ¡La grada está de pie, qué ambientazo tenemos esta noche!"
+  },
+  "INTRO_3": {
+    "ar": "[energetic] هيا بنا! الحكم يطلق صافرته، والنزال يبدأ الآن!",
+    "fr": "[energetic] C'est parti ! Coup de sifflet de l'arbitre, le match est lancé !",
+    "es": "[energetic] ¡Aquí vamos! ¡El colegiado pita y arranca el partido!"
+  },
+  "INTRO_4": {
+    "ar": "[excited] ضربة البداية! لنرَ ماذا يخبئ لنا الفريقان اليوم في هذه القمة!",
+    "fr": "[excited] Coup d'envoi ! Voyons ce que ces deux équipes nous réservent aujourd'hui !",
+    "es": "[excited] ¡Pitido inicial! ¡A ver qué nos tienen preparado estos dos equipazos hoy!"
+  },
+  "INTRO_5": {
+    "ar": "[enthusiastic] مرحباً بكم في الملعب يا عشاق المستديرة! نحن أمام قمة كروية كبرى!",
+    "fr": "[enthusiastic] Bienvenue au stade, chers passionnés de football ! On s'attend à un très grand match !",
+    "es": "[enthusiastic] ¡Bienvenidos al estadio, amantes del fútbol! ¡Se viene un auténtico partidazo!"
+  },
+  "GOAL_1": {
+    "ar": "[shouting] جوووووول!!! [excited] يا لها من إنهاء رائع! خيالي، غير معقول على الإطلاق!",
+    "fr": "[shouting] Buuuuuuut !!! [excited] Quelle finition ! C'est absolument fantastique !",
+    "es": "[shouting] ¡¡¡Gooooooooool!!! [excited] ¡Qué definición de locos! ¡Absolutamente fantástico!"
+  },
+  "GOAL_2": {
+    "ar": "[screaming] يا رباه، جووووول! [laughs] أوه، هذا لا يُصدَّق! هدف غاية في الروعة والجمال!",
+    "fr": "[screaming] Buuuuuuut ! [laughs] Oh, c'est incroyable ! Quel superbe but !",
+    "es": "[screaming] ¡¡Gooooool!! [laughs] ¡Ay, esto es increíble! ¡Qué golazo, por Dios!"
+  },
+  "GOAL_3": {
+    "ar": "[shouting] في الشباك! في الشباك! [excited] الشباك تهتز بعنف! يا لها من قذيفة صاروخية!",
+    "fr": "[shouting] Ça y est, c'est au fond ! [excited] Les filets tremblent ! Quelle frappe magistrale !",
+    "es": "[shouting] ¡Adentro, adentro! [excited] ¡Se infla la red! ¡Vaya zapatazo descomunal!"
+  },
+  "GOAL_4": {
+    "ar": "[screaming] جوووول، جوووووول! [breathless] منتهى الإبداع والرقي! المدرجات تشتعل جنوناً!",
+    "fr": "[screaming] Buuuuut, buuuuut ! [breathless] La classe à l'état pur ! Le stade est en ébullition !",
+    "es": "[screaming] ¡Gooool, gooooool! [breathless] ¡Pura clase, señores! ¡El estadio se vuelve completamente loco!"
+  },
+  "GOAL_5": {
+    "ar": "[shouting] يضعها في الشباك!!! [gasp] يا لها من لحظة جنونية! يا له من هدف تاريخي!",
+    "fr": "[shouting] Et il marque !!! [gasp] Quel moment exceptionnel ! Quel but magnifique !",
+    "es": "[shouting] ¡¡La manda a guardar!! [gasp] ¡Qué momento! ¡Pero qué golazo antológico!"
+  },
+  "FOUL_1": {
+    "ar": "[serious] الحكم يطلق صافرته معلناً عن مخالفة.",
+    "fr": "[serious] L'arbitre siffle. C'est une faute.",
+    "es": "[serious] El colegiado hace sonar su silbato. Hay falta."
+  },
+  "FOUL_2": {
+    "ar": "[annoyed] أووه، تدخل عنيف وقاسٍ للغاية! الحكم يوقف اللعب مباشرة.",
+    "fr": "[annoyed] Oh, quel tacle rugueux ! L'arbitre interrompt immédiatement le jeu.",
+    "es": "[annoyed] ¡Uy, qué entrada tan dura y a destiempo! El árbitro detiene el juego."
+  },
+  "FOUL_3": {
+    "ar": "[calm] خطأ واضح وصريح هنا، وركلة حرة محتسبة.",
+    "fr": "[calm] Faute indiscutable ici. Coup franc accordé.",
+    "es": "[calm] Falta clara en esa acción. Tiro libre concedido."
+  },
+  "FOUL_4": {
+    "ar": "[surprised] أوتش! تدخل يبدو مؤلماً جداً. الحكم شاهد كل شيء ويتدخل.",
+    "fr": "[surprised] Aïe ! Ça semblait bien douloureux. L'arbitre en a vu assez et intervient.",
+    "es": "[surprised] ¡Ay! Esa pareció muy dolorosa. El árbitro no duda e interviene."
+  },
+  "FOUL_5": {
+    "ar": "[disapproving] تدخل متأخر بتهور! هذا خطأ صريح دون أدنى شك.",
+    "fr": "[disapproving] Intervention très en retard ! C'est incontestablement une faute.",
+    "es": "[disapproving] ¡Llegó tardísimo al cruce! Falta clarísima sin ninguna duda."
+  }
+}
