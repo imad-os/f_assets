@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Football Commentator TTS Audio Assets</title>
+  <meta name="description" content="Human-like emotional football commentator voice TTS audio assets (male and female) generated from library.json." />
+  <meta property="og:title" content="Football Commentator TTS Audio Assets" />
+  <meta property="og:description" content="Human-like emotional football commentator voice TTS audio assets (male and female) generated from library.json." />
+</head>
+<body style="font-family: monospace; background: #111; color: #eee; padding: 24px;">
+  <h1>f_assets — Football Commentator TTS Audio Assets</h1>
+  <p>Static audio repository serving <code>/library.json</code>, <code>/en/male/</code>, and <code>/en/female/</code>.</p>
+  <pre id="status">Loading library.json...</pre>
+  <script>
+    fetch('/library.json')
+      .then(r => r.json())
+      .then(data => {
+        document.getElementById('status').textContent = JSON.stringify(data, null, 2);
+      });
+  </script>
+</body>
+</html>

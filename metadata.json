@@ -1,0 +1,8 @@
+{
+  "name": "Football Commentator TTS Audio Assets",
+  "description": "Human-like emotional football commentator voice TTS audio assets (male and female) generated from library.json.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

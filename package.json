@@ -1,0 +1,17 @@
+{
+  "name": "f_assets",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "build": "node -e \"console.log('Assets ready')\"",
+    "lint": "node -e \"console.log('OK')\"",
+    "generate-tts": "node generate-tts.mjs"
+  },
+  "dependencies": {
+    "@google/genai": "^2.31.0",
+    "ws": "^8.22.0"
+  }
+}

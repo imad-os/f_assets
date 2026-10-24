@@ -1,91 +1,677 @@
 [
-  {"event": "INTRO", "phrase": "[excited] Hello everyone, and welcome! The teams are ready, and the match is about to begin!", "audio_url": ""},
-  {"event": "INTRO", "phrase": "[cheerful] And we are underway! The crowd is on its feet, and what an atmosphere tonight!", "audio_url": ""},
-  {"event": "INTRO", "phrase": "[energetic] Here we go! The referee blows the whistle, and the game is on!", "audio_url": ""},
-  {"event": "INTRO", "phrase": "[excited] Kick off! Let's see what these two teams have for us today!", "audio_url": ""},
-  {"event": "INTRO", "phrase": "[enthusiastic] Welcome to the stadium, football fans! It's going to be a big one!", "audio_url": ""},
-
-  {"event": "GOAL", "phrase": "[shouting] Gooooooal!!! [excited] What a finish! Absolutely fantastic!", "audio_url": ""},
-  {"event": "GOAL", "phrase": "[screaming] Goooooal! [laughs] Oh, that is unbelievable! Very nice goal!", "audio_url": ""},
-  {"event": "GOAL", "phrase": "[shouting] It's in! It's in! [excited] The net is shaking! What a strike!", "audio_url": ""},
-  {"event": "GOAL", "phrase": "[screaming] Gooooal, goooooal! [breathless] Pure class! The stadium is going wild!", "audio_url": ""},
-  {"event": "GOAL", "phrase": "[shouting] He scores!!! [gasp] What a moment! What a goal!", "audio_url": ""},
-
-  {"event": "FOUL", "phrase": "[serious] The referee blows the whistle. That's a foul.", "audio_url": ""},
-  {"event": "FOUL", "phrase": "[annoyed] Oh, that was a rough challenge! The referee stops the game.", "audio_url": ""},
-  {"event": "FOUL", "phrase": "[calm] A clear foul there. Free kick awarded.", "audio_url": ""},
-  {"event": "FOUL", "phrase": "[surprised] Ouch! That one looked painful. The referee has seen enough.", "audio_url": ""},
-  {"event": "FOUL", "phrase": "[disapproving] Late challenge! That's definitely a foul.", "audio_url": ""},
-
-  {"event": "PENALTY", "phrase": "[shouting] Penalty!!! [gasp] The referee points to the spot!", "audio_url": ""},
-  {"event": "PENALTY", "phrase": "[tense] A huge moment here. Penalty kick! The whole stadium is holding its breath.", "audio_url": ""},
-  {"event": "PENALTY", "phrase": "[excited] He's been brought down in the box! It's a penalty!", "audio_url": ""},
-  {"event": "PENALTY", "phrase": "[whispering] Silence in the stadium... the penalty taker steps up...", "audio_url": ""},
-  {"event": "PENALTY", "phrase": "[dramatic] The referee doesn't hesitate! Penalty! This could change everything!", "audio_url": ""},
-
-  {"event": "CORNER", "phrase": "[excited] Corner kick! A great chance to put the ball in the box.", "audio_url": ""},
-  {"event": "CORNER", "phrase": "[energetic] The defender clears it behind, and it's a corner.", "audio_url": ""},
-  {"event": "CORNER", "phrase": "[focused] Corner kick coming in... everyone is packed into the box!", "audio_url": ""},
-  {"event": "CORNER", "phrase": "[intense] A dangerous corner! Watch out for the header!", "audio_url": ""},
-  {"event": "CORNER", "phrase": "[calm] Another corner for the attacking side. Let's see what they do with it.", "audio_url": ""},
-
-  {"event": "SAVE", "phrase": "[shouting] What a save!!! [gasp] Incredible from the goalkeeper!", "audio_url": ""},
-  {"event": "SAVE", "phrase": "[amazed] He gets a hand to it! Unbelievable reflexes!", "audio_url": ""},
-  {"event": "SAVE", "phrase": "[excited] The goalkeeper is a wall tonight! Superb save!", "audio_url": ""},
-  {"event": "SAVE", "phrase": "[screaming] No way! He keeps it out! [laughs] How did he do that?", "audio_url": ""},
-  {"event": "SAVE", "phrase": "[breathless] Oh, what a stop! The keeper saves his team!", "audio_url": ""},
-
-  {"event": "LONGPASS", "phrase": "[excited] Oh, what a pass! That splits the defense wide open!", "audio_url": ""},
-  {"event": "LONGPASS", "phrase": "[amazed] A beautiful long ball! Look at the vision!", "audio_url": ""},
-  {"event": "LONGPASS", "phrase": "[energetic] Through ball! He's in behind the defense!", "audio_url": ""},
-  {"event": "LONGPASS", "phrase": "[impressed] Superb delivery! That is pure quality!", "audio_url": ""},
-  {"event": "LONGPASS", "phrase": "[excited] A perfect pass over the top! What an opportunity!", "audio_url": ""},
-
-  {"event": "TACKLE", "phrase": "[excited] What a tackle! Perfectly timed!", "audio_url": ""},
-  {"event": "TACKLE", "phrase": "[impressed] Brilliant defending! He wins the ball cleanly!", "audio_url": ""},
-  {"event": "TACKLE", "phrase": "[energetic] A strong challenge, and the danger is gone!", "audio_url": ""},
-  {"event": "TACKLE", "phrase": "[amazed] Oh, that was a crunching tackle! Great timing!", "audio_url": ""},
-  {"event": "TACKLE", "phrase": "[cheerful] Clean, sharp, and effective. Excellent tackle!", "audio_url": ""},
-
-  {"event": "COUNTER", "phrase": "[shouting] Counter attack! [excited] They're flying up the pitch!", "audio_url": ""},
-  {"event": "COUNTER", "phrase": "[breathless] Fast break! Look at the speed! This is dangerous!", "audio_url": ""},
-  {"event": "COUNTER", "phrase": "[intense] They are breaking at lightning speed! Can they finish it?", "audio_url": ""},
-  {"event": "COUNTER", "phrase": "[urgent] A quick counter! Numbers forward! Here comes the danger!", "audio_url": ""},
-  {"event": "COUNTER", "phrase": "[excited] Lightning counter! The defense is caught out!", "audio_url": ""},
-
-  {"event": "ATTACK", "phrase": "[excited] A dangerous attack! The pressure is building!", "audio_url": ""},
-  {"event": "ATTACK", "phrase": "[energetic] They are pushing forward! A chance is coming!", "audio_url": ""},
-  {"event": "ATTACK", "phrase": "[intense] Great movement in the final third! Something is going to happen here!", "audio_url": ""},
-  {"event": "ATTACK", "phrase": "[focused] The attack continues, looking for the opening!", "audio_url": ""},
-  {"event": "ATTACK", "phrase": "[shouting] Here they come! A real threat on goal!", "audio_url": ""},
-
-  {"event": "OFFSIDE", "phrase": "[serious] The flag is up. That's offside.", "audio_url": ""},
-  {"event": "OFFSIDE", "phrase": "[disappointed] Oh no, the linesman raises the flag. Offside!", "audio_url": ""},
-  {"event": "OFFSIDE", "phrase": "[calm] Caught offside. The attack is stopped.", "audio_url": ""},
-  {"event": "OFFSIDE", "phrase": "[groans] Ah, he was just a step too far ahead. Offside.", "audio_url": ""},
-  {"event": "OFFSIDE", "phrase": "[matter-of-fact] The flag goes up. Free kick for the defense.", "audio_url": ""},
-
-  {"event": "HALFTIME", "phrase": "[calm] The referee blows the whistle. That's the end of the first half.", "audio_url": ""},
-  {"event": "HALFTIME", "phrase": "[relaxed] And that's half time. A lot to think about for both coaches.", "audio_url": ""},
-  {"event": "HALFTIME", "phrase": "[cheerful] The first half is over. Time for a short break!", "audio_url": ""},
-  {"event": "HALFTIME", "phrase": "[thoughtful] The teams head to the dressing room. What will the second half bring?", "audio_url": ""},
-  {"event": "HALFTIME", "phrase": "[energetic] Half time! What an exciting forty-five minutes!", "audio_url": ""},
-
-  {"event": "FULLTIME", "phrase": "[excited] That's the final whistle! The match is over!", "audio_url": ""},
-  {"event": "FULLTIME", "phrase": "[calm] Full time. Thank you for watching this match.", "audio_url": ""},
-  {"event": "FULLTIME", "phrase": "[energetic] It's all over! What a game we had tonight!", "audio_url": ""},
-  {"event": "FULLTIME", "phrase": "[emotional] The referee ends the match. What a performance from both teams!", "audio_url": ""},
-  {"event": "FULLTIME", "phrase": "[cheerful] And that's it! Full time at the stadium!", "audio_url": ""},
-
-  {"event": "HOMEWIN", "phrase": "[shouting] Victory for the home side! [excited] The fans are celebrating!", "audio_url": ""},
-  {"event": "HOMEWIN", "phrase": "[cheerful] A fantastic win at home! The crowd is going wild!", "audio_url": ""},
-  {"event": "HOMEWIN", "phrase": "[excited] The home team wins it! What a night for the supporters!", "audio_url": ""},
-  {"event": "HOMEWIN", "phrase": "[emotional] Home win! They gave everything for their fans!", "audio_url": ""},
-  {"event": "HOMEWIN", "phrase": "[energetic] Three points for the home team! A brilliant performance!", "audio_url": ""},
-
-  {"event": "AWAYWIN", "phrase": "[excited] The visitors take the win! An amazing result away from home!", "audio_url": ""},
-  {"event": "AWAYWIN", "phrase": "[impressed] Away win! They silenced the stadium tonight!", "audio_url": ""},
-  {"event": "AWAYWIN", "phrase": "[shouting] A huge victory for the away team! What a performance!", "audio_url": ""},
-  {"event": "AWAYWIN", "phrase": "[cheerful] The travelling fans are celebrating! A great win on the road!", "audio_url": ""},
-  {"event": "AWAYWIN", "phrase": "[energetic] Three points on the road! A superb away victory!", "audio_url": ""}
+  {
+    "event": "INTRO",
+    "phrase": "[excited] Hello everyone, and welcome! The teams are ready, and the match is about to begin!",
+    "audio_url": "en/male/INTRO_1.mp3",
+    "audio_url_male": "en/male/INTRO_1.mp3",
+    "audio_url_female": "en/female/INTRO_1.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Kore"
+  },
+  {
+    "event": "INTRO",
+    "phrase": "[cheerful] And we are underway! The crowd is on its feet, and what an atmosphere tonight!",
+    "audio_url": "en/male/INTRO_2.mp3",
+    "audio_url_male": "en/male/INTRO_2.mp3",
+    "audio_url_female": "en/female/INTRO_2.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Aoede"
+  },
+  {
+    "event": "INTRO",
+    "phrase": "[energetic] Here we go! The referee blows the whistle, and the game is on!",
+    "audio_url": "en/male/INTRO_3.mp3",
+    "audio_url_male": "en/male/INTRO_3.mp3",
+    "audio_url_female": "en/female/INTRO_3.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Zephyr"
+  },
+  {
+    "event": "INTRO",
+    "phrase": "[excited] Kick off! Let's see what these two teams have for us today!",
+    "audio_url": "en/male/INTRO_4.mp3",
+    "audio_url_male": "en/male/INTRO_4.mp3",
+    "audio_url_female": "en/female/INTRO_4.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Kore"
+  },
+  {
+    "event": "INTRO",
+    "phrase": "[enthusiastic] Welcome to the stadium, football fans! It's going to be a big one!",
+    "audio_url": "en/male/INTRO_5.mp3",
+    "audio_url_male": "en/male/INTRO_5.mp3",
+    "audio_url_female": "en/female/INTRO_5.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Aoede"
+  },
+  {
+    "event": "GOAL",
+    "phrase": "[shouting] Gooooooal!!! [excited] What a finish! Absolutely fantastic!",
+    "audio_url": "en/male/GOAL_1.mp3",
+    "audio_url_male": "en/male/GOAL_1.mp3",
+    "audio_url_female": "en/female/GOAL_1.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Kore"
+  },
+  {
+    "event": "GOAL",
+    "phrase": "[screaming] Goooooal! [laughs] Oh, that is unbelievable! Very nice goal!",
+    "audio_url": "en/male/GOAL_2.mp3",
+    "audio_url_male": "en/male/GOAL_2.mp3",
+    "audio_url_female": "en/female/GOAL_2.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Aoede"
+  },
+  {
+    "event": "GOAL",
+    "phrase": "[shouting] It's in! It's in! [excited] The net is shaking! What a strike!",
+    "audio_url": "en/male/GOAL_3.mp3",
+    "audio_url_male": "en/male/GOAL_3.mp3",
+    "audio_url_female": "en/female/GOAL_3.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Zephyr"
+  },
+  {
+    "event": "GOAL",
+    "phrase": "[screaming] Gooooal, goooooal! [breathless] Pure class! The stadium is going wild!",
+    "audio_url": "en/male/GOAL_4.mp3",
+    "audio_url_male": "en/male/GOAL_4.mp3",
+    "audio_url_female": "en/female/GOAL_4.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Kore"
+  },
+  {
+    "event": "GOAL",
+    "phrase": "[shouting] He scores!!! [gasp] What a moment! What a goal!",
+    "audio_url": "en/male/GOAL_5.mp3",
+    "audio_url_male": "en/male/GOAL_5.mp3",
+    "audio_url_female": "en/female/GOAL_5.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Aoede"
+  },
+  {
+    "event": "FOUL",
+    "phrase": "[serious] The referee blows the whistle. That's a foul.",
+    "audio_url": "en/male/FOUL_1.mp3",
+    "audio_url_male": "en/male/FOUL_1.mp3",
+    "audio_url_female": "en/female/FOUL_1.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Kore"
+  },
+  {
+    "event": "FOUL",
+    "phrase": "[annoyed] Oh, that was a rough challenge! The referee stops the game.",
+    "audio_url": "en/male/FOUL_2.mp3",
+    "audio_url_male": "en/male/FOUL_2.mp3",
+    "audio_url_female": "en/female/FOUL_2.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Aoede"
+  },
+  {
+    "event": "FOUL",
+    "phrase": "[calm] A clear foul there. Free kick awarded.",
+    "audio_url": "en/male/FOUL_3.mp3",
+    "audio_url_male": "en/male/FOUL_3.mp3",
+    "audio_url_female": "en/female/FOUL_3.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Zephyr"
+  },
+  {
+    "event": "FOUL",
+    "phrase": "[surprised] Ouch! That one looked painful. The referee has seen enough.",
+    "audio_url": "en/male/FOUL_4.mp3",
+    "audio_url_male": "en/male/FOUL_4.mp3",
+    "audio_url_female": "en/female/FOUL_4.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Kore"
+  },
+  {
+    "event": "FOUL",
+    "phrase": "[disapproving] Late challenge! That's definitely a foul.",
+    "audio_url": "en/male/FOUL_5.mp3",
+    "audio_url_male": "en/male/FOUL_5.mp3",
+    "audio_url_female": "en/female/FOUL_5.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Aoede"
+  },
+  {
+    "event": "PENALTY",
+    "phrase": "[shouting] Penalty!!! [gasp] The referee points to the spot!",
+    "audio_url": "en/male/PENALTY_1.mp3",
+    "audio_url_male": "en/male/PENALTY_1.mp3",
+    "audio_url_female": "en/female/PENALTY_1.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Kore"
+  },
+  {
+    "event": "PENALTY",
+    "phrase": "[tense] A huge moment here. Penalty kick! The whole stadium is holding its breath.",
+    "audio_url": "en/male/PENALTY_2.mp3",
+    "audio_url_male": "en/male/PENALTY_2.mp3",
+    "audio_url_female": "en/female/PENALTY_2.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Aoede"
+  },
+  {
+    "event": "PENALTY",
+    "phrase": "[excited] He's been brought down in the box! It's a penalty!",
+    "audio_url": "en/male/PENALTY_3.mp3",
+    "audio_url_male": "en/male/PENALTY_3.mp3",
+    "audio_url_female": "en/female/PENALTY_3.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Zephyr"
+  },
+  {
+    "event": "PENALTY",
+    "phrase": "[whispering] Silence in the stadium... the penalty taker steps up...",
+    "audio_url": "en/male/PENALTY_4.mp3",
+    "audio_url_male": "en/male/PENALTY_4.mp3",
+    "audio_url_female": "en/female/PENALTY_4.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Kore"
+  },
+  {
+    "event": "PENALTY",
+    "phrase": "[dramatic] The referee doesn't hesitate! Penalty! This could change everything!",
+    "audio_url": "en/male/PENALTY_5.mp3",
+    "audio_url_male": "en/male/PENALTY_5.mp3",
+    "audio_url_female": "en/female/PENALTY_5.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Aoede"
+  },
+  {
+    "event": "CORNER",
+    "phrase": "[excited] Corner kick! A great chance to put the ball in the box.",
+    "audio_url": "en/male/CORNER_1.mp3",
+    "audio_url_male": "en/male/CORNER_1.mp3",
+    "audio_url_female": "en/female/CORNER_1.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Kore"
+  },
+  {
+    "event": "CORNER",
+    "phrase": "[energetic] The defender clears it behind, and it's a corner.",
+    "audio_url": "en/male/CORNER_2.mp3",
+    "audio_url_male": "en/male/CORNER_2.mp3",
+    "audio_url_female": "en/female/CORNER_2.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Aoede"
+  },
+  {
+    "event": "CORNER",
+    "phrase": "[focused] Corner kick coming in... everyone is packed into the box!",
+    "audio_url": "en/male/CORNER_3.mp3",
+    "audio_url_male": "en/male/CORNER_3.mp3",
+    "audio_url_female": "en/female/CORNER_3.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Zephyr"
+  },
+  {
+    "event": "CORNER",
+    "phrase": "[intense] A dangerous corner! Watch out for the header!",
+    "audio_url": "en/male/CORNER_4.mp3",
+    "audio_url_male": "en/male/CORNER_4.mp3",
+    "audio_url_female": "en/female/CORNER_4.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Kore"
+  },
+  {
+    "event": "CORNER",
+    "phrase": "[calm] Another corner for the attacking side. Let's see what they do with it.",
+    "audio_url": "en/male/CORNER_5.mp3",
+    "audio_url_male": "en/male/CORNER_5.mp3",
+    "audio_url_female": "en/female/CORNER_5.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Aoede"
+  },
+  {
+    "event": "SAVE",
+    "phrase": "[shouting] What a save!!! [gasp] Incredible from the goalkeeper!",
+    "audio_url": "en/male/SAVE_1.mp3",
+    "audio_url_male": "en/male/SAVE_1.mp3",
+    "audio_url_female": "en/female/SAVE_1.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Kore"
+  },
+  {
+    "event": "SAVE",
+    "phrase": "[amazed] He gets a hand to it! Unbelievable reflexes!",
+    "audio_url": "en/male/SAVE_2.mp3",
+    "audio_url_male": "en/male/SAVE_2.mp3",
+    "audio_url_female": "en/female/SAVE_2.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Aoede"
+  },
+  {
+    "event": "SAVE",
+    "phrase": "[excited] The goalkeeper is a wall tonight! Superb save!",
+    "audio_url": "en/male/SAVE_3.mp3",
+    "audio_url_male": "en/male/SAVE_3.mp3",
+    "audio_url_female": "en/female/SAVE_3.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Zephyr"
+  },
+  {
+    "event": "SAVE",
+    "phrase": "[screaming] No way! He keeps it out! [laughs] How did he do that?",
+    "audio_url": "en/male/SAVE_4.mp3",
+    "audio_url_male": "en/male/SAVE_4.mp3",
+    "audio_url_female": "en/female/SAVE_4.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Kore"
+  },
+  {
+    "event": "SAVE",
+    "phrase": "[breathless] Oh, what a stop! The keeper saves his team!",
+    "audio_url": "en/male/SAVE_5.mp3",
+    "audio_url_male": "en/male/SAVE_5.mp3",
+    "audio_url_female": "en/female/SAVE_5.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Aoede"
+  },
+  {
+    "event": "LONGPASS",
+    "phrase": "[excited] Oh, what a pass! That splits the defense wide open!",
+    "audio_url": "en/male/LONGPASS_1.mp3",
+    "audio_url_male": "en/male/LONGPASS_1.mp3",
+    "audio_url_female": "en/female/LONGPASS_1.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Kore"
+  },
+  {
+    "event": "LONGPASS",
+    "phrase": "[amazed] A beautiful long ball! Look at the vision!",
+    "audio_url": "en/male/LONGPASS_2.mp3",
+    "audio_url_male": "en/male/LONGPASS_2.mp3",
+    "audio_url_female": "en/female/LONGPASS_2.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Aoede"
+  },
+  {
+    "event": "LONGPASS",
+    "phrase": "[energetic] Through ball! He's in behind the defense!",
+    "audio_url": "en/male/LONGPASS_3.mp3",
+    "audio_url_male": "en/male/LONGPASS_3.mp3",
+    "audio_url_female": "en/female/LONGPASS_3.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Zephyr"
+  },
+  {
+    "event": "LONGPASS",
+    "phrase": "[impressed] Superb delivery! That is pure quality!",
+    "audio_url": "en/male/LONGPASS_4.mp3",
+    "audio_url_male": "en/male/LONGPASS_4.mp3",
+    "audio_url_female": "en/female/LONGPASS_4.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Kore"
+  },
+  {
+    "event": "LONGPASS",
+    "phrase": "[excited] A perfect pass over the top! What an opportunity!",
+    "audio_url": "en/male/LONGPASS_5.mp3",
+    "audio_url_male": "en/male/LONGPASS_5.mp3",
+    "audio_url_female": "en/female/LONGPASS_5.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Aoede"
+  },
+  {
+    "event": "TACKLE",
+    "phrase": "[excited] What a tackle! Perfectly timed!",
+    "audio_url": "en/male/TACKLE_1.mp3",
+    "audio_url_male": "en/male/TACKLE_1.mp3",
+    "audio_url_female": "en/female/TACKLE_1.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Kore"
+  },
+  {
+    "event": "TACKLE",
+    "phrase": "[impressed] Brilliant defending! He wins the ball cleanly!",
+    "audio_url": "en/male/TACKLE_2.mp3",
+    "audio_url_male": "en/male/TACKLE_2.mp3",
+    "audio_url_female": "en/female/TACKLE_2.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Aoede"
+  },
+  {
+    "event": "TACKLE",
+    "phrase": "[energetic] A strong challenge, and the danger is gone!",
+    "audio_url": "en/male/TACKLE_3.mp3",
+    "audio_url_male": "en/male/TACKLE_3.mp3",
+    "audio_url_female": "en/female/TACKLE_3.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Zephyr"
+  },
+  {
+    "event": "TACKLE",
+    "phrase": "[amazed] Oh, that was a crunching tackle! Great timing!",
+    "audio_url": "en/male/TACKLE_4.mp3",
+    "audio_url_male": "en/male/TACKLE_4.mp3",
+    "audio_url_female": "en/female/TACKLE_4.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Kore"
+  },
+  {
+    "event": "TACKLE",
+    "phrase": "[cheerful] Clean, sharp, and effective. Excellent tackle!",
+    "audio_url": "en/male/TACKLE_5.mp3",
+    "audio_url_male": "en/male/TACKLE_5.mp3",
+    "audio_url_female": "en/female/TACKLE_5.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Aoede"
+  },
+  {
+    "event": "COUNTER",
+    "phrase": "[shouting] Counter attack! [excited] They're flying up the pitch!",
+    "audio_url": "en/male/COUNTER_1.mp3",
+    "audio_url_male": "en/male/COUNTER_1.mp3",
+    "audio_url_female": "en/female/COUNTER_1.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Kore"
+  },
+  {
+    "event": "COUNTER",
+    "phrase": "[breathless] Fast break! Look at the speed! This is dangerous!",
+    "audio_url": "en/male/COUNTER_2.mp3",
+    "audio_url_male": "en/male/COUNTER_2.mp3",
+    "audio_url_female": "en/female/COUNTER_2.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Aoede"
+  },
+  {
+    "event": "COUNTER",
+    "phrase": "[intense] They are breaking at lightning speed! Can they finish it?",
+    "audio_url": "en/male/COUNTER_3.mp3",
+    "audio_url_male": "en/male/COUNTER_3.mp3",
+    "audio_url_female": "en/female/COUNTER_3.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Zephyr"
+  },
+  {
+    "event": "COUNTER",
+    "phrase": "[urgent] A quick counter! Numbers forward! Here comes the danger!",
+    "audio_url": "en/male/COUNTER_4.mp3",
+    "audio_url_male": "en/male/COUNTER_4.mp3",
+    "audio_url_female": "en/female/COUNTER_4.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Kore"
+  },
+  {
+    "event": "COUNTER",
+    "phrase": "[excited] Lightning counter! The defense is caught out!",
+    "audio_url": "en/male/COUNTER_5.mp3",
+    "audio_url_male": "en/male/COUNTER_5.mp3",
+    "audio_url_female": "en/female/COUNTER_5.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Aoede"
+  },
+  {
+    "event": "ATTACK",
+    "phrase": "[excited] A dangerous attack! The pressure is building!",
+    "audio_url": "en/male/ATTACK_1.mp3",
+    "audio_url_male": "en/male/ATTACK_1.mp3",
+    "audio_url_female": "en/female/ATTACK_1.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Kore"
+  },
+  {
+    "event": "ATTACK",
+    "phrase": "[energetic] They are pushing forward! A chance is coming!",
+    "audio_url": "en/male/ATTACK_2.mp3",
+    "audio_url_male": "en/male/ATTACK_2.mp3",
+    "audio_url_female": "en/female/ATTACK_2.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Aoede"
+  },
+  {
+    "event": "ATTACK",
+    "phrase": "[intense] Great movement in the final third! Something is going to happen here!",
+    "audio_url": "en/male/ATTACK_3.mp3",
+    "audio_url_male": "en/male/ATTACK_3.mp3",
+    "audio_url_female": "en/female/ATTACK_3.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Zephyr"
+  },
+  {
+    "event": "ATTACK",
+    "phrase": "[focused] The attack continues, looking for the opening!",
+    "audio_url": "en/male/ATTACK_4.mp3",
+    "audio_url_male": "en/male/ATTACK_4.mp3",
+    "audio_url_female": "en/female/ATTACK_4.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Kore"
+  },
+  {
+    "event": "ATTACK",
+    "phrase": "[shouting] Here they come! A real threat on goal!",
+    "audio_url": "en/male/ATTACK_5.mp3",
+    "audio_url_male": "en/male/ATTACK_5.mp3",
+    "audio_url_female": "en/female/ATTACK_5.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Aoede"
+  },
+  {
+    "event": "OFFSIDE",
+    "phrase": "[serious] The flag is up. That's offside.",
+    "audio_url": "en/male/OFFSIDE_1.mp3",
+    "audio_url_male": "en/male/OFFSIDE_1.mp3",
+    "audio_url_female": "en/female/OFFSIDE_1.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Kore"
+  },
+  {
+    "event": "OFFSIDE",
+    "phrase": "[disappointed] Oh no, the linesman raises the flag. Offside!",
+    "audio_url": "en/male/OFFSIDE_2.mp3",
+    "audio_url_male": "en/male/OFFSIDE_2.mp3",
+    "audio_url_female": "en/female/OFFSIDE_2.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Aoede"
+  },
+  {
+    "event": "OFFSIDE",
+    "phrase": "[calm] Caught offside. The attack is stopped.",
+    "audio_url": "en/male/OFFSIDE_3.mp3",
+    "audio_url_male": "en/male/OFFSIDE_3.mp3",
+    "audio_url_female": "en/female/OFFSIDE_3.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Zephyr"
+  },
+  {
+    "event": "OFFSIDE",
+    "phrase": "[groans] Ah, he was just a step too far ahead. Offside.",
+    "audio_url": "en/male/OFFSIDE_4.mp3",
+    "audio_url_male": "en/male/OFFSIDE_4.mp3",
+    "audio_url_female": "en/female/OFFSIDE_4.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Kore"
+  },
+  {
+    "event": "OFFSIDE",
+    "phrase": "[matter-of-fact] The flag goes up. Free kick for the defense.",
+    "audio_url": "en/male/OFFSIDE_5.mp3",
+    "audio_url_male": "en/male/OFFSIDE_5.mp3",
+    "audio_url_female": "en/female/OFFSIDE_5.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Aoede"
+  },
+  {
+    "event": "HALFTIME",
+    "phrase": "[calm] The referee blows the whistle. That's the end of the first half.",
+    "audio_url": "en/male/HALFTIME_1.mp3",
+    "audio_url_male": "en/male/HALFTIME_1.mp3",
+    "audio_url_female": "en/female/HALFTIME_1.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Kore"
+  },
+  {
+    "event": "HALFTIME",
+    "phrase": "[relaxed] And that's half time. A lot to think about for both coaches.",
+    "audio_url": "en/male/HALFTIME_2.mp3",
+    "audio_url_male": "en/male/HALFTIME_2.mp3",
+    "audio_url_female": "en/female/HALFTIME_2.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Aoede"
+  },
+  {
+    "event": "HALFTIME",
+    "phrase": "[cheerful] The first half is over. Time for a short break!",
+    "audio_url": "en/male/HALFTIME_3.mp3",
+    "audio_url_male": "en/male/HALFTIME_3.mp3",
+    "audio_url_female": "en/female/HALFTIME_3.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Zephyr"
+  },
+  {
+    "event": "HALFTIME",
+    "phrase": "[thoughtful] The teams head to the dressing room. What will the second half bring?",
+    "audio_url": "en/male/HALFTIME_4.mp3",
+    "audio_url_male": "en/male/HALFTIME_4.mp3",
+    "audio_url_female": "en/female/HALFTIME_4.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Kore"
+  },
+  {
+    "event": "HALFTIME",
+    "phrase": "[energetic] Half time! What an exciting forty-five minutes!",
+    "audio_url": "en/male/HALFTIME_5.mp3",
+    "audio_url_male": "en/male/HALFTIME_5.mp3",
+    "audio_url_female": "en/female/HALFTIME_5.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Aoede"
+  },
+  {
+    "event": "FULLTIME",
+    "phrase": "[excited] That's the final whistle! The match is over!",
+    "audio_url": "en/male/FULLTIME_1.mp3",
+    "audio_url_male": "en/male/FULLTIME_1.mp3",
+    "audio_url_female": "en/female/FULLTIME_1.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Kore"
+  },
+  {
+    "event": "FULLTIME",
+    "phrase": "[calm] Full time. Thank you for watching this match.",
+    "audio_url": "en/male/FULLTIME_2.mp3",
+    "audio_url_male": "en/male/FULLTIME_2.mp3",
+    "audio_url_female": "en/female/FULLTIME_2.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Aoede"
+  },
+  {
+    "event": "FULLTIME",
+    "phrase": "[energetic] It's all over! What a game we had tonight!",
+    "audio_url": "en/male/FULLTIME_3.mp3",
+    "audio_url_male": "en/male/FULLTIME_3.mp3",
+    "audio_url_female": "en/female/FULLTIME_3.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Zephyr"
+  },
+  {
+    "event": "FULLTIME",
+    "phrase": "[emotional] The referee ends the match. What a performance from both teams!",
+    "audio_url": "en/male/FULLTIME_4.mp3",
+    "audio_url_male": "en/male/FULLTIME_4.mp3",
+    "audio_url_female": "en/female/FULLTIME_4.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Kore"
+  },
+  {
+    "event": "FULLTIME",
+    "phrase": "[cheerful] And that's it! Full time at the stadium!",
+    "audio_url": "en/male/FULLTIME_5.mp3",
+    "audio_url_male": "en/male/FULLTIME_5.mp3",
+    "audio_url_female": "en/female/FULLTIME_5.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Aoede"
+  },
+  {
+    "event": "HOMEWIN",
+    "phrase": "[shouting] Victory for the home side! [excited] The fans are celebrating!",
+    "audio_url": "en/male/HOMEWIN_1.mp3",
+    "audio_url_male": "en/male/HOMEWIN_1.mp3",
+    "audio_url_female": "en/female/HOMEWIN_1.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Kore"
+  },
+  {
+    "event": "HOMEWIN",
+    "phrase": "[cheerful] A fantastic win at home! The crowd is going wild!",
+    "audio_url": "en/male/HOMEWIN_2.mp3",
+    "audio_url_male": "en/male/HOMEWIN_2.mp3",
+    "audio_url_female": "en/female/HOMEWIN_2.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Aoede"
+  },
+  {
+    "event": "HOMEWIN",
+    "phrase": "[excited] The home team wins it! What a night for the supporters!",
+    "audio_url": "en/male/HOMEWIN_3.mp3",
+    "audio_url_male": "en/male/HOMEWIN_3.mp3",
+    "audio_url_female": "en/female/HOMEWIN_3.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Zephyr"
+  },
+  {
+    "event": "HOMEWIN",
+    "phrase": "[emotional] Home win! They gave everything for their fans!",
+    "audio_url": "en/male/HOMEWIN_4.mp3",
+    "audio_url_male": "en/male/HOMEWIN_4.mp3",
+    "audio_url_female": "en/female/HOMEWIN_4.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Kore"
+  },
+  {
+    "event": "HOMEWIN",
+    "phrase": "[energetic] Three points for the home team! A brilliant performance!",
+    "audio_url": "en/male/HOMEWIN_5.mp3",
+    "audio_url_male": "en/male/HOMEWIN_5.mp3",
+    "audio_url_female": "en/female/HOMEWIN_5.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Aoede"
+  },
+  {
+    "event": "AWAYWIN",
+    "phrase": "[excited] The visitors take the win! An amazing result away from home!",
+    "audio_url": "en/male/AWAYWIN_1.mp3",
+    "audio_url_male": "en/male/AWAYWIN_1.mp3",
+    "audio_url_female": "en/female/AWAYWIN_1.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Kore"
+  },
+  {
+    "event": "AWAYWIN",
+    "phrase": "[impressed] Away win! They silenced the stadium tonight!",
+    "audio_url": "en/male/AWAYWIN_2.mp3",
+    "audio_url_male": "en/male/AWAYWIN_2.mp3",
+    "audio_url_female": "en/female/AWAYWIN_2.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Aoede"
+  },
+  {
+    "event": "AWAYWIN",
+    "phrase": "[shouting] A huge victory for the away team! What a performance!",
+    "audio_url": "en/male/AWAYWIN_3.mp3",
+    "audio_url_male": "en/male/AWAYWIN_3.mp3",
+    "audio_url_female": "en/female/AWAYWIN_3.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Zephyr"
+  },
+  {
+    "event": "AWAYWIN",
+    "phrase": "[cheerful] The travelling fans are celebrating! A great win on the road!",
+    "audio_url": "en/male/AWAYWIN_4.mp3",
+    "audio_url_male": "en/male/AWAYWIN_4.mp3",
+    "audio_url_female": "en/female/AWAYWIN_4.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Kore"
+  },
+  {
+    "event": "AWAYWIN",
+    "phrase": "[energetic] Three points on the road! A superb away victory!",
+    "audio_url": "en/male/AWAYWIN_5.mp3",
+    "audio_url_male": "en/male/AWAYWIN_5.mp3",
+    "audio_url_female": "en/female/AWAYWIN_5.mp3",
+    "voice_male": "Fenrir",
+    "voice_female": "Aoede"
+  }
 ]
