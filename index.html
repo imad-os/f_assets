@@ -600,13 +600,15 @@
 
         const enAudioMale = item.audio_en || item.translations?.en?.audio_url_male || `audio/en/male/${id}.mp3`;
         const enAudioFemale = item.audio_en_female || item.translations?.en?.audio_url_female || `audio/en/female/${id}.mp3`;
-        const arAudio = item.audio_ar || item.translations?.ar?.audio_url || `audio/ar/${id}.mp3`;
+        const arAudioMale = item.audio_ar_male || item.translations?.ar?.audio_url_male || item.audio_ar || `audio/ar/male/${id}.mp3`;
+        const arAudioFemale = item.audio_ar_female || item.translations?.ar?.audio_url_female || `audio/ar/female/${id}.mp3`;
         const frAudio = item.audio_fr || item.translations?.fr?.audio_url || `audio/fr/${id}.mp3`;
         const esAudio = item.audio_es || item.translations?.es?.audio_url || `audio/es/${id}.mp3`;
 
         const enFullMale = item.audio_full_url_male || `https://imad-os.github.io/f_assets/${enAudioMale}`;
         const enFullFemale = item.audio_full_url_female || `https://imad-os.github.io/f_assets/${enAudioFemale}`;
-        const arFull = item.audio_full_url_ar || `https://imad-os.github.io/f_assets/${arAudio}`;
+        const arFullMale = item.audio_full_url_ar_male || item.audio_full_url_ar || `https://imad-os.github.io/f_assets/${arAudioMale}`;
+        const arFullFemale = item.audio_full_url_ar_female || `https://imad-os.github.io/f_assets/${arAudioFemale}`;
         const frFull = item.audio_full_url_fr || `https://imad-os.github.io/f_assets/${frAudio}`;
         const esFull = item.audio_full_url_es || `https://imad-os.github.io/f_assets/${esAudio}`;
 
@@ -649,14 +651,20 @@
             <div class="lang-row">
               <div class="lang-row-header">
                 <span class="lang-tag ar">🇸🇦 العربية</span>
-                <span>Arabic Commentator</span>
+                <span>Male & Female (معلق ومعلقة)</span>
               </div>
               <div class="phrase-text rtl">${formatPhrase(arPhrase)}</div>
               <div class="actions-row">
-                <button class="btn-play" onclick="playAudio('${arAudio}', '${id} — Arabic', '${ev}', this)">
-                  ▶ Play Arabic
+                <button class="btn-play" onclick="playAudio('${arAudioMale}', '${id} — Arabic (Male)', '${ev}', this)">
+                  ▶ Play Male (معلق)
                 </button>
-                <button class="btn-play" onclick="copyLink('${arFull}', this)">
+                <button class="btn-play" onclick="copyLink('${arFullMale}', this)">
+                  📋 Copy URL
+                </button>
+                <button class="btn-play" onclick="playAudio('${arAudioFemale}', '${id} — Arabic (Female)', '${ev}', this)">
+                  ▶ Play Female (معلقة)
+                </button>
+                <button class="btn-play" onclick="copyLink('${arFullFemale}', this)">
                   📋 Copy URL
                 </button>
               </div>

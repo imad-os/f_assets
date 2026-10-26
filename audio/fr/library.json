@@ -42,7 +42,7 @@
   {
     "id": "GOAL_1",
     "event": "GOAL",
-    "phrase": "[shouting] Buuuuuuut !!! [excited] Quelle finition ! C'est absolument fantastique !",
+    "phrase": "[shouting] But !!! [excited] Quelle finition ! C'est absolument fantastique !",
     "audio_url": "audio/fr/GOAL_1.mp3",
     "audio_full_url": "https://imad-os.github.io/f_assets/audio/fr/GOAL_1.mp3",
     "wav_url": "audio/fr/GOAL_1.wav"
@@ -50,7 +50,7 @@
   {
     "id": "GOAL_2",
     "event": "GOAL",
-    "phrase": "[screaming] Buuuuuuut ! [laughs] Oh, c'est incroyable ! Quel superbe but !",
+    "phrase": "[screaming] But ! [laughs] Oh, c'est incroyable ! Quel superbe but !",
     "audio_url": "audio/fr/GOAL_2.mp3",
     "audio_full_url": "https://imad-os.github.io/f_assets/audio/fr/GOAL_2.mp3",
     "wav_url": "audio/fr/GOAL_2.wav"
@@ -66,7 +66,7 @@
   {
     "id": "GOAL_4",
     "event": "GOAL",
-    "phrase": "[screaming] Buuuuut, buuuuut ! [breathless] La classe à l'état pur ! Le stade est en ébullition !",
+    "phrase": "[screaming] But, but ! [breathless] La classe à l'état pur ! Le stade est en ébullition !",
     "audio_url": "audio/fr/GOAL_4.mp3",
     "audio_full_url": "https://imad-os.github.io/f_assets/audio/fr/GOAL_4.mp3",
     "wav_url": "audio/fr/GOAL_4.wav"
